@@ -3,320 +3,161 @@
   "data": {
     "name": "Adao",
     "slug": "adao",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Male",
-    "gender_notes": "Adao is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Adao",
+    "normalized_name": "adao",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Man, Lord",
-    "long_meaning": "The meaning of Adao is recorded in name-lists as “Man, Lord”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Adao expresses “Man, Lord”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-a-o",
-    "syllables": 2,
-    "name_length": 4,
-    "transliteration": [
-      "Adao"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Yellow Sapphire",
-    "ruling_planet": "Jupiter",
-    "life_path_number": 3,
-    "numerology_meaning": "In Pythagorean numerology the letters of Adao total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-    "in_hebrew": {
-      "name": "עדא",
-      "meaning": "צורה היבשתית ראשונה של האדם",
-      "long_meaning": "עדא (עברית: עדא) היא צורה היבשתית הראשונה של האדם, על פי הברית החדשה. השם 'עדא' מופיע רק בספר תהלים (פסוק 90:4) וסופר רבי אחא בר חנינא (דברי הימים 2, 23: 4) - 'אדם' (האדם) - (באנגלית: Adam) 'מן האדמה' (Genesis 2:7) - האדם, 'אדם' (באנגלית: Adam) - (Hebrew: אדם) - (Bible: Genesis 2:7, Psalm 90:4) - (Note: 'Adam' in Hebrew is 'אדם')."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "ΑΔΑΜ",
-      "meaning": "ὁ πρῶτος ἄνθρωπος",
-      "long_meaning": "ΑΔΑΜ (Ελληνικά: Αδάμ) - ὁ πρῶτος ἄνθρωπος (באנגלית: the first man) - (Ελληνικά: ὁ πρῶτος ἄνθρωπος) - (Greek: Adam) - (Bible: Genesis 2:7, Matthew 19:4) - (Note: In Greek, 'Adam' is spelled Αδάμ)"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Adam",
-      "meaning": "homo primus",
-      "long_meaning": "Adamus (Latin: Adamus) - homo primus (באנגלית: the first man) - (Latin: Adamus) - (Bible: Genesis 2:7, Vulgata: Matthew 19:4) - (Note: In Latin, 'Adam' is spelled Adamus)"
-    },
-    "in_english": {
-      "name": "Adao",
-      "meaning": "Man, Lord",
-      "long_meaning": "Man, Lord"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "/əˈdeɪoʊ/",
-      "biblical": "Ah-DAH-m",
-      "ipa": "/əˈdeɪoʊ/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Adao"
-    ],
-    "variants": [
-      "Adao"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Adao is used in Biblical naming tradition with the meaning “Man, Lord”.",
-    "spiritual_significance": "Any spiritual significance attached to Adao is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Man, Lord” is the basis of any symbolism attached to Adao; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Genesis",
-      "verse_reference": "Genesis 2:7",
-      "note": "The name Adao is derived from the Hebrew word 'Adam' (אדם), which appears in the Bible as the first man created by God."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Adao."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AdaoMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Adao"
-    ],
-    "monetization": {
-      "ads": {
-        "type": "display",
-        "position": "sidebar"
-      },
-      "affiliate": {
-        "program": "Amazon",
-        "asin": "153621051X"
-      }
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Adao Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Adao has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Adao, Adao name meaning, Adao meaning, Adao origin, Adao root, Adao pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Adao has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Adao name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Adao Name Meaning & Origin | NameVerse",
+      "meta_description": "Adao: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Adao",
-        "Adao name meaning",
-        "Adao meaning",
-        "Adao origin",
-        "Adao root",
-        "Adao pronunciation",
-        "Biblical names"
+        "Adao name meaning"
       ],
-      "focus_keyword": "Adao name meaning",
-      "secondary_keywords": [
-        "Adao meaning",
-        "Adao origin",
-        "Adao pronunciation",
-        "Adao lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Adao mean?",
-          "a": "Name-lists record the meaning as “Man, Lord”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adao verified?",
-          "a": "No. The meaning of Adao could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adao come from?",
-          "a": "The origin of Adao has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Adao Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Adao has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Adao Name Meaning & Origin | NameVerse",
+    "meta_description": "Adao: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Adao",
-      "Adao name meaning",
-      "Adao meaning",
-      "Adao origin",
-      "Adao root",
-      "Adao pronunciation",
-      "Biblical names"
+      "Adao name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Adao has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Adao",
-      "description": "Adao — Man, Lord",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Adao mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Man, Lord”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Adao verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Adao could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Adao come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Adao has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:45.000Z",
-    "tier1_verified": {
-      "name": "Adao",
-      "slug": "adao",
-      "meaning": "Man, Lord",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Adao",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Man, Lord",
-      "long_meaning": "The name Adao is recorded with the meaning “Man, Lord”. Adao is a Biblical name meaning “Man, Lord”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Adao",
-          "meaning": "Man, Lord",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/əˈdeɪoʊ/",
-        "ipa": "/əˈdeɪoʊ/"
-      },
-      "syllables": 2,
-      "name_length": 4,
-      "faqs": [
-        {
-          "q": "What does the name Adao mean?",
-          "a": "Name-lists record the meaning as “Man, Lord”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adao verified?",
-          "a": "No. The meaning of Adao could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adao come from?",
-          "a": "The origin of Adao has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 3,
-        "life_path_number": 3,
-        "ruling_planet": "Jupiter",
-        "lucky_day": "Thursday",
-        "lucky_stone": "Yellow Sapphire",
-        "lucky_colors": [
-          "Yellow",
-          "Gold"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Adao total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:56:17.000Z",
+    "updated_at": "2026-10-03T02:56:17.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -325,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:45.000Z"
+      "processed_at": "2026-10-03T02:56:17.000Z"
     }
   }
 }

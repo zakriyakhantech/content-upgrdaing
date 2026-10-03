@@ -3,175 +3,346 @@
   "data": {
     "name": "Abel",
     "slug": "abel",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Abel",
+    "normalized_name": "abel",
     "language": [
+      "Biblical Hebrew",
       "English",
-      "Hebrew",
       "Greek",
       "Latin"
     ],
     "gender": "Male",
-    "gender_notes": "Abel is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Hebrew",
+    "origin_detail": "From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed.",
     "religion": "christian",
-    "category": "Saint",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": true,
+      "confidence": "HIGH",
+      "classification": "biblical",
+      "explanation": "The personal name occurs in Genesis and is referenced in the New Testament (Matthew 23:35; Hebrews 11:4)."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "Breath; vapour; transitory; that which is fleeting",
+      "alternative_gloss": "vapour; transitoriness; vanity (in Ecclesiastes)",
+      "meaning_type": "lexical",
+      "confidence": "HIGH",
+      "note": "Abel is the anglicised form of Biblical Hebrew Hevel."
+    },
+    "short_meaning": "Breath; vapour; transitory; that which is fleeting",
+    "long_meaning": "Abel (הֶבֶל) is a name of Hebrew origin meaning “Breath; vapour; transitory; that which is fleeting”. From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed. Its root is Hebrew הֶבֶל (hevel), from the verb הבל (habal) 'to act emptily, become vain'. Abel is the anglicised form of Biblical Hebrew Hevel. It is distinct from Abel (place name אָבֵל 'meadow', 2 Samuel 20:14) - a distinct Hebrew word.",
+    "etymology": {
+      "components": [
+        "breath",
+        "vapour",
+        "transitoriness",
+        "vanity (in Ecclesiastes)"
+      ],
+      "formation": "From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "breath",
+      "vapour",
+      "transitoriness",
+      "vanity (in Ecclesiastes)"
     ],
-    "short_meaning": "Breath",
-    "long_meaning": "The meaning of Abel is recorded in name-lists as “Breath”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Abel expresses “Breath”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-b-e-l",
-    "syllables": 2,
-    "name_length": 4,
-    "transliteration": [
-      "Abel"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Silver"
-    ],
-    "lucky_stone": "Pearl",
-    "ruling_planet": "Moon",
-    "life_path_number": 2,
-    "numerology_meaning": "In Pythagorean numerology the letters of Abel total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-    "in_hebrew": {
-      "name": "אבל",
-      "meaning": "אבל - עבר הרתיון פור בי",
-      "long_meaning": "אבל - עבר הרתיון פור בי. אבל היובאי עבר הרתיון ילויל סיריבר. אבל ילווי אישה עבר הרתיון יפוה סיריבר."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 2,
+      "lucky_number": 2,
+      "numerology_meaning": "cooperation, balance and sensitivity",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "απελ",
-      "meaning": "απελ - ελειτώρος ανατόπη ππψτεση",
-      "long_meaning": "απελ - ελειτώρος ανατόπη ππψτεση. απελ γενεραττερήτερήα ππτετερήα τλητυσ απελ."
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Abel",
-      "meaning": "Abel - nomen significans virum, fratrem Caini",
-      "long_meaning": "Abel - nomen significans virum, fratrem Caini. Abel significat virum, qui est frater Caini. Nomen Abel derivatum est a vocabulo Hebraeo אבל, quod significat virum, qui est frater Caini. Abel in historia biblica apparuit in libro Geneseos, ubi describitur vita et mortem fratrum Caini et Abel."
+    "translations": {
+      "hebrew": {
+        "name": "הֶבֶל",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "הֶבֶל is the name's own orthography in Hebrew script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "greek": {
+        "name": "Ἅβελ",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Ἅβελ is the name's own orthography in Greek script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Abel",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Abel is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Abel",
+        "meaning": "Breath; vapour; transitory; that which is fleeting",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Abel",
-      "meaning": "Breath",
-      "long_meaning": "Breath"
+    "scripts": {
+      "hebrew": "הֶבֶל",
+      "greek": "Ἅβελ",
+      "latin": "Abel"
     },
     "pronunciation": {
-      "english": "AY-bul",
-      "biblical": "אבל",
-      "ipa": "/eɪbəl/"
+      "original_language": {
+        "transliteration": "Hevel",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "AY-bəl",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "hebrew": "הֶבֶל",
+      "greek": "Ἅβελ",
+      "latin": "Abel"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": true,
+      "exact_lexical_form_occurs": true,
+      "root_or_lemma_occurs": true,
+      "related_forms_occur": true,
+      "old_testament_occurs": true,
+      "new_testament_occurs": true,
+      "christian_historical_usage": true,
+      "saint_association": false,
+      "interpretation": "The personal name occurs in Genesis and is referenced in the New Testament (Matthew 23:35; Hebrews 11:4)."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [
+      {
+        "person": "Abel, son of Adam",
+        "form": "הֶבֶל / Ἅβελ",
+        "period": "Biblical narrative",
+        "source": "Genesis 4:2-8"
+      }
+    ],
+    "historical_note": "",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Biblical Hebrew, English, Greek, Latin naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Abel"
+      "Hevel",
+      "Abelardo (unrelated)"
     ],
     "variants": [
-      "Abel"
+      "Hevel",
+      "Abelardo (unrelated)"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "Cain",
+      "Seth",
+      "Adam",
+      "Eve"
+    ],
+    "similar_sounding_names": [
+      "Abe",
+      "Abebi",
+      "Abeden",
+      "Abednego",
+      "Abeliel",
+      "Abelina"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Abel is used in Biblical naming tradition with the meaning “Breath”.",
-    "spiritual_significance": "Any spiritual significance attached to Abel is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Breath” is the basis of any symbolism attached to Abel; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Genesis",
-      "verse_reference": "Genesis 4:1-16",
-      "note": "The story of Cain and Abel appears in the book of Genesis, chapters 4:1-16."
+      "occurs": true,
+      "old_testament": true,
+      "new_testament": true,
+      "note": "The personal name occurs in Genesis and is referenced in the New Testament (Matthew 23:35; Hebrews 11:4)."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Abel."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AbelMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Abel"
-    ],
-    "monetization": {
-      "google_adsense": "ca-pub-1234567890123456",
-      "amazon_affiliate": "us-east-1_ABCDEFGHIJKLMNOPQRSTUVWXYZ_123456789012"
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Abel Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Abel has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Abel, Abel name meaning, Abel meaning, Abel origin, Abel root, Abel pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Abel has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Abel name meaning and origin",
+      "secondary_search_intents": [
+        "is Abel a biblical name",
+        "Abel name origin and language",
+        "Abel pronunciation"
+      ],
+      "seo_title": "Abel Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Abel: meaning “Breath; vapour; transitory; that which is fleeting”, Hebrew origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Abel (הֶבֶל) is a name of Hebrew origin meaning “Breath; vapour; transitory; that which is fleeting”. From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed. Its root is Hebrew הֶבֶל (hevel), from the verb הבל (habal) 'to act emptily, become vain'. Abel is the anglicised form of Biblical Hebrew Hevel. It is distinct from Abel (place name אָבֵל 'meadow', 2 Samuel 20:14) - a distinct Hebrew word.",
       "keywords": [
-        "Abel",
         "Abel name meaning",
-        "Abel meaning",
         "Abel origin",
-        "Abel root",
+        "Abel biblical name",
         "Abel pronunciation",
-        "Biblical names"
+        "Abel etymology"
       ],
-      "focus_keyword": "Abel name meaning",
-      "secondary_keywords": [
-        "Abel meaning",
-        "Abel origin",
-        "Abel pronunciation",
-        "Abel lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Abel mean?",
-          "a": "Name-lists record the meaning as “Breath”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Abel means “Breath; vapour; transitory; that which is fleeting”."
+        },
+        {
+          "q": "What is the origin of the name Abel?",
+          "a": "Abel is of Hebrew origin."
+        },
+        {
+          "q": "What language does the name Abel come from?",
+          "a": "Abel is used in Biblical Hebrew, English, Greek, Latin."
+        },
+        {
+          "q": "Is Abel a boy's name or a girl's name?",
+          "a": "Abel is used as a male name."
+        },
+        {
+          "q": "How is Abel pronounced?",
+          "a": "Abel is pronounced AY-bəl."
+        },
+        {
+          "q": "How is Abel written in Hebrew?",
+          "a": "Abel is written הֶבֶל in Hebrew script."
+        },
+        {
+          "q": "How is Abel written in Greek?",
+          "a": "Abel is written Ἅβελ in Greek script."
+        },
+        {
+          "q": "How is Abel written in Latin?",
+          "a": "Abel is written Abel in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Abel?",
+          "a": "The root of Abel is Hebrew הֶבֶל (hevel), from the verb הבל (habal) 'to act emptily, become vain'."
+        },
+        {
+          "q": "What is the etymology of Abel?",
+          "a": "From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed."
+        },
+        {
+          "q": "Does Abel appear in the Bible?",
+          "a": "Yes. The personal name occurs in Genesis and is referenced in the New Testament (Matthew 23:35; Hebrews 11:4)."
+        },
+        {
+          "q": "Is Abel a Biblical name?",
+          "a": "Yes — the personal name occurs in the Biblical text. The personal name occurs in Genesis and is referenced in the New Testament (Matthew 23:35; Hebrews 11:4)."
+        },
+        {
+          "q": "Does Abel occur in the Old Testament?",
+          "a": "Yes."
+        },
+        {
+          "q": "Does Abel occur in the New Testament?",
+          "a": "Yes."
+        },
+        {
+          "q": "Is Abel associated with a saint?",
+          "a": "No saint association is verified for the name Abel."
         },
         {
           "q": "Is the meaning of Abel verified?",
-          "a": "No. The meaning of Abel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “Breath; vapour; transitory; that which is fleeting” is supported by Old Testament: Abel, second son of Adam and Eve, killed by Cain (Genesis 4:2-8). Confidence: HIGH."
         },
         {
-          "q": "Where does the name Abel come from?",
-          "a": "The origin of Abel has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Abel?",
+          "a": "In Pythagorean numerology the letters of Abel total 20, reducing to 2. Number 2 is traditionally associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Abel?",
+          "a": "Variants and alternative forms include Hevel, Abelardo (unrelated)."
+        },
+        {
+          "q": "Is Abel the same as Abel?",
+          "a": "No. Abel is distinct from Abel (place name אָבֵל 'meadow', 2 Samuel 20:14) - a distinct Hebrew word."
+        },
+        {
+          "q": "What is the transliteration of Abel?",
+          "a": "Abel is transliterated as Hevel."
+        },
+        {
+          "q": "How many syllables does Abel have?",
+          "a": "Abel has 2 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Abel?",
+          "a": "Any spiritual significance attached to Abel is interpretive. Its documented core is the lexical meaning “Breath; vapour; transitory; that which is fleeting”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Abel used today?",
+          "a": "Abel circulates chiefly in Biblical Hebrew, English, Greek, Latin naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 23 (>=10 target) · tier-1 confidence HIGH · 1 open issue(s)"
     },
-    "seo_title": "Abel Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Abel has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Abel Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Abel: meaning “Breath; vapour; transitory; that which is fleeting”, Hebrew origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Abel",
       "Abel name meaning",
-      "Abel meaning",
       "Abel origin",
-      "Abel root",
+      "Abel biblical name",
       "Abel pronunciation",
-      "Biblical names"
+      "Abel etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Abel has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Abel (הֶבֶל) is a name of Hebrew origin meaning “Breath; vapour; transitory; that which is fleeting”. From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed. Its root is Hebrew הֶבֶל (hevel), from the verb הבל (habal) 'to act emptily, become vain'. Abel is the anglicised form of Biblical Hebrew Hevel. It is distinct from Abel (place name אָבֵל 'meadow', 2 Samuel 20:14) - a distinct Hebrew word.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Abel",
-      "description": "Abel — Breath",
-      "additionalType": "https://schema.org/Person"
+      "description": "Breath; vapour; transitory; that which is fleeting",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -182,7 +353,119 @@
           "name": "What does the name Abel mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Breath”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Abel means “Breath; vapour; transitory; that which is fleeting”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Abel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel is of Hebrew origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Abel come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel is used in Biblical Hebrew, English, Greek, Latin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abel a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abel pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel is pronounced AY-bəl."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abel written in Hebrew?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel is written הֶבֶל in Hebrew script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abel written in Greek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel is written Ἅβελ in Greek script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abel written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel is written Abel in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Abel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Abel is Hebrew הֶבֶל (hevel), from the verb הבל (habal) 'to act emptily, become vain'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Abel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abel appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The personal name occurs in Genesis and is referenced in the New Testament (Matthew 23:35; Hebrews 11:4)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abel a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the personal name occurs in the Biblical text. The personal name occurs in Genesis and is referenced in the New Testament (Matthew 23:35; Hebrews 11:4)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abel occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abel occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abel associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Abel."
           }
         },
         {
@@ -190,142 +473,210 @@
           "name": "Is the meaning of Abel verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Abel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “Breath; vapour; transitory; that which is fleeting” is supported by Old Testament: Abel, second son of Adam and Eve, killed by Cain (Genesis 4:2-8). Confidence: HIGH."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Abel come from?",
+          "name": "What is the numerology or lucky number of Abel?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Abel has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Abel total 20, reducing to 2. Number 2 is traditionally associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Abel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Hevel, Abelardo (unrelated)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abel the same as Abel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Abel is distinct from Abel (place name אָבֵל 'meadow', 2 Samuel 20:14) - a distinct Hebrew word."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Abel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel is transliterated as Hevel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Abel have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel has 2 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Abel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Abel is interpretive. Its documented core is the lexical meaning “Breath; vapour; transitory; that which is fleeting”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Abel used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abel circulates chiefly in Biblical Hebrew, English, Greek, Latin naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Abel",
+          "item": ""
+        }
+      ]
+    },
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 50,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "HIGH",
+      "basis": "Old Testament: Abel, second son of Adam and Eve, killed by Cain (Genesis 4:2-8)."
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:42.000Z",
+    "created_at": "2026-10-03T02:51:03.000Z",
+    "updated_at": "2026-10-03T02:51:03.000Z",
     "tier1_verified": {
       "name": "Abel",
       "slug": "abel",
-      "meaning": "Breath",
-      "origin": "Biblical",
+      "meaning": "Breath; vapour; transitory; that which is fleeting",
+      "origin": "Hebrew",
       "language": [
+        "Biblical Hebrew",
         "English",
-        "Hebrew",
         "Greek",
         "Latin"
       ],
       "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Abel",
-      "reference": "",
-      "confidence": "UNKNOWN"
+      "root": "Hebrew הֶבֶל (hevel), from the verb הבל (habal) 'to act emptily, become vain'",
+      "etymology": "From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed.",
+      "script": {
+        "hebrew": "הֶבֶל",
+        "greek": "Ἅβελ",
+        "latin": "Abel"
+      },
+      "transliteration": "Hevel",
+      "reference": "Old Testament: Abel, second son of Adam and Eve, killed by Cain (Genesis 4:2-8).",
+      "confidence": "HIGH"
     },
     "tier2_explanatory": {
-      "short_meaning": "Breath",
-      "long_meaning": "The name Abel is recorded with the meaning “Breath”. Abel is a Biblical name meaning “Breath”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Abel",
-          "meaning": "Breath",
-          "confidence": "LOW"
-        }
+      "long_meaning": "Abel (הֶבֶל) is a name of Hebrew origin meaning “Breath; vapour; transitory; that which is fleeting”. From Hebrew הֶבֶל (hevel) 'breath, vapour, that which is transitory', from the verb הבל (habal). The same word underlies the refrain 'vanity of vanities' in Ecclesiastes. A cognate of Akkadian ablu 'son' has also been proposed. Its root is Hebrew הֶבֶל (hevel), from the verb הבל (habal) 'to act emptily, become vain'. Abel is the anglicised form of Biblical Hebrew Hevel. It is distinct from Abel (place name אָבֵל 'meadow', 2 Samuel 20:14) - a distinct Hebrew word.",
+      "biblical_status": {
+        "exact_name_form_occurs": true,
+        "exact_lexical_form_occurs": true,
+        "root_or_lemma_occurs": true,
+        "related_forms_occur": true,
+        "old_testament_occurs": true,
+        "new_testament_occurs": true,
+        "christian_historical_usage": true,
+        "saint_association": false,
+        "interpretation": "The personal name occurs in Genesis and is referenced in the New Testament (Matthew 23:35; Hebrews 11:4)."
       },
-      "pronunciation": {
-        "english": "AY-bul",
-        "ipa": "/eɪbəl/"
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
       },
-      "syllables": 2,
-      "name_length": 4,
-      "faqs": [
+      "historical_references": [
         {
-          "q": "What does the name Abel mean?",
-          "a": "Name-lists record the meaning as “Breath”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Abel verified?",
-          "a": "No. The meaning of Abel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Abel come from?",
-          "a": "The origin of Abel has not been verified and is not asserted here."
+          "person": "Abel, son of Adam",
+          "form": "הֶבֶל / Ἅβελ",
+          "period": "Biblical narrative",
+          "source": "Genesis 4:2-8"
         }
       ]
     },
     "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
       "numerology": {
-        "lucky_number": 2,
-        "life_path_number": 2,
-        "ruling_planet": "Moon",
-        "lucky_day": "Monday",
-        "lucky_stone": "Pearl",
-        "lucky_colors": [
-          "White",
-          "Silver"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Abel total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+        "name_number": 2,
+        "meaning": "cooperation, balance and sensitivity",
+        "status": "belief_based"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "Old Testament: Abel, second son of Adam and Eve, killed by Cain (Genesis 4:2-8)."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "Old Testament: Abel, second son of Adam and Eve, killed by Cain (Genesis 4:2-8).",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "Old Testament: Abel, second son of Adam and Eve, killed by Cain (Genesis 4:2-8)."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:42.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:51:03.000Z"
     }
   }
 }

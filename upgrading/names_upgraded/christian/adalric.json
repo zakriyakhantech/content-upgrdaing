@@ -3,312 +3,161 @@
   "data": {
     "name": "Adalric",
     "slug": "adalric",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Male",
-    "gender_notes": "Adalric is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Adalric",
+    "normalized_name": "adalric",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Virtue",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Noble ruler",
-    "long_meaning": "The meaning of Adalric is recorded in name-lists as “Noble ruler”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Adalric expresses “Noble ruler”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-a-l-r-i-c",
-    "syllables": 3,
-    "name_length": 7,
-    "transliteration": [
-      "Adalric"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Yellow Sapphire",
-    "ruling_planet": "Jupiter",
-    "life_path_number": 3,
-    "numerology_meaning": "In Pythagorean numerology the letters of Adalric total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-    "in_hebrew": {
-      "name": "אדלריק",
-      "meaning": "אדלריק - אדוני הרקיעים, שליט עשיר",
-      "long_meaning": "אדלריק הוא שם שמקורו בגרמנית ומורכב משני שמות עבריים - 'אדון' (אדל) שפירושו 'אדוני' או 'ריבונו', ו-'ריק' (ריק) שפירושו 'עשיר' או 'שלטון'. לכן, ניתן לפרש את השם אדלריק כ'אדוני הרקיעים' או 'שליט עשיר'. השם משקף את מעמדו הרם ואת עושרו הרוחני של הנושא אותו."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αδαλρίκος",
-      "meaning": "Αδαλρίκος - Κύριος πλούσιος, ισχυρός",
-      "long_meaning": "Ο Αδαλρίκος είναι σύνθετο όνομα με Γερμανική προέλευση, αποτελούμενο από δύο λέξεις - 'Αδάλ' (από το γερμανικό 'adal', που σημαίνει 'ευγενής') και 'Ρικ' (από το γερμανικό 'ric', που σημαίνει 'πλούσιος' ή 'δυνατός'). Το όνομα αυτό μπορεί να ερμηνευτεί ως 'Κύριος πλούσιος' ή 'ισχυρός Κύριος', αντανακλώντας την πνευματική πλούτο και την υψηλή θέση του ονομάζοντος."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Adalricus",
-      "meaning": "Adalricus - Dominus dives, potens",
-      "long_meaning": "Nomen Adalricus origine Germanica ortum est, compositum ex duobus vocabulis - 'adal' (quod significat 'nobilis') et 'ric' (quod significat 'dives' aut 'potens'). Itaque, nomen Adalricus interpretari potest ut 'Dominus dives' vel 'potens Dominus', significans spiritualem divitiam et eminentem dignitatem eius qui hoc nomine appellatur."
-    },
-    "in_english": {
-      "name": "Adalric",
-      "meaning": "Noble ruler",
-      "long_meaning": "Noble ruler"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AD-al-rick",
-      "ipa": "/ˈædəlrɪk/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Adalric"
-    ],
-    "variants": [
-      "Adalric"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Adalric is used in Biblical naming tradition with the meaning “Noble ruler”.",
-    "spiritual_significance": "Any spiritual significance attached to Adalric is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Noble ruler” is the basis of any symbolism attached to Adalric; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Adalric."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AdalricMeaning",
-      "#ChristianBabyNames",
-      "#GermanicNames",
-      "#NobleNames"
-    ],
-    "monetization": {
-      "ad_placement": "bottom",
-      "ad_type": "image"
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Adalric Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Adalric has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Adalric, Adalric name meaning, Adalric meaning, Adalric origin, Adalric root, Adalric pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Adalric has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Adalric name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Adalric Name Meaning & Origin | NameVerse",
+      "meta_description": "Adalric: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Adalric",
-        "Adalric name meaning",
-        "Adalric meaning",
-        "Adalric origin",
-        "Adalric root",
-        "Adalric pronunciation",
-        "Biblical names"
+        "Adalric name meaning"
       ],
-      "focus_keyword": "Adalric name meaning",
-      "secondary_keywords": [
-        "Adalric meaning",
-        "Adalric origin",
-        "Adalric pronunciation",
-        "Adalric lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Adalric mean?",
-          "a": "Name-lists record the meaning as “Noble ruler”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adalric verified?",
-          "a": "No. The meaning of Adalric could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adalric come from?",
-          "a": "The origin of Adalric has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Adalric Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Adalric has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Adalric Name Meaning & Origin | NameVerse",
+    "meta_description": "Adalric: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Adalric",
-      "Adalric name meaning",
-      "Adalric meaning",
-      "Adalric origin",
-      "Adalric root",
-      "Adalric pronunciation",
-      "Biblical names"
+      "Adalric name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Adalric has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Adalric",
-      "description": "Adalric — Noble ruler",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Adalric mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Noble ruler”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Adalric verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Adalric could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Adalric come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Adalric has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:44.000Z",
-    "tier1_verified": {
-      "name": "Adalric",
-      "slug": "adalric",
-      "meaning": "Noble ruler",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Adalric",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Noble ruler",
-      "long_meaning": "The name Adalric is recorded with the meaning “Noble ruler”. Adalric is a Biblical name meaning “Noble ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Adalric",
-          "meaning": "Noble ruler",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AD-al-rick",
-        "ipa": "/ˈædəlrɪk/"
-      },
-      "syllables": 3,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Adalric mean?",
-          "a": "Name-lists record the meaning as “Noble ruler”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adalric verified?",
-          "a": "No. The meaning of Adalric could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adalric come from?",
-          "a": "The origin of Adalric has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 3,
-        "life_path_number": 3,
-        "ruling_planet": "Jupiter",
-        "lucky_day": "Thursday",
-        "lucky_stone": "Yellow Sapphire",
-        "lucky_colors": [
-          "Yellow",
-          "Gold"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Adalric total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:56:11.000Z",
+    "updated_at": "2026-10-03T02:56:11.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -317,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:44.000Z"
+      "processed_at": "2026-10-03T02:56:11.000Z"
     }
   }
 }

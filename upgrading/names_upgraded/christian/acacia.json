@@ -3,171 +3,315 @@
   "data": {
     "name": "Acacia",
     "slug": "acacia",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Acacia",
+    "normalized_name": "acacia",
     "language": [
+      "Ancient Greek",
       "English",
-      "Greek",
       "Latin"
     ],
-    "gender": "Unisex",
-    "gender_notes": "Acacia is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender": "Female",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Greek",
+    "origin_detail": "From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant.",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": false,
+      "confidence": "HIGH",
+      "classification": "not_christian_in_origin",
+      "explanation": "The name does not occur in the Bible. The acacia tree (shittah) is mentioned in the Hebrew Bible, but the Greek-derived personal name is not a Biblical name."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "Thorny; the acacia tree",
+      "alternative_gloss": "the acacia plant",
+      "meaning_type": "lexical",
+      "confidence": "HIGH",
+      "note": "Acacia is a Greek plant name, not a Biblical personal name."
+    },
+    "short_meaning": "Thorny; the acacia tree",
+    "long_meaning": "Acacia (ἀκακία) is a name of Greek origin meaning “Thorny; the acacia tree”. From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant. Its root is Greek ἀκακία (akakia), from ἄκη (ake) / ἀκίς (akis) 'point, thorn'. Acacia is a Greek plant name, not a Biblical personal name.",
+    "etymology": {
+      "components": [
+        "thorny",
+        "the acacia plant"
+      ],
+      "formation": "From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "thorny",
+      "the acacia plant"
     ],
-    "short_meaning": "Thorny tree",
-    "long_meaning": "The meaning of Acacia is recorded in name-lists as “Thorny tree”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Acacia expresses “Thorny tree”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-c-a-c-i-a",
-    "syllables": 3,
-    "name_length": 6,
-    "transliteration": [
-      "Acacia"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Acacia total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_hebrew": {
-      "name": "אקסייה",
-      "meaning": "thorny",
-      "long_meaning": "A tree with sharp thorns, often used symbolically for trials and tribulations."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 9,
+      "lucky_number": 9,
+      "numerology_meaning": "compassion, idealism and completion",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Ακακία",
-      "meaning": "thorn",
-      "long_meaning": "A tree with sharp thorns, often used symbolically for trials and tribulations."
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Acacia",
-      "meaning": "thorn",
-      "long_meaning": "A tree with sharp thorns, often used symbolically for trials and tribulations."
+    "translations": {
+      "hebrew": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Hebrew form is established for this name."
+      },
+      "greek": {
+        "name": "ἀκακία",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "ἀκακία is the name's own orthography in Greek script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Acacia",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Acacia is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Acacia",
+        "meaning": "Thorny; the acacia tree",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Acacia",
-      "meaning": "Thorny tree",
-      "long_meaning": "Thorny tree"
+    "scripts": {
+      "greek": "ἀκακία",
+      "latin": "Acacia"
     },
     "pronunciation": {
-      "english": "/əˈkæsi.ə/, /ˈækæsi.ə/",
-      "biblical": "/əˈkæsjə/",
-      "ipa": "əˈkæsjə"
+      "original_language": {
+        "transliteration": "Akakía",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "ə-KAY-shə",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "greek": "ἀκακία",
+      "latin": "Acacia"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": false,
+      "exact_lexical_form_occurs": false,
+      "root_or_lemma_occurs": false,
+      "related_forms_occur": false,
+      "old_testament_occurs": false,
+      "new_testament_occurs": false,
+      "christian_historical_usage": false,
+      "saint_association": false,
+      "interpretation": "The name does not occur in the Bible. The acacia tree (shittah) is mentioned in the Hebrew Bible, but the Greek-derived personal name is not a Biblical name."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified; the name is a modern adoption of a plant name.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Ancient Greek, English, Latin naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Acacia"
+      "Akakia"
     ],
     "variants": [
-      "Acacia"
+      "Akakia"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "Cassia",
+      "Juniper"
+    ],
+    "similar_sounding_names": [
+      "Acalia"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Acacia is used in Biblical naming tradition with the meaning “Thorny tree”.",
-    "spiritual_significance": "Any spiritual significance attached to Acacia is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Thorny tree” is the basis of any symbolism attached to Acacia; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Isaiah 41:19",
-      "verse_reference": "Be desolate, O ye inhabitants of the earth; and be broken in pieces; and give all your press for wine; because I will tread down the multitude in my fury, and trample them in my fierce anger, and tread them down, and make man like the mud of the streets.",
-      "note": "The acacia tree is mentioned symbolically in this verse, representing the people of Israel who will be 'tread down' and 'trampled' by God's wrath."
+      "occurs": false,
+      "old_testament": false,
+      "new_testament": false,
+      "note": "The name does not occur in the Bible. The acacia tree (shittah) is mentioned in the Hebrew Bible, but the Greek-derived personal name is not a Biblical name."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Acacia."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AcaciaNameMeaning",
-      "#ChristianBabyNames"
-    ],
-    "monetization": {
-      "ads": true,
-      "affiliates": true
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Acacia Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Acacia has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Acacia, Acacia name meaning, Acacia meaning, Acacia origin, Acacia root, Acacia pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Acacia has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Acacia name meaning and origin",
+      "secondary_search_intents": [
+        "is Acacia a biblical name",
+        "Acacia name origin and language",
+        "Acacia pronunciation"
+      ],
+      "seo_title": "Acacia Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Acacia: meaning “Thorny; the acacia tree”, Greek origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Acacia (ἀκακία) is a name of Greek origin meaning “Thorny; the acacia tree”. From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant. Its root is Greek ἀκακία (akakia), from ἄκη (ake) / ἀκίς (akis) 'point, thorn'. Acacia is a Greek plant name, not a Biblical personal name.",
       "keywords": [
-        "Acacia",
         "Acacia name meaning",
-        "Acacia meaning",
         "Acacia origin",
-        "Acacia root",
+        "Acacia biblical name",
         "Acacia pronunciation",
-        "Biblical names"
+        "Acacia etymology"
       ],
-      "focus_keyword": "Acacia name meaning",
-      "secondary_keywords": [
-        "Acacia meaning",
-        "Acacia origin",
-        "Acacia pronunciation",
-        "Acacia lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Acacia mean?",
-          "a": "Name-lists record the meaning as “Thorny tree”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Acacia means “Thorny; the acacia tree”."
+        },
+        {
+          "q": "What is the origin of the name Acacia?",
+          "a": "Acacia is of Greek origin."
+        },
+        {
+          "q": "What language does the name Acacia come from?",
+          "a": "Acacia is used in Ancient Greek, English, Latin."
+        },
+        {
+          "q": "Is Acacia a boy's name or a girl's name?",
+          "a": "Acacia is used as a female name."
+        },
+        {
+          "q": "How is Acacia pronounced?",
+          "a": "Acacia is pronounced ə-KAY-shə."
+        },
+        {
+          "q": "How is Acacia written in Greek?",
+          "a": "Acacia is written ἀκακία in Greek script."
+        },
+        {
+          "q": "How is Acacia written in Latin?",
+          "a": "Acacia is written Acacia in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Acacia?",
+          "a": "The root of Acacia is Greek ἀκακία (akakia), from ἄκη (ake) / ἀκίς (akis) 'point, thorn'."
+        },
+        {
+          "q": "What is the etymology of Acacia?",
+          "a": "From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant."
+        },
+        {
+          "q": "Does Acacia appear in the Bible?",
+          "a": "No. The name does not occur in the Bible. The acacia tree (shittah) is mentioned in the Hebrew Bible, but the Greek-derived personal name is not a Biblical name."
+        },
+        {
+          "q": "Is Acacia a Biblical name?",
+          "a": "No. Acacia is not a Biblical personal name; it is of Greek origin."
+        },
+        {
+          "q": "Does Acacia occur in the Old Testament?",
+          "a": "No — it is not attested in the Old Testament."
+        },
+        {
+          "q": "Does Acacia occur in the New Testament?",
+          "a": "No — it is not attested in the New Testament."
+        },
+        {
+          "q": "Is Acacia associated with a saint?",
+          "a": "No saint association is verified for the name Acacia."
         },
         {
           "q": "Is the meaning of Acacia verified?",
-          "a": "No. The meaning of Acacia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “Thorny; the acacia tree” is supported by A plant name of Greek origin; the acacia (shittah) wood is mentioned in the Hebrew Bible (Exodus 25:10). Confidence: HIGH."
         },
         {
-          "q": "Where does the name Acacia come from?",
-          "a": "The origin of Acacia has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Acacia?",
+          "a": "In Pythagorean numerology the letters of Acacia total 18, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Acacia?",
+          "a": "Variants and alternative forms include Akakia."
+        },
+        {
+          "q": "What is the transliteration of Acacia?",
+          "a": "Acacia is transliterated as Akakía."
+        },
+        {
+          "q": "How many syllables does Acacia have?",
+          "a": "Acacia has 3 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Acacia?",
+          "a": "Any spiritual significance attached to Acacia is interpretive. Its documented core is the lexical meaning “Thorny; the acacia tree”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Acacia used today?",
+          "a": "Acacia circulates chiefly in Ancient Greek, English, Latin naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 21 (>=10 target) · tier-1 confidence HIGH · 0 open issue(s)"
     },
-    "seo_title": "Acacia Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Acacia has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Acacia Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Acacia: meaning “Thorny; the acacia tree”, Greek origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Acacia",
       "Acacia name meaning",
-      "Acacia meaning",
       "Acacia origin",
-      "Acacia root",
+      "Acacia biblical name",
       "Acacia pronunciation",
-      "Biblical names"
+      "Acacia etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Acacia has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Acacia (ἀκακία) is a name of Greek origin meaning “Thorny; the acacia tree”. From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant. Its root is Greek ἀκακία (akakia), from ἄκη (ake) / ἀκίς (akis) 'point, thorn'. Acacia is a Greek plant name, not a Biblical personal name.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Acacia",
-      "description": "Acacia — Thorny tree",
-      "additionalType": "https://schema.org/Person"
+      "description": "Thorny; the acacia tree",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -178,7 +322,111 @@
           "name": "What does the name Acacia mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Thorny tree”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Acacia means “Thorny; the acacia tree”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Acacia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia is of Greek origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Acacia come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia is used in Ancient Greek, English, Latin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Acacia a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia is used as a female name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Acacia pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia is pronounced ə-KAY-shə."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Acacia written in Greek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia is written ἀκακία in Greek script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Acacia written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia is written Acacia in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Acacia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Acacia is Greek ἀκακία (akakia), from ἄκη (ake) / ἀκίς (akis) 'point, thorn'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Acacia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Acacia appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The name does not occur in the Bible. The acacia tree (shittah) is mentioned in the Hebrew Bible, but the Greek-derived personal name is not a Biblical name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Acacia a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Acacia is not a Biblical personal name; it is of Greek origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Acacia occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the Old Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Acacia occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the New Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Acacia associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Acacia."
           }
         },
         {
@@ -186,141 +434,193 @@
           "name": "Is the meaning of Acacia verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Acacia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “Thorny; the acacia tree” is supported by A plant name of Greek origin; the acacia (shittah) wood is mentioned in the Hebrew Bible (Exodus 25:10). Confidence: HIGH."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Acacia come from?",
+          "name": "What is the numerology or lucky number of Acacia?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Acacia has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Acacia total 18, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Acacia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Akakia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Acacia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia is transliterated as Akakía."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Acacia have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia has 3 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Acacia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Acacia is interpretive. Its documented core is the lexical meaning “Thorny; the acacia tree”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Acacia used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acacia circulates chiefly in Ancient Greek, English, Latin naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
-    },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:43.000Z",
-    "tier1_verified": {
-      "name": "Acacia",
-      "slug": "acacia",
-      "meaning": "Thorny tree",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Acacia",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Thorny tree",
-      "long_meaning": "The name Acacia is recorded with the meaning “Thorny tree”. Acacia is a Biblical name meaning “Thorny tree”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
           "name": "Acacia",
-          "meaning": "Thorny tree",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/əˈkæsi.ə/, /ˈækæsi.ə/",
-        "ipa": "əˈkæsjə"
-      },
-      "syllables": 3,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "What does the name Acacia mean?",
-          "a": "Name-lists record the meaning as “Thorny tree”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Acacia verified?",
-          "a": "No. The meaning of Acacia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Acacia come from?",
-          "a": "The origin of Acacia has not been verified and is not asserted here."
+          "item": ""
         }
       ]
     },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Acacia total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+    "advanced_seo": {
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
+      }
+    },
+    "confidence": {
+      "overall": "HIGH",
+      "basis": "A plant name of Greek origin; the acacia (shittah) wood is mentioned in the Hebrew Bible (Exodus 25:10)."
+    },
+    "data_quality": {
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
+    },
+    "created_at": "2026-10-03T02:51:17.000Z",
+    "updated_at": "2026-10-03T02:51:17.000Z",
+    "tier1_verified": {
+      "name": "Acacia",
+      "slug": "acacia",
+      "meaning": "Thorny; the acacia tree",
+      "origin": "Greek",
+      "language": [
+        "Ancient Greek",
+        "English",
+        "Latin"
+      ],
+      "gender": "Female",
+      "root": "Greek ἀκακία (akakia), from ἄκη (ake) / ἀκίς (akis) 'point, thorn'",
+      "etymology": "From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant.",
+      "script": {
+        "greek": "ἀκακία",
+        "latin": "Acacia"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "transliteration": "Akakía",
+      "reference": "A plant name of Greek origin; the acacia (shittah) wood is mentioned in the Hebrew Bible (Exodus 25:10).",
+      "confidence": "HIGH"
+    },
+    "tier2_explanatory": {
+      "long_meaning": "Acacia (ἀκακία) is a name of Greek origin meaning “Thorny; the acacia tree”. From Greek ἀκακία (akakia), derived from ἀκίς (akis) 'point, thorn', referring to the thorny acacia plant. Its root is Greek ἀκακία (akakia), from ἄκη (ake) / ἀκίς (akis) 'point, thorn'. Acacia is a Greek plant name, not a Biblical personal name.",
+      "biblical_status": {
+        "exact_name_form_occurs": false,
+        "exact_lexical_form_occurs": false,
+        "root_or_lemma_occurs": false,
+        "related_forms_occur": false,
+        "old_testament_occurs": false,
+        "new_testament_occurs": false,
+        "christian_historical_usage": false,
+        "saint_association": false,
+        "interpretation": "The name does not occur in the Bible. The acacia tree (shittah) is mentioned in the Hebrew Bible, but the Greek-derived personal name is not a Biblical name."
+      },
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
+      },
+      "historical_references": []
+    },
+    "tier3_interpretive": {
+      "numerology": {
+        "name_number": 9,
+        "meaning": "compassion, idealism and completion",
+        "status": "belief_based"
+      },
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "A plant name of Greek origin; the acacia (shittah) wood is mentioned in the Hebrew Bible (Exodus 25:10)."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "A plant name of Greek origin; the acacia (shittah) wood is mentioned in the Hebrew Bible (Exodus 25:10).",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "A plant name of Greek origin; the acacia (shittah) wood is mentioned in the Hebrew Bible (Exodus 25:10)."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:43.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:51:17.000Z"
     }
   }
 }

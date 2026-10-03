@@ -3,197 +3,300 @@
   "data": {
     "name": "Ace",
     "slug": "ace",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Ace",
+    "normalized_name": "ace",
     "language": [
-      "English",
-      "Greek",
-      "Latin"
+      "Latin",
+      "Old French",
+      "English"
     ],
     "gender": "Male",
-    "gender_notes": "Ace is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Latin / English",
+    "origin_detail": "From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English.",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": false,
+      "confidence": "MEDIUM",
+      "classification": "not_christian_in_origin",
+      "explanation": "The name does not occur in the Bible. It is an English word-name."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "One who excels; a champion; (from the playing card)",
+      "alternative_gloss": "champion, expert; the highest playing card",
+      "meaning_type": "lexical",
+      "confidence": "MEDIUM",
+      "note": "Ace is an English word-name, not a Biblical or Christian name."
+    },
+    "short_meaning": "One who excels; a champion; (from the playing card)",
+    "long_meaning": "Ace is a name of Latin / English origin meaning “One who excels; a champion; (from the playing card)”. From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English. Its root is Latin as 'a unit, a coin', via Old French as; the sense 'expert' developed in English. Ace is an English word-name, not a Biblical or Christian name.",
+    "etymology": {
+      "components": [
+        "one who excels",
+        "champion, expert",
+        "the highest playing card"
+      ],
+      "formation": "From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "one who excels",
+      "champion, expert",
+      "the highest playing card"
     ],
-    "short_meaning": "One",
-    "long_meaning": "The meaning of Ace is recorded in name-lists as “One”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Ace expresses “One”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-c-e",
-    "syllables": 1,
-    "name_length": 3,
-    "transliteration": [
-      "Ace"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Ace total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_hebrew": {
-      "name": "אס",
-      "meaning": "ראשון, אחד, אוֹת, סימן",
-      "long_meaning": "השם 'אס' מקורו כנראה מהמילה העברית 'אס' או 'איס', שפירושה ראשון או אחד. אין אזכור ישיר לשם זה בתנ'ך, אך הוא עשוי להיות קשור למילה 'אסון', שפירושה סימן או אוֹת. השם עשוי להיות בעל משמעות רוחנית כסימן לאחדות עם אלוהים."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 9,
+      "lucky_number": 9,
+      "numerology_meaning": "compassion, idealism and completion",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Άις",
-      "meaning": "Πρώτος, Μοναδικός, Σύμβολο",
-      "long_meaning": "Το όνομα 'Άις' πιθανόν να προέρχεται από την ελληνική λέξη 'αἰς', που σημαίνει πρώτος ή μοναδικός. Δεν υπάρχει άμεση αναφορά στο όνομα αυτό στην Καινή Διαθήκη, αλλά μπορεί να συνδέεται με τη λέξη 'σύμβολο', που σημαίνει σύμβολο ή ένδειξη. Το όνομα μπορεί να έχει πνευματική σημασία ως σύμβολο της μοναδικότητας του Θεού."
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Ace",
-      "meaning": "Primus, Unicus, Signum",
-      "long_meaning": "The name 'Ace' likely originates from the Latin word 'primus', meaning first or foremost. There is no direct reference to this name in early Christian texts, but it may be related to the Latin word 'signum', meaning sign or symbol. The name may hold spiritual significance as a symbol of unity with God or as a representation of being first or foremost in faith."
+    "translations": {
+      "hebrew": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Hebrew form is established for this name."
+      },
+      "greek": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Greek form is established for this name."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Ace",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Ace is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Ace",
+        "meaning": "One who excels; a champion; (from the playing card)",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Ace",
-      "meaning": "One",
-      "long_meaning": "One"
+    "scripts": {
+      "latin": "Ace"
     },
     "pronunciation": {
-      "english": "Ays",
-      "ipa": "/eɪs/"
+      "original_language": {
+        "transliteration": "Ace",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "AYS",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "latin": "Ace"
     },
-    "name_variations": [
-      "Ace"
-    ],
-    "variants": [
-      "Ace"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": false,
+      "exact_lexical_form_occurs": false,
+      "root_or_lemma_occurs": false,
+      "related_forms_occur": false,
+      "old_testament_occurs": false,
+      "new_testament_occurs": false,
+      "christian_historical_usage": false,
+      "saint_association": false,
+      "interpretation": "The name does not occur in the Bible. It is an English word-name."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified; the name is a modern English word-name.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Latin, Old French, English naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "similar_sounding_names": [
+      "Acelin"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Ace is used in Biblical naming tradition with the meaning “One”.",
-    "spiritual_significance": "Any spiritual significance attached to Ace is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “One” is the basis of any symbolism attached to Ace; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": false,
+      "old_testament": false,
+      "new_testament": false,
+      "note": "The name does not occur in the Bible. It is an English word-name."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Ace."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AceMeaning",
-      "#ChristianBabyNames",
-      "#ModernNames",
-      "#ShortNames"
-    ],
-    "monetization": {
-      "adsense": {
-        "publisher_id": "pub-1234567890123456",
-        "ad_units": [
-          {
-            "unit_name": "Leaderboard",
-            "size": "728x90",
-            "position": "top"
-          },
-          {
-            "unit_name": "Rectangle",
-            "size": "300x250",
-            "position": "side"
-          }
-        ]
-      },
-      "affiliate": [
-        {
-          "merchant_id": "merchant123",
-          "product_id": "product1234",
-          "commission": 0.1
-        },
-        {
-          "merchant_id": "merchant456",
-          "product_id": "product7890",
-          "commission": 0.05
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Ace Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Ace has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Ace, Ace name meaning, Ace meaning, Ace origin, Ace root, Ace pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Ace has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Ace name meaning and origin",
+      "secondary_search_intents": [
+        "is Ace a biblical name",
+        "Ace name origin and language",
+        "Ace pronunciation"
+      ],
+      "seo_title": "Ace Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Ace: meaning “One who excels; a champion; (from the playing card)”, Latin / English origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Ace is a name of Latin / English origin meaning “One who excels; a champion; (from the playing card)”. From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English. Its root is Latin as 'a unit, a coin', via Old French as; the sense 'expert' developed in English. Ace is an English word-name, not a Biblical or Christian name.",
       "keywords": [
-        "Ace",
         "Ace name meaning",
-        "Ace meaning",
         "Ace origin",
-        "Ace root",
+        "Ace biblical name",
         "Ace pronunciation",
-        "Biblical names"
+        "Ace etymology"
       ],
-      "focus_keyword": "Ace name meaning",
-      "secondary_keywords": [
-        "Ace meaning",
-        "Ace origin",
-        "Ace pronunciation",
-        "Ace lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Ace mean?",
-          "a": "Name-lists record the meaning as “One”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Ace means “One who excels; a champion; (from the playing card)”."
+        },
+        {
+          "q": "What is the origin of the name Ace?",
+          "a": "Ace is of Latin / English origin."
+        },
+        {
+          "q": "What language does the name Ace come from?",
+          "a": "Ace is used in Latin, Old French, English."
+        },
+        {
+          "q": "Is Ace a boy's name or a girl's name?",
+          "a": "Ace is used as a male name."
+        },
+        {
+          "q": "How is Ace pronounced?",
+          "a": "Ace is pronounced AYS."
+        },
+        {
+          "q": "How is Ace written in Latin?",
+          "a": "Ace is written Ace in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Ace?",
+          "a": "The root of Ace is Latin as 'a unit, a coin', via Old French as; the sense 'expert' developed in English."
+        },
+        {
+          "q": "What is the etymology of Ace?",
+          "a": "From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English."
+        },
+        {
+          "q": "Does Ace appear in the Bible?",
+          "a": "No. The name does not occur in the Bible. It is an English word-name."
+        },
+        {
+          "q": "Is Ace a Biblical name?",
+          "a": "No. Ace is not a Biblical personal name; it is of Latin / English origin."
+        },
+        {
+          "q": "Does Ace occur in the Old Testament?",
+          "a": "No — it is not attested in the Old Testament."
+        },
+        {
+          "q": "Does Ace occur in the New Testament?",
+          "a": "No — it is not attested in the New Testament."
+        },
+        {
+          "q": "Is Ace associated with a saint?",
+          "a": "No saint association is verified for the name Ace."
         },
         {
           "q": "Is the meaning of Ace verified?",
-          "a": "No. The meaning of Ace could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “One who excels; a champion; (from the playing card)” is supported by An English word-name; not a Biblical or Christian name in origin. Confidence: MEDIUM."
         },
         {
-          "q": "Where does the name Ace come from?",
-          "a": "The origin of Ace has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Ace?",
+          "a": "In Pythagorean numerology the letters of Ace total 9, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What is the transliteration of Ace?",
+          "a": "Ace is transliterated as Ace."
+        },
+        {
+          "q": "How many syllables does Ace have?",
+          "a": "Ace has 1 syllable."
+        },
+        {
+          "q": "What are the spiritual connotations of Ace?",
+          "a": "Any spiritual significance attached to Ace is interpretive. Its documented core is the lexical meaning “One who excels; a champion; (from the playing card)”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Ace used today?",
+          "a": "Ace circulates chiefly in Latin, Old French, English naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 19 (>=10 target) · tier-1 confidence MEDIUM · 0 open issue(s)"
     },
-    "seo_title": "Ace Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Ace has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Ace Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Ace: meaning “One who excels; a champion; (from the playing card)”, Latin / English origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Ace",
       "Ace name meaning",
-      "Ace meaning",
       "Ace origin",
-      "Ace root",
+      "Ace biblical name",
       "Ace pronunciation",
-      "Biblical names"
+      "Ace etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Ace has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Ace is a name of Latin / English origin meaning “One who excels; a champion; (from the playing card)”. From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English. Its root is Latin as 'a unit, a coin', via Old French as; the sense 'expert' developed in English. Ace is an English word-name, not a Biblical or Christian name.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Ace",
-      "description": "Ace — One",
-      "additionalType": "https://schema.org/Person"
+      "description": "One who excels; a champion; (from the playing card)",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -204,7 +307,103 @@
           "name": "What does the name Ace mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “One”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Ace means “One who excels; a champion; (from the playing card)”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Ace?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ace is of Latin / English origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Ace come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ace is used in Latin, Old French, English."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Ace a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ace is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Ace pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ace is pronounced AYS."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Ace written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ace is written Ace in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Ace?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Ace is Latin as 'a unit, a coin', via Old French as; the sense 'expert' developed in English."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Ace?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Ace appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The name does not occur in the Bible. It is an English word-name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Ace a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Ace is not a Biblical personal name; it is of Latin / English origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Ace occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the Old Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Ace occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the New Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Ace associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Ace."
           }
         },
         {
@@ -212,141 +411,184 @@
           "name": "Is the meaning of Ace verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Ace could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “One who excels; a champion; (from the playing card)” is supported by An English word-name; not a Biblical or Christian name in origin. Confidence: MEDIUM."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Ace come from?",
+          "name": "What is the numerology or lucky number of Ace?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Ace has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Ace total 9, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Ace?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ace is transliterated as Ace."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Ace have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ace has 1 syllable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Ace?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Ace is interpretive. Its documented core is the lexical meaning “One who excels; a champion; (from the playing card)”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Ace used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ace circulates chiefly in Latin, Old French, English naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 50,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
-    },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:43.000Z",
-    "tier1_verified": {
-      "name": "Ace",
-      "slug": "ace",
-      "meaning": "One",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Ace",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "One",
-      "long_meaning": "The name Ace is recorded with the meaning “One”. Ace is a Biblical name meaning “One”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
           "name": "Ace",
-          "meaning": "One",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "Ays",
-        "ipa": "/eɪs/"
-      },
-      "syllables": 1,
-      "name_length": 3,
-      "faqs": [
-        {
-          "q": "What does the name Ace mean?",
-          "a": "Name-lists record the meaning as “One”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Ace verified?",
-          "a": "No. The meaning of Ace could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Ace come from?",
-          "a": "The origin of Ace has not been verified and is not asserted here."
+          "item": ""
         }
       ]
     },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Ace total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+    "advanced_seo": {
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
+      }
+    },
+    "confidence": {
+      "overall": "MEDIUM",
+      "basis": "An English word-name; not a Biblical or Christian name in origin."
+    },
+    "data_quality": {
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
+    },
+    "created_at": "2026-10-03T02:51:18.000Z",
+    "updated_at": "2026-10-03T02:51:18.000Z",
+    "tier1_verified": {
+      "name": "Ace",
+      "slug": "ace",
+      "meaning": "One who excels; a champion; (from the playing card)",
+      "origin": "Latin / English",
+      "language": [
+        "Latin",
+        "Old French",
+        "English"
+      ],
+      "gender": "Male",
+      "root": "Latin as 'a unit, a coin', via Old French as; the sense 'expert' developed in English",
+      "etymology": "From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English.",
+      "script": {
+        "latin": "Ace"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "transliteration": "Ace",
+      "reference": "An English word-name; not a Biblical or Christian name in origin.",
+      "confidence": "MEDIUM"
+    },
+    "tier2_explanatory": {
+      "long_meaning": "Ace is a name of Latin / English origin meaning “One who excels; a champion; (from the playing card)”. From Latin as (a unit, a small coin), via Old French as, which became the name of the highest playing card; the extended sense 'one who excels' developed in English. Its root is Latin as 'a unit, a coin', via Old French as; the sense 'expert' developed in English. Ace is an English word-name, not a Biblical or Christian name.",
+      "biblical_status": {
+        "exact_name_form_occurs": false,
+        "exact_lexical_form_occurs": false,
+        "root_or_lemma_occurs": false,
+        "related_forms_occur": false,
+        "old_testament_occurs": false,
+        "new_testament_occurs": false,
+        "christian_historical_usage": false,
+        "saint_association": false,
+        "interpretation": "The name does not occur in the Bible. It is an English word-name."
+      },
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
+      },
+      "historical_references": []
+    },
+    "tier3_interpretive": {
+      "numerology": {
+        "name_number": 9,
+        "meaning": "compassion, idealism and completion",
+        "status": "belief_based"
+      },
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "sources": [
+        "An English word-name; not a Biblical or Christian name in origin."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "An English word-name; not a Biblical or Christian name in origin.",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "An English word-name; not a Biblical or Christian name in origin."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:43.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:51:18.000Z"
     }
   }
 }

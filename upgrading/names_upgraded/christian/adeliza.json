@@ -3,318 +3,161 @@
   "data": {
     "name": "Adeliza",
     "slug": "adeliza",
-    "language": [
-      "English",
-      "Hebrew",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Adeliza is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Adeliza",
+    "normalized_name": "adeliza",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Virtue",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Noble, kind",
-    "long_meaning": "The meaning of Adeliza is recorded in name-lists as “Noble, kind”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Adeliza expresses “Noble, kind”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-e-l-i-z-a",
-    "syllables": 4,
-    "name_length": 7,
-    "transliteration": [
-      "Adeliza"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Grey",
-      "Blue"
-    ],
-    "lucky_stone": "Hessonite",
-    "ruling_planet": "Rahu",
-    "life_path_number": 4,
-    "numerology_meaning": "In Pythagorean numerology the letters of Adeliza total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-    "in_hebrew": {
-      "name": "עדליזה",
-      "meaning": "אדירה, נשמת אלוהים, אלוהים נשמת",
-      "long_meaning": "עדליזה נובעת מ-Adelheid, שמשמעותה היא 'אדירה' או 'נשמת אלוהים', ועשויה לכלול רמז לרוח אלוהים. ב-Biblical ה-Hebrew, נשמה פירושה 'נשמה' או 'רוח', ו-Adelheid, ככל הנראה, הייתה נצרכה שמאלן בעת ה-Byzantine. השם הזה, עם רקע ה-Hebrew, יכול להדגיש חשיבות של חיים באלוהים, תוך שהוא תומך בערכי הנאו-פלאסטסי."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αδελίζα",
-      "meaning": "αδελφή, θρησκευτική, ορθόδοξη",
-      "long_meaning": "Αδελίζα, αφαίρεση από αδελε, θρησκευτική, δείχνει αίσθηση θρησκευτική. Ο όρος αδελε προέρχεται από την αλαλήθεια, που σημαίνει αληθινή, αληθινός, και αλήθεια που σημαίνει αληθινή. Ο όρος αδελε σε συνδυασμό με την ονομασία Αδελίζα δείχνει την αλήθεια της θρησκευτικότητας. Ο όρος αδελε χρησιμοποιείται σε συνδυασμό με την ονομασία Αδελίζα για να δείξει την αλήθεια της θρησκευτικότητας και την αληθινή θρησκευτική πίστη."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Adeliza",
-      "meaning": "nobilis, nobilis, sancta",
-      "long_meaning": "Adeliza derivatur a nominibus Germanicis, quae significabant 'nobilis' et 'nobilis', et sancta, quae significabant 'sacra' et 'sacrum'. Adeliza potest significare 'nobilis spiritus' et 'sacrum nomen'. In Ecclesia Catholica, Adeliza fuit nomen mulierum nobilium, qui erant sanctae et piae. Haec nomen potest significare virtus, sanctitas, et pietas. In historia Ecclesiae, Adeliza fuit nomen mulierum, qui erant sanctae et piae. In cultura Ecclesiae, Adeliza fuit nomen mulierum, qui erant sanctae et piae."
-    },
-    "in_english": {
-      "name": "Adeliza",
-      "meaning": "Noble, kind",
-      "long_meaning": "Noble, kind"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "ad-uh-LIE-zah",
-      "biblical": "Hebrew pronunciation: 'ah-deh-LEE-zah'",
-      "ipa": "/ædəlaɪzə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Adeliza"
-    ],
-    "variants": [
-      "Adeliza"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Adeliza is used in Biblical naming tradition with the meaning “Noble, kind”.",
-    "spiritual_significance": "Any spiritual significance attached to Adeliza is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Noble, kind” is the basis of any symbolism attached to Adeliza; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Adeliza."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AdelizaMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Adeliza"
-    ],
-    "monetization": {
-      "display_ads": true,
-      "affiliate_links": [
-        "https://www.amazon.com/s?k=adeliza+baby+name+book"
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Adeliza Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Adeliza has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Adeliza, Adeliza name meaning, Adeliza meaning, Adeliza origin, Adeliza root, Adeliza pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Adeliza has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Adeliza name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Adeliza Name Meaning & Origin | NameVerse",
+      "meta_description": "Adeliza: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Adeliza",
-        "Adeliza name meaning",
-        "Adeliza meaning",
-        "Adeliza origin",
-        "Adeliza root",
-        "Adeliza pronunciation",
-        "Biblical names"
+        "Adeliza name meaning"
       ],
-      "focus_keyword": "Adeliza name meaning",
-      "secondary_keywords": [
-        "Adeliza meaning",
-        "Adeliza origin",
-        "Adeliza pronunciation",
-        "Adeliza lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Adeliza mean?",
-          "a": "Name-lists record the meaning as “Noble, kind”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adeliza verified?",
-          "a": "No. The meaning of Adeliza could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adeliza come from?",
-          "a": "The origin of Adeliza has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Adeliza Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Adeliza has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Adeliza Name Meaning & Origin | NameVerse",
+    "meta_description": "Adeliza: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Adeliza",
-      "Adeliza name meaning",
-      "Adeliza meaning",
-      "Adeliza origin",
-      "Adeliza root",
-      "Adeliza pronunciation",
-      "Biblical names"
+      "Adeliza name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Adeliza has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Adeliza",
-      "description": "Adeliza — Noble, kind",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Adeliza mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Noble, kind”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Adeliza verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Adeliza could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Adeliza come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Adeliza has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:46.000Z",
-    "tier1_verified": {
-      "name": "Adeliza",
-      "slug": "adeliza",
-      "meaning": "Noble, kind",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Adeliza",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Noble, kind",
-      "long_meaning": "The name Adeliza is recorded with the meaning “Noble, kind”. Adeliza is a Biblical name meaning “Noble, kind”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Adeliza",
-          "meaning": "Noble, kind",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "ad-uh-LIE-zah",
-        "ipa": "/ædəlaɪzə/"
-      },
-      "syllables": 4,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Adeliza mean?",
-          "a": "Name-lists record the meaning as “Noble, kind”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adeliza verified?",
-          "a": "No. The meaning of Adeliza could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adeliza come from?",
-          "a": "The origin of Adeliza has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 4,
-        "life_path_number": 4,
-        "ruling_planet": "Rahu",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Hessonite",
-        "lucky_colors": [
-          "Grey",
-          "Blue"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Adeliza total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:56:30.000Z",
+    "updated_at": "2026-10-03T02:56:30.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -323,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:46.000Z"
+      "processed_at": "2026-10-03T02:56:30.000Z"
     }
   }
 }

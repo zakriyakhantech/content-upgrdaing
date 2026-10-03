@@ -3,320 +3,161 @@
   "data": {
     "name": "Abisia",
     "slug": "abisia",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Abisia is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Abisia",
+    "normalized_name": "abisia",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Father of multitudes",
-    "long_meaning": "The meaning of Abisia is recorded in name-lists as “Father of multitudes”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Abisia expresses “Father of multitudes”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-b-i-s-i-a",
-    "syllables": 3,
-    "name_length": 6,
-    "transliteration": [
-      "Abisia"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Wednesday",
-    "lucky_colors": [
-      "Green",
-      "Turquoise"
-    ],
-    "lucky_stone": "Emerald",
-    "ruling_planet": "Mercury",
-    "life_path_number": 5,
-    "numerology_meaning": "In Pythagorean numerology the letters of Abisia total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-    "in_hebrew": {
-      "name": "אֲבִישָׁא",
-      "meaning": "father of X",
-      "long_meaning": "My father is X"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Ἀβισσά",
-      "meaning": "father of X",
-      "long_meaning": "My father is X"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Abissus",
-      "meaning": "father of X",
-      "long_meaning": "My father is X"
-    },
-    "in_english": {
-      "name": "Abisia",
-      "meaning": "Father of multitudes",
-      "long_meaning": "Father of multitudes"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "/əˈbɪʃə/, /æbɪˈsiːə/",
-      "biblical": "/əˈbɪʃi.ə/, /æbɪˈsja/",
-      "ipa": "[aˈbisja], [əˈbɪʃja]"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Abisia"
-    ],
-    "variants": [
-      "Abisia"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Abisia is used in Biblical naming tradition with the meaning “Father of multitudes”.",
-    "spiritual_significance": "Any spiritual significance attached to Abisia is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Father of multitudes” is the basis of any symbolism attached to Abisia; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "1 Samuel",
-      "verse_reference": "14:52",
-      "note": "Abisia, a man from Bethlehem, who went with King Saul to the battle against the Philistines and died there."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Abisia."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AbisiaNameMeaning",
-      "#ChristianBabyNames"
-    ],
-    "monetization": {
-      "display_ads": true,
-      "affiliate_links": [
-        {
-          "name": "BabyNamesWorld",
-          "link": "https://babynamesworld.com/names/abisia"
-        },
-        {
-          "name": "Nameberry",
-          "link": "https://nameberry.com/baby-names/abisia"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Abisia Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Abisia has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Abisia, Abisia name meaning, Abisia meaning, Abisia origin, Abisia root, Abisia pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Abisia has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Abisia name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Abisia Name Meaning & Origin | NameVerse",
+      "meta_description": "Abisia: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Abisia",
-        "Abisia name meaning",
-        "Abisia meaning",
-        "Abisia origin",
-        "Abisia root",
-        "Abisia pronunciation",
-        "Biblical names"
+        "Abisia name meaning"
       ],
-      "focus_keyword": "Abisia name meaning",
-      "secondary_keywords": [
-        "Abisia meaning",
-        "Abisia origin",
-        "Abisia pronunciation",
-        "Abisia lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Abisia mean?",
-          "a": "Name-lists record the meaning as “Father of multitudes”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Abisia verified?",
-          "a": "No. The meaning of Abisia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Abisia come from?",
-          "a": "The origin of Abisia has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Abisia Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Abisia has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Abisia Name Meaning & Origin | NameVerse",
+    "meta_description": "Abisia: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Abisia",
-      "Abisia name meaning",
-      "Abisia meaning",
-      "Abisia origin",
-      "Abisia root",
-      "Abisia pronunciation",
-      "Biblical names"
+      "Abisia name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Abisia has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Abisia",
-      "description": "Abisia — Father of multitudes",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Abisia mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Father of multitudes”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Abisia verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Abisia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Abisia come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Abisia has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:43.000Z",
-    "tier1_verified": {
-      "name": "Abisia",
-      "slug": "abisia",
-      "meaning": "Father of multitudes",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Abisia",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Father of multitudes",
-      "long_meaning": "The name Abisia is recorded with the meaning “Father of multitudes”. Abisia is a Biblical name meaning “Father of multitudes”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Abisia",
-          "meaning": "Father of multitudes",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/əˈbɪʃə/, /æbɪˈsiːə/",
-        "ipa": "[aˈbisja], [əˈbɪʃja]"
-      },
-      "syllables": 3,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "What does the name Abisia mean?",
-          "a": "Name-lists record the meaning as “Father of multitudes”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Abisia verified?",
-          "a": "No. The meaning of Abisia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Abisia come from?",
-          "a": "The origin of Abisia has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 5,
-        "life_path_number": 5,
-        "ruling_planet": "Mercury",
-        "lucky_day": "Wednesday",
-        "lucky_stone": "Emerald",
-        "lucky_colors": [
-          "Green",
-          "Turquoise"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Abisia total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:51:09.000Z",
+    "updated_at": "2026-10-03T02:51:09.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -325,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:43.000Z"
+      "processed_at": "2026-10-03T02:51:09.000Z"
     }
   }
 }

@@ -3,185 +3,314 @@
   "data": {
     "name": "Abena",
     "slug": "abena",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Abena",
+    "normalized_name": "abena",
     "language": [
-      "English",
-      "Greek",
-      "Latin"
+      "Akan",
+      "English"
     ],
-    "gender": "Unisex",
-    "gender_notes": "Abena is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender": "Female",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Akan (Ghana)",
+    "origin_detail": "An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week.",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": false,
+      "confidence": "HIGH",
+      "classification": "not_christian_in_origin",
+      "explanation": "The name does not occur in the Bible. It is an Akan day-name."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "Born on Tuesday",
+      "alternative_gloss": "",
+      "meaning_type": "lexical",
+      "confidence": "HIGH",
+      "note": "Abena is an Akan day-name, not a Biblical or Christian name in origin."
+    },
+    "short_meaning": "Born on Tuesday",
+    "long_meaning": "Abena is a name of Akan (Ghana) origin meaning “Born on Tuesday”. An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week. Its root is Akan day-name (Kwabena/Abena) for a female born on Tuesday. Abena is an Akan day-name, not a Biblical or Christian name in origin.",
+    "etymology": {
+      "components": [
+        "born on Tuesday"
+      ],
+      "formation": "An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "born on Tuesday"
     ],
-    "short_meaning": "Gentle, Fragrant",
-    "long_meaning": "The meaning of Abena is recorded in name-lists as “Gentle, Fragrant”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Abena expresses “Gentle, Fragrant”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-b-e-n-a",
-    "syllables": 3,
-    "name_length": 5,
-    "transliteration": [
-      "Abena"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Wednesday",
-    "lucky_colors": [
-      "Green",
-      "Turquoise"
-    ],
-    "lucky_stone": "Emerald",
-    "ruling_planet": "Mercury",
-    "life_path_number": 5,
-    "numerology_meaning": "In Pythagorean numerology the letters of Abena total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-    "in_hebrew": {
-      "name": "עבנה",
-      "meaning": "breath, breath of life",
-      "long_meaning": "The Hebrew name Abena can be translated as 'breath' or 'breath of life'. It is derived from the Hebrew root word 'avar' (אובר), which means 'to breathe'. The name Abena can be seen as a reminder of the breath of life that God breathed into Adam, giving him the gift of life."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 5,
+      "lucky_number": 5,
+      "numerology_meaning": "change, freedom and adaptability",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Αβένα",
-      "meaning": "breath, breeze",
-      "long_meaning": "The Greek name Abena is derived from the Greek word 'anemos' (ανέμος), which means 'wind' or 'breeze'. The name Abena can be translated as 'breath' or 'wind', reflecting the idea of the breath of life that is essential for sustaining life."
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Abena",
-      "meaning": "breath, life",
-      "long_meaning": "The Latin name Abena is a Latinization of the Greek name Αβένα. It can be translated as 'breath' or 'life', reflecting the idea of the breath of life that is essential for sustaining life."
+    "translations": {
+      "hebrew": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Hebrew form is established for this name."
+      },
+      "greek": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Greek form is established for this name."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Abena",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Abena is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Abena",
+        "meaning": "Born on Tuesday",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Abena",
-      "meaning": "Gentle, Fragrant",
-      "long_meaning": "Gentle, Fragrant"
+    "scripts": {
+      "latin": "Abena"
     },
     "pronunciation": {
-      "english": "/əˈbeɪnə/",
-      "biblical": "/əˈbeɪnə/",
-      "ipa": "əˈbeɪnə"
+      "original_language": {
+        "transliteration": "Abena",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "ah-BEH-nah",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "latin": "Abena"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": false,
+      "exact_lexical_form_occurs": false,
+      "root_or_lemma_occurs": false,
+      "related_forms_occur": false,
+      "old_testament_occurs": false,
+      "new_testament_occurs": false,
+      "christian_historical_usage": false,
+      "saint_association": false,
+      "interpretation": "The name does not occur in the Bible. It is an Akan day-name."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified; the name belongs to a living Akan naming tradition.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Akan, English naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Abena"
+      "Kwabena (male form)"
     ],
     "variants": [
-      "Abena"
+      "Kwabena (male form)"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "Akosua",
+      "Adwoa",
+      "Akua",
+      "Yaa",
+      "Afua"
+    ],
+    "similar_sounding_names": [
+      "Abe",
+      "Abebi",
+      "Abeden",
+      "Abednego",
+      "Abel",
+      "Abeliel"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Abena is used in Biblical naming tradition with the meaning “Gentle, Fragrant”.",
-    "spiritual_significance": "Any spiritual significance attached to Abena is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Gentle, Fragrant” is the basis of any symbolism attached to Abena; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": "The name Abena is not found in the Bible."
+      "occurs": false,
+      "old_testament": false,
+      "new_testament": false,
+      "note": "The name does not occur in the Bible. It is an Akan day-name."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Abena."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AbenaMeaning",
-      "#ChristianBabyNames"
-    ],
-    "monetization": {
-      "affiliate_links": [
-        {
-          "text": "Shop for Abena-inspired clothing and accessories",
-          "link": "https://example.com/abena-shop"
-        }
-      ],
-      "google_ads": [
-        {
-          "slot": "abena-meaning-origin-sidebar",
-          "size": "300x250"
-        },
-        {
-          "slot": "abena-related-names-bottom",
-          "size": "728x90"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Abena Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Abena has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Abena, Abena name meaning, Abena meaning, Abena origin, Abena root, Abena pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Abena has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Abena name meaning and origin",
+      "secondary_search_intents": [
+        "is Abena a biblical name",
+        "Abena name origin and language",
+        "Abena pronunciation"
+      ],
+      "seo_title": "Abena Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Abena: meaning “Born on Tuesday”, Akan (Ghana) origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Abena is a name of Akan (Ghana) origin meaning “Born on Tuesday”. An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week. Its root is Akan day-name (Kwabena/Abena) for a female born on Tuesday. Abena is an Akan day-name, not a Biblical or Christian name in origin.",
       "keywords": [
-        "Abena",
         "Abena name meaning",
-        "Abena meaning",
         "Abena origin",
-        "Abena root",
+        "Abena biblical name",
         "Abena pronunciation",
-        "Biblical names"
+        "Abena etymology"
       ],
-      "focus_keyword": "Abena name meaning",
-      "secondary_keywords": [
-        "Abena meaning",
-        "Abena origin",
-        "Abena pronunciation",
-        "Abena lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Abena mean?",
-          "a": "Name-lists record the meaning as “Gentle, Fragrant”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Abena means “Born on Tuesday”."
+        },
+        {
+          "q": "What is the origin of the name Abena?",
+          "a": "Abena is of Akan (Ghana) origin."
+        },
+        {
+          "q": "What language does the name Abena come from?",
+          "a": "Abena is used in Akan, English."
+        },
+        {
+          "q": "Is Abena a boy's name or a girl's name?",
+          "a": "Abena is used as a female name."
+        },
+        {
+          "q": "How is Abena pronounced?",
+          "a": "Abena is pronounced ah-BEH-nah."
+        },
+        {
+          "q": "How is Abena written in Latin?",
+          "a": "Abena is written Abena in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Abena?",
+          "a": "The root of Abena is Akan day-name (Kwabena/Abena) for a female born on Tuesday."
+        },
+        {
+          "q": "What is the etymology of Abena?",
+          "a": "An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week."
+        },
+        {
+          "q": "Does Abena appear in the Bible?",
+          "a": "No. The name does not occur in the Bible. It is an Akan day-name."
+        },
+        {
+          "q": "Is Abena a Biblical name?",
+          "a": "No. Abena is not a Biblical personal name; it is of Akan (Ghana) origin."
+        },
+        {
+          "q": "Does Abena occur in the Old Testament?",
+          "a": "No — it is not attested in the Old Testament."
+        },
+        {
+          "q": "Does Abena occur in the New Testament?",
+          "a": "No — it is not attested in the New Testament."
+        },
+        {
+          "q": "Is Abena associated with a saint?",
+          "a": "No saint association is verified for the name Abena."
         },
         {
           "q": "Is the meaning of Abena verified?",
-          "a": "No. The meaning of Abena could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “Born on Tuesday” is supported by Akan (Ghanaian) day-name tradition. Confidence: HIGH."
         },
         {
-          "q": "Where does the name Abena come from?",
-          "a": "The origin of Abena has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Abena?",
+          "a": "In Pythagorean numerology the letters of Abena total 23, reducing to 5. Number 5 is traditionally associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Abena?",
+          "a": "Variants and alternative forms include Kwabena (male form)."
+        },
+        {
+          "q": "What is the transliteration of Abena?",
+          "a": "Abena is transliterated as Abena."
+        },
+        {
+          "q": "How many syllables does Abena have?",
+          "a": "Abena has 3 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Abena?",
+          "a": "Any spiritual significance attached to Abena is interpretive. Its documented core is the lexical meaning “Born on Tuesday”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Abena used today?",
+          "a": "Abena circulates chiefly in Akan, English naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 20 (>=10 target) · tier-1 confidence HIGH · 0 open issue(s)"
     },
-    "seo_title": "Abena Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Abena has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Abena Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Abena: meaning “Born on Tuesday”, Akan (Ghana) origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Abena",
       "Abena name meaning",
-      "Abena meaning",
       "Abena origin",
-      "Abena root",
+      "Abena biblical name",
       "Abena pronunciation",
-      "Biblical names"
+      "Abena etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Abena has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Abena is a name of Akan (Ghana) origin meaning “Born on Tuesday”. An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week. Its root is Akan day-name (Kwabena/Abena) for a female born on Tuesday. Abena is an Akan day-name, not a Biblical or Christian name in origin.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Abena",
-      "description": "Abena — Gentle, Fragrant",
-      "additionalType": "https://schema.org/Person"
+      "description": "Born on Tuesday",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -192,7 +321,103 @@
           "name": "What does the name Abena mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Gentle, Fragrant”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Abena means “Born on Tuesday”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Abena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abena is of Akan (Ghana) origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Abena come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abena is used in Akan, English."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abena a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abena is used as a female name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abena pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abena is pronounced ah-BEH-nah."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abena written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abena is written Abena in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Abena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Abena is Akan day-name (Kwabena/Abena) for a female born on Tuesday."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Abena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abena appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The name does not occur in the Bible. It is an Akan day-name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abena a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Abena is not a Biblical personal name; it is of Akan (Ghana) origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abena occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the Old Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abena occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the New Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abena associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Abena."
           }
         },
         {
@@ -200,141 +425,191 @@
           "name": "Is the meaning of Abena verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Abena could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “Born on Tuesday” is supported by Akan (Ghanaian) day-name tradition. Confidence: HIGH."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Abena come from?",
+          "name": "What is the numerology or lucky number of Abena?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Abena has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Abena total 23, reducing to 5. Number 5 is traditionally associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Abena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Kwabena (male form)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Abena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abena is transliterated as Abena."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Abena have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abena has 3 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Abena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Abena is interpretive. Its documented core is the lexical meaning “Born on Tuesday”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Abena used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abena circulates chiefly in Akan, English naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
-    },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:42.000Z",
-    "tier1_verified": {
-      "name": "Abena",
-      "slug": "abena",
-      "meaning": "Gentle, Fragrant",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Abena",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Gentle, Fragrant",
-      "long_meaning": "The name Abena is recorded with the meaning “Gentle, Fragrant”. Abena is a Biblical name meaning “Gentle, Fragrant”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
           "name": "Abena",
-          "meaning": "Gentle, Fragrant",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/əˈbeɪnə/",
-        "ipa": "əˈbeɪnə"
-      },
-      "syllables": 3,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Abena mean?",
-          "a": "Name-lists record the meaning as “Gentle, Fragrant”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Abena verified?",
-          "a": "No. The meaning of Abena could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Abena come from?",
-          "a": "The origin of Abena has not been verified and is not asserted here."
+          "item": ""
         }
       ]
     },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 5,
-        "life_path_number": 5,
-        "ruling_planet": "Mercury",
-        "lucky_day": "Wednesday",
-        "lucky_stone": "Emerald",
-        "lucky_colors": [
-          "Green",
-          "Turquoise"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Abena total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+    "advanced_seo": {
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
+      }
+    },
+    "confidence": {
+      "overall": "HIGH",
+      "basis": "Akan (Ghanaian) day-name tradition."
+    },
+    "data_quality": {
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
+    },
+    "created_at": "2026-10-03T02:51:04.000Z",
+    "updated_at": "2026-10-03T02:51:04.000Z",
+    "tier1_verified": {
+      "name": "Abena",
+      "slug": "abena",
+      "meaning": "Born on Tuesday",
+      "origin": "Akan (Ghana)",
+      "language": [
+        "Akan",
+        "English"
+      ],
+      "gender": "Female",
+      "root": "Akan day-name (Kwabena/Abena) for a female born on Tuesday",
+      "etymology": "An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week.",
+      "script": {
+        "latin": "Abena"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "transliteration": "Abena",
+      "reference": "Akan (Ghanaian) day-name tradition.",
+      "confidence": "HIGH"
+    },
+    "tier2_explanatory": {
+      "long_meaning": "Abena is a name of Akan (Ghana) origin meaning “Born on Tuesday”. An Akan day-name from Ghana, given to a girl born on Tuesday. It is part of the Akan system of naming children after the day of the week. Its root is Akan day-name (Kwabena/Abena) for a female born on Tuesday. Abena is an Akan day-name, not a Biblical or Christian name in origin.",
+      "biblical_status": {
+        "exact_name_form_occurs": false,
+        "exact_lexical_form_occurs": false,
+        "root_or_lemma_occurs": false,
+        "related_forms_occur": false,
+        "old_testament_occurs": false,
+        "new_testament_occurs": false,
+        "christian_historical_usage": false,
+        "saint_association": false,
+        "interpretation": "The name does not occur in the Bible. It is an Akan day-name."
+      },
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
+      },
+      "historical_references": []
+    },
+    "tier3_interpretive": {
+      "numerology": {
+        "name_number": 5,
+        "meaning": "change, freedom and adaptability",
+        "status": "belief_based"
+      },
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "Akan (Ghanaian) day-name tradition."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "Akan (Ghanaian) day-name tradition.",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "Akan (Ghanaian) day-name tradition."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:42.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:51:04.000Z"
     }
   }
 }

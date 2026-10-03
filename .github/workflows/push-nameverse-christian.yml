@@ -1,4 +1,4 @@
-name: Push NameVerse Christian batch 001
+name: Push NameVerse Christian batch 001+002
 
 on:
   push:
@@ -24,11 +24,17 @@ jobs:
         run: |
           set -e
           ok=0
-          for u in "https://litter.catbox.moe/mnwets.bundle" "https://x0.at/Oxkz.bundle"; do
+          for u in "https://litter.catbox.moe/vg4eji.bundle" "https://x0.at/QILL.bundle"; do
             echo "trying $u"
-            if curl -fsSL "$u" -o /tmp/nv.bundle && git bundle verify /tmp/nv.bundle >/dev/null 2>&1; then
-              ok=1; break
-            fi
+            for attempt in 1 2 3; do
+              if curl -fsSL --retry 3 --retry-delay 2 "$u" -o /tmp/nv.bundle; then
+                if git bundle verify /tmp/nv.bundle >/dev/null 2>&1; then ok=1; break 2; fi
+                echo "bundle verify failed"
+              else
+                echo "curl failed (attempt $attempt)"
+              fi
+              sleep 3
+            done
           done
           test "$ok" = "1"
           ls -lh /tmp/nv.bundle

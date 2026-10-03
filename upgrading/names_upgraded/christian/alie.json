@@ -3,328 +3,161 @@
   "data": {
     "name": "Alie",
     "slug": "alie",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Alie is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alie",
+    "normalized_name": "alie",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Virtue",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Gentle, noble, otherworldly",
-    "long_meaning": "The meaning of Alie is recorded in name-lists as “Gentle, noble, otherworldly”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alie expresses “Gentle, noble, otherworldly”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-i-e",
-    "syllables": 1,
-    "name_length": 4,
-    "transliteration": [
-      "Alie"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alie total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_hebrew": {
-      "name": "Alie",
-      "meaning": "שם נוצרי שפירושו Gentle, noble, otherworldly",
-      "long_meaning": "Alie הוא שם נוצרי עם משמעות רוחנית עמוקה בתרבות הנצרות. Derived from the Greek word αλειπω (aleipo), meaning 'to wipe away, soothe, or console'. In ancient Greece, this name was associated with the goddesses Hygieia and Aphrodite, who offered healing, compassion, and love. In Christianity, Alie may symbolize the comforting presence of the Holy Spirit."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Alie",
-      "meaning": "Χριστιανικό όνομα που σημαίνει Gentle, noble, otherworldly",
-      "long_meaning": "Alie είναι ένα χριστιανικό όνομα με βαθιά πνευματική σημασία στον χριστιανικό πολιτισμό. Derived from the Greek word αλειπω (aleipo), meaning 'to wipe away, soothe, or console'. In ancient Greece, this name was associated with the goddesses Hygieia and Aphrodite, who offered healing, compassion, and love. In Christianity, Alie may symbolize the comforting presence of the Holy Spirit."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alie",
-      "meaning": "Contraction of names, feminine diminutive form, or shortened form of names ending in -alie",
-      "long_meaning": "Alie, a diminutive form of names or a shortened form of names ending in -alie, has its roots in Christian tradition, possibly derived from Latin or Hebrew, with multiple possible meanings, including 'noble' or 'pious', often associated with feminine virtues and gentle nature, used in early Christian communities as a nickname or shortened form of names with similar endings, and still utilized today in various Christian cultures, emphasizing the importance of humility and devotion."
-    },
-    "in_english": {
-      "name": "Alie",
-      "meaning": "Gentle, noble, otherworldly",
-      "long_meaning": "Gentle, noble, otherworldly"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AL-ee",
-      "biblical": "Not applicable, as Alie is not a direct biblical name",
-      "ipa": "/ˈæli/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alie"
-    ],
-    "variants": [
-      "Alie"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alie is used in Biblical naming tradition with the meaning “Gentle, noble, otherworldly”.",
-    "spiritual_significance": "Any spiritual significance attached to Alie is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Gentle, noble, otherworldly” is the basis of any symbolism attached to Alie; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alie."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlieMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Alie"
-    ],
-    "monetization": {
-      "google_adsense": {
-        "publisher_id": "ca-pub-1234567890123456",
-        "ad_unit": "name-page-ad"
-      },
-      "affiliate_links": [
-        {
-          "merchant": "BuyBaby",
-          "product": "Baby Clothes",
-          "link": "https://www.buybaby.com/baby-clothes/aliestore"
-        },
-        {
-          "merchant": "BabyCenter",
-          "product": "Baby Name Books",
-          "link": "https://www.babycenter.com/shop/books/baby-names/aliestore"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alie Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alie has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alie, Alie name meaning, Alie meaning, Alie origin, Alie root, Alie pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alie has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alie name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alie Name Meaning & Origin | NameVerse",
+      "meta_description": "Alie: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alie",
-        "Alie name meaning",
-        "Alie meaning",
-        "Alie origin",
-        "Alie root",
-        "Alie pronunciation",
-        "Biblical names"
+        "Alie name meaning"
       ],
-      "focus_keyword": "Alie name meaning",
-      "secondary_keywords": [
-        "Alie meaning",
-        "Alie origin",
-        "Alie pronunciation",
-        "Alie lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alie mean?",
-          "a": "Name-lists record the meaning as “Gentle, noble, otherworldly”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alie verified?",
-          "a": "No. The meaning of Alie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alie come from?",
-          "a": "The origin of Alie has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alie Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alie has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alie Name Meaning & Origin | NameVerse",
+    "meta_description": "Alie: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alie",
-      "Alie name meaning",
-      "Alie meaning",
-      "Alie origin",
-      "Alie root",
-      "Alie pronunciation",
-      "Biblical names"
+      "Alie name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alie has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alie",
-      "description": "Alie — Gentle, noble, otherworldly",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alie mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Gentle, noble, otherworldly”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alie verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alie come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alie has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:00.000Z",
-    "tier1_verified": {
-      "name": "Alie",
-      "slug": "alie",
-      "meaning": "Gentle, noble, otherworldly",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alie",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Gentle, noble, otherworldly",
-      "long_meaning": "The name Alie is recorded with the meaning “Gentle, noble, otherworldly”. Alie is a Biblical name meaning “Gentle, noble, otherworldly”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alie",
-          "meaning": "Gentle, noble, otherworldly",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AL-ee",
-        "ipa": "/ˈæli/"
-      },
-      "syllables": 1,
-      "name_length": 4,
-      "faqs": [
-        {
-          "q": "What does the name Alie mean?",
-          "a": "Name-lists record the meaning as “Gentle, noble, otherworldly”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alie verified?",
-          "a": "No. The meaning of Alie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alie come from?",
-          "a": "The origin of Alie has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alie total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:05:15.000Z",
+    "updated_at": "2026-10-03T03:05:15.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -333,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:00.000Z"
+      "processed_at": "2026-10-03T03:05:15.000Z"
     }
   }
 }

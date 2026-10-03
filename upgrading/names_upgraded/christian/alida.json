@@ -3,329 +3,161 @@
   "data": {
     "name": "Alida",
     "slug": "alida",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Alida is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alida",
+    "normalized_name": "alida",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Saint",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Noble, kind",
-    "long_meaning": "The meaning of Alida is recorded in name-lists as “Noble, kind”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alida expresses “Noble, kind”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-i-d-a",
-    "syllables": 3,
-    "name_length": 5,
-    "transliteration": [
-      "Alida"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alida total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_hebrew": {
-      "name": "עליד",
-      "meaning": "ראשון, יוצא, ראשי",
-      "long_meaning": "בהקשר לתנ\"ך, עליד מתייחס לאדם הראשון, המופיע בספר בראשית. השם עליד נוצר כדימוי לאדם חדש, שפורץ מאפילה ומפרץ לדרך חדשה. במסורת הנוצרית, השם עליד נחשב לסמל לתקווה ולאהבה, ויושבע לאדם שיש לו אור ותורה."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αλίδα",
-      "meaning": "πρώτος, έξω, πρώτος",
-      "long_meaning": "Σύμφωνα με την Βιβλία της Καινής Διαθήκης, το όνομα Αλίδα προέρχεται από τον πρώτο άνθρωπο που εμφανίζεται στο βιβλίο της Γένεσης. Οι πρώτοι Χριστιανοί θεωρούσαν ότι το όνομα Αλίδα αντιπροσώπευε τον άνθρωπο που έρχεται με την ελπίδα και την αγάπη. Στην Ορθοδοξία, το όνομα Αλίδα συνδέεται με την ελπίδα και την αναγέννηση."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alida",
-      "meaning": "primus, exterior, primus",
-      "long_meaning": "Secundum Novum Testamentum, nomen Alida derivatur a primo homine qui apparet in libro Genesis. In Ecclesia Christiana antiqua, nomen Alida significavit hominem novum, qui emergit de tenebris et invenit novam viam. In traditione Christiana, nomen Alida est symbolus spei et amoris."
-    },
-    "in_english": {
-      "name": "Alida",
-      "meaning": "Noble, kind",
-      "long_meaning": "Noble, kind"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AL-ee-dah",
-      "ipa": "/ɑˈliːdɑ/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alida"
-    ],
-    "variants": [
-      "Alida"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alida is used in Biblical naming tradition with the meaning “Noble, kind”.",
-    "spiritual_significance": "Any spiritual significance attached to Alida is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Noble, kind” is the basis of any symbolism attached to Alida; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alida."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlidaMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Alida"
-    ],
-    "monetization": {
-      "ad_units": {
-        "sidebar": [
-          {
-            "size": "300x250",
-            "type": "display"
-          },
-          {
-            "size": "336x280",
-            "type": "large_rectangle"
-          }
-        ],
-        "in_content": [
-          {
-            "size": "300x250",
-            "type": "display"
-          }
-        ]
-      }
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alida Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alida has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alida, Alida name meaning, Alida meaning, Alida origin, Alida root, Alida pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alida has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alida name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alida Name Meaning & Origin | NameVerse",
+      "meta_description": "Alida: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alida",
-        "Alida name meaning",
-        "Alida meaning",
-        "Alida origin",
-        "Alida root",
-        "Alida pronunciation",
-        "Biblical names"
+        "Alida name meaning"
       ],
-      "focus_keyword": "Alida name meaning",
-      "secondary_keywords": [
-        "Alida meaning",
-        "Alida origin",
-        "Alida pronunciation",
-        "Alida lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alida mean?",
-          "a": "Name-lists record the meaning as “Noble, kind”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alida verified?",
-          "a": "No. The meaning of Alida could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alida come from?",
-          "a": "The origin of Alida has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alida Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alida has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alida Name Meaning & Origin | NameVerse",
+    "meta_description": "Alida: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alida",
-      "Alida name meaning",
-      "Alida meaning",
-      "Alida origin",
-      "Alida root",
-      "Alida pronunciation",
-      "Biblical names"
+      "Alida name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alida has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alida",
-      "description": "Alida — Noble, kind",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alida mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Noble, kind”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alida verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alida could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alida come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alida has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:59.000Z",
-    "tier1_verified": {
-      "name": "Alida",
-      "slug": "alida",
-      "meaning": "Noble, kind",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alida",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Noble, kind",
-      "long_meaning": "The name Alida is recorded with the meaning “Noble, kind”. Alida is a Biblical name meaning “Noble, kind”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alida",
-          "meaning": "Noble, kind",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AL-ee-dah",
-        "ipa": "/ɑˈliːdɑ/"
-      },
-      "syllables": 3,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Alida mean?",
-          "a": "Name-lists record the meaning as “Noble, kind”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alida verified?",
-          "a": "No. The meaning of Alida could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alida come from?",
-          "a": "The origin of Alida has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alida total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:05:13.000Z",
+    "updated_at": "2026-10-03T03:05:13.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -334,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:59.000Z"
+      "processed_at": "2026-10-03T03:05:13.000Z"
     }
   }
 }

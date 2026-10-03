@@ -3,319 +3,161 @@
   "data": {
     "name": "Alionah",
     "slug": "alionah",
-    "language": [
-      "English",
-      "Hebrew",
-      "Greek"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Alionah is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alionah",
+    "normalized_name": "alionah",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "God's harmony, God's kindness",
-    "long_meaning": "The meaning of Alionah is recorded in name-lists as “God's harmony, God's kindness”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alionah expresses “God's harmony, God's kindness”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-i-o-n-a-h",
-    "syllables": 3,
-    "name_length": 7,
-    "transliteration": [
-      "Alionah"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "White",
-      "Pink"
-    ],
-    "lucky_stone": "Diamond",
-    "ruling_planet": "Venus",
-    "life_path_number": 6,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alionah total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-    "in_hebrew": {
-      "name": "אליוונה",
-      "meaning": "אליוונה היא שלי אלוהים עזר לי",
-      "long_meaning": "אליוונה הוא שם עברי שפירושו 'אלוהים עזר לי' או 'עזר אלוהי'. השם מורכב משתי מילים: 'אל' שפירושו אלוהים, ו'יוונה' שפירושו עזר לי. השם אליוונה הוא שם נשי שיכול להיות קשור לנושא העזר והתמיכה מאלוהים."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αλιώνα",
-      "meaning": "Αλιώνα σημαίνει Θεός βοηθός μου",
-      "long_meaning": "Το όνομα Αλιώνα είναι ένα θηλυκό όνομα που προέρχεται από την εβραϊκή γλώσσα και σημαίνει 'Θεός βοηθός μου' ή 'Βοήθεια Θεού'. Στην Καινή Διαθήκη, δεν υπάρχει άμεση αναφορά στο όνομα αυτό, αλλά η έννοια της βοήθειας και της υποστήριξης από τον Θεό είναι κεντρική στο χριστιανικό μήνυμα. Το όνομα Αλιώνα αντανακλά την πνευματική σημασία της πίστης και της εμπιστοσύνης στον Θεό."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alionah",
-      "meaning": "Alionah means God is my helper",
-      "long_meaning": "The name Alionah is derived from Hebrew roots and carries the meaning 'God is my helper' or 'God's help'. In the context of early Christian tradition, names with similar meanings were often chosen for their spiritual significance, reflecting the believer's reliance on divine assistance. The name Alionah embodies the idea of seeking and receiving help from God, which is a recurring theme in Christian teachings."
-    },
-    "in_english": {
-      "name": "Alionah",
-      "meaning": "God's harmony, God's kindness",
-      "long_meaning": "God's harmony, God's kindness"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "al-ee-OH-nah",
-      "biblical": "אליוונה",
-      "ipa": "/ˌælɪˈoʊnə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alionah"
-    ],
-    "variants": [
-      "Alionah"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alionah is used in Biblical naming tradition with the meaning “God's harmony, God's kindness”.",
-    "spiritual_significance": "Any spiritual significance attached to Alionah is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “God's harmony, God's kindness” is the basis of any symbolism attached to Alionah; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alionah."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlionahMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Alionah"
-    ],
-    "monetization": {
-      "google_ad_units": [
-        "ads_keywords",
-        "ads_related_names"
-      ],
-      "affiliate_links": [
-        "https://www.amazon.com/s?k=alionah"
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alionah Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alionah has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alionah, Alionah name meaning, Alionah meaning, Alionah origin, Alionah root, Alionah pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alionah has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alionah name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alionah Name Meaning & Origin | NameVerse",
+      "meta_description": "Alionah: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alionah",
-        "Alionah name meaning",
-        "Alionah meaning",
-        "Alionah origin",
-        "Alionah root",
-        "Alionah pronunciation",
-        "Biblical names"
+        "Alionah name meaning"
       ],
-      "focus_keyword": "Alionah name meaning",
-      "secondary_keywords": [
-        "Alionah meaning",
-        "Alionah origin",
-        "Alionah pronunciation",
-        "Alionah lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alionah mean?",
-          "a": "Name-lists record the meaning as “God's harmony, God's kindness”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alionah verified?",
-          "a": "No. The meaning of Alionah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alionah come from?",
-          "a": "The origin of Alionah has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alionah Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alionah has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alionah Name Meaning & Origin | NameVerse",
+    "meta_description": "Alionah: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alionah",
-      "Alionah name meaning",
-      "Alionah meaning",
-      "Alionah origin",
-      "Alionah root",
-      "Alionah pronunciation",
-      "Biblical names"
+      "Alionah name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alionah has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alionah",
-      "description": "Alionah — God's harmony, God's kindness",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alionah mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “God's harmony, God's kindness”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alionah verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alionah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alionah come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alionah has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 56,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:00.000Z",
-    "tier1_verified": {
-      "name": "Alionah",
-      "slug": "alionah",
-      "meaning": "God's harmony, God's kindness",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew",
-        "Greek"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alionah",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "God's harmony, God's kindness",
-      "long_meaning": "The name Alionah is recorded with the meaning “God's harmony, God's kindness”. Alionah is a Biblical name meaning “God's harmony, God's kindness”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alionah",
-          "meaning": "God's harmony, God's kindness",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "al-ee-OH-nah",
-        "ipa": "/ˌælɪˈoʊnə/"
-      },
-      "syllables": 3,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Alionah mean?",
-          "a": "Name-lists record the meaning as “God's harmony, God's kindness”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alionah verified?",
-          "a": "No. The meaning of Alionah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alionah come from?",
-          "a": "The origin of Alionah has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 6,
-        "life_path_number": 6,
-        "ruling_planet": "Venus",
-        "lucky_day": "Friday",
-        "lucky_stone": "Diamond",
-        "lucky_colors": [
-          "White",
-          "Pink"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alionah total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:05:17.000Z",
+    "updated_at": "2026-10-03T03:05:17.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -324,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:00.000Z"
+      "processed_at": "2026-10-03T03:05:17.000Z"
     }
   }
 }

@@ -3,330 +3,161 @@
   "data": {
     "name": "Amber",
     "slug": "amber",
-    "language": [
-      "English",
-      "Hebrew",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Amber is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Amber",
+    "normalized_name": "amber",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Jewel of the earth",
-    "long_meaning": "The meaning of Amber is recorded in name-lists as “Jewel of the earth”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Amber expresses “Jewel of the earth”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-m-b-e-r",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Amber"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Yellow Sapphire",
-    "ruling_planet": "Jupiter",
-    "life_path_number": 3,
-    "numerology_meaning": "In Pythagorean numerology the letters of Amber total 21, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-    "in_hebrew": {
-      "name": "ענבר",
-      "meaning": "ענבר הוא שם שפירושו צבע ענבר",
-      "long_meaning": "השם ענבר מקורו במילה העברית 'ענבר', שפירושו צבע ענבר. הענבר הוא חומר אורגני שמקורו בשרף עצים מאלפי שנים. הוא צבעו צהוב-כתום ומשמש לעתים קרובות בתכשיטים. בהקשר הרוחני, הצבע ענבר מסמלת את האור והחמימות של אלוהים."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Άμπερ",
-      "meaning": "Το Άμπερ σημαίνει χρώμα κεχριμπαριού",
-      "long_meaning": "Το όνομα Άμπερ προέρχεται από την αγγλική λέξη για το χρώμα κεχριμπαριού. Το κεχριμπάρι είναι ένα οργανικό υλικό που προέρχεται από τη ρητίνη δέντρων από χιλιάδες χρόνια. Είναι κίτρινο-πορτοκαλί και συχνά χρησιμοποιείται σε κοσμήματα. Στο πνευματικό πλαίσιο, το χρώμα κεχριμπαριού συμβολίζει το φως και τη ζεστασιά του Θεού."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Amber",
-      "meaning": "Amber means amber color",
-      "long_meaning": "The name Amber comes from the English word for the amber color. Amber is an organic material derived from tree resin dating back thousands of years. It is yellow-orange in color and often used in jewelry. In a spiritual context, the color amber symbolizes the light and warmth of God."
-    },
-    "in_english": {
-      "name": "Amber",
-      "meaning": "Jewel of the earth",
-      "long_meaning": "Jewel of the earth"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AM-ber",
-      "ipa": "/ˈæmbər/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Amber"
-    ],
-    "variants": [
-      "Amber"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Amber is used in Biblical naming tradition with the meaning “Jewel of the earth”.",
-    "spiritual_significance": "Any spiritual significance attached to Amber is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Jewel of the earth” is the basis of any symbolism attached to Amber; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Amber."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AmberMeaning",
-      "#ChristianBabyNames",
-      "#ColorNames",
-      "#Amber"
-    ],
-    "monetization": {
-      "ad_units": [
-        {
-          "id": "google_ad_1",
-          "size": {
-            "width": 300,
-            "height": 250
-          },
-          "type": "display"
-        },
-        {
-          "id": "google_ad_2",
-          "size": {
-            "width": 336,
-            "height": 280
-          },
-          "type": "display"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Amber Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Amber has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Amber, Amber name meaning, Amber meaning, Amber origin, Amber root, Amber pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Amber has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Amber name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Amber Name Meaning & Origin | NameVerse",
+      "meta_description": "Amber: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Amber",
-        "Amber name meaning",
-        "Amber meaning",
-        "Amber origin",
-        "Amber root",
-        "Amber pronunciation",
-        "Biblical names"
+        "Amber name meaning"
       ],
-      "focus_keyword": "Amber name meaning",
-      "secondary_keywords": [
-        "Amber meaning",
-        "Amber origin",
-        "Amber pronunciation",
-        "Amber lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Amber mean?",
-          "a": "Name-lists record the meaning as “Jewel of the earth”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Amber verified?",
-          "a": "No. The meaning of Amber could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Amber come from?",
-          "a": "The origin of Amber has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Amber Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Amber has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Amber Name Meaning & Origin | NameVerse",
+    "meta_description": "Amber: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Amber",
-      "Amber name meaning",
-      "Amber meaning",
-      "Amber origin",
-      "Amber root",
-      "Amber pronunciation",
-      "Biblical names"
+      "Amber name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Amber has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Amber",
-      "description": "Amber — Jewel of the earth",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Amber mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Jewel of the earth”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Amber verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Amber could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Amber come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Amber has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 56,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:10.000Z",
-    "tier1_verified": {
-      "name": "Amber",
-      "slug": "amber",
-      "meaning": "Jewel of the earth",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Amber",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Jewel of the earth",
-      "long_meaning": "The name Amber is recorded with the meaning “Jewel of the earth”. Amber is a Biblical name meaning “Jewel of the earth”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Amber",
-          "meaning": "Jewel of the earth",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AM-ber",
-        "ipa": "/ˈæmbər/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Amber mean?",
-          "a": "Name-lists record the meaning as “Jewel of the earth”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Amber verified?",
-          "a": "No. The meaning of Amber could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Amber come from?",
-          "a": "The origin of Amber has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 3,
-        "life_path_number": 3,
-        "ruling_planet": "Jupiter",
-        "lucky_day": "Thursday",
-        "lucky_stone": "Yellow Sapphire",
-        "lucky_colors": [
-          "Yellow",
-          "Gold"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Amber total 21, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:10:27.000Z",
+    "updated_at": "2026-10-03T03:10:27.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -335,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:10.000Z"
+      "processed_at": "2026-10-03T03:10:27.000Z"
     }
   }
 }

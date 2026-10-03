@@ -3,312 +3,161 @@
   "data": {
     "name": "Amadelle",
     "slug": "amadelle",
-    "language": [
-      "English",
-      "Hebrew"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Amadelle is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Amadelle",
+    "normalized_name": "amadelle",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "God is my helper",
-    "long_meaning": "The meaning of Amadelle is recorded in name-lists as “God is my helper”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Amadelle expresses “God is my helper”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-m-a-d-e-l-l-e",
-    "syllables": 3,
-    "name_length": 8,
-    "transliteration": [
-      "Amadelle"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Amadelle total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_hebrew": {
-      "name": "עמדל",
-      "meaning": "עזרה נשים, מעמדה, יהודית, חסידה",
-      "long_meaning": "עזרה נשים, מעמדה, יהודית, חסידה - השם עמדל, בעברית, יצא מהמבנה הפועלי-עזרה נשים, ומעמדה, שניהם בעלי פירות פועליים, יצא מהמילה הארמית אלאלד, שמשמעותה באיי בית. השם עמדל, בצורתו המקורית, מגיע למשמעות תהר יאל בית, הי לאירה בלר, כלומר, בית היר או בית, הי לאירה בלר"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αμαδελλη",
-      "meaning": "αναγθη εβνοσ παόδια τος",
-      "long_meaning": "αναγθη εβνοσ παόδια τος - ανα περγγελλη, περγελλΩ, τος, γεκελλη ανα περγελλη, τος εβγατε εικε τος, περγελλΩ δελεσ περγελλη"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Amadelle",
-      "meaning": "Amicitia, fidelitas, feminina, virtus",
-      "long_meaning": "Amicitia, fidelitas, feminina, virtus - Nomen Amadelle, a Latinum, venit ex structura Amicitia, fidelitas, ambo nomina actionis perfectae, venit a verbo Aramaico ćōmşëlæ, quae significat ægérá. Nomen Amadelle, in forma originali, significat ægérá æ çápá áná ægérá, áná ágérá á çápá áná ægérá, id est, ægérá á çápá áná ægérá, ágérá á çápá áná ægérá"
-    },
-    "in_english": {
-      "name": "Amadelle",
-      "meaning": "God is my helper",
-      "long_meaning": "God is my helper"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AM-uh-dell",
-      "biblical": "pronunciation in biblical Hebrew/Greek context if applicable",
-      "ipa": "/əməˈdɛl/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Amadelle"
-    ],
-    "variants": [
-      "Amadelle"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Amadelle is used in Biblical naming tradition with the meaning “God is my helper”.",
-    "spiritual_significance": "Any spiritual significance attached to Amadelle is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “God is my helper” is the basis of any symbolism attached to Amadelle; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Amadelle."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AmadelleMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Amadelle"
-    ],
-    "monetization": {
-      "price": 9.99,
-      "currency": "USD"
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Amadelle Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Amadelle has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Amadelle, Amadelle name meaning, Amadelle meaning, Amadelle origin, Amadelle root, Amadelle pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Amadelle has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Amadelle name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Amadelle Name Meaning & Origin | NameVerse",
+      "meta_description": "Amadelle: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Amadelle",
-        "Amadelle name meaning",
-        "Amadelle meaning",
-        "Amadelle origin",
-        "Amadelle root",
-        "Amadelle pronunciation",
-        "Biblical names"
+        "Amadelle name meaning"
       ],
-      "focus_keyword": "Amadelle name meaning",
-      "secondary_keywords": [
-        "Amadelle meaning",
-        "Amadelle origin",
-        "Amadelle pronunciation",
-        "Amadelle lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Amadelle mean?",
-          "a": "Name-lists record the meaning as “God is my helper”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Amadelle verified?",
-          "a": "No. The meaning of Amadelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Amadelle come from?",
-          "a": "The origin of Amadelle has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Amadelle Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Amadelle has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Amadelle Name Meaning & Origin | NameVerse",
+    "meta_description": "Amadelle: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Amadelle",
-      "Amadelle name meaning",
-      "Amadelle meaning",
-      "Amadelle origin",
-      "Amadelle root",
-      "Amadelle pronunciation",
-      "Biblical names"
+      "Amadelle name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Amadelle has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Amadelle",
-      "description": "Amadelle — God is my helper",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Amadelle mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “God is my helper”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Amadelle verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Amadelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Amadelle come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Amadelle has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 56,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:07.000Z",
-    "tier1_verified": {
-      "name": "Amadelle",
-      "slug": "amadelle",
-      "meaning": "God is my helper",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Amadelle",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "God is my helper",
-      "long_meaning": "The name Amadelle is recorded with the meaning “God is my helper”. Amadelle is a Biblical name meaning “God is my helper”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Amadelle",
-          "meaning": "God is my helper",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AM-uh-dell",
-        "ipa": "/əməˈdɛl/"
-      },
-      "syllables": 3,
-      "name_length": 8,
-      "faqs": [
-        {
-          "q": "What does the name Amadelle mean?",
-          "a": "Name-lists record the meaning as “God is my helper”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Amadelle verified?",
-          "a": "No. The meaning of Amadelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Amadelle come from?",
-          "a": "The origin of Amadelle has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Amadelle total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:10:02.000Z",
+    "updated_at": "2026-10-03T03:10:02.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -317,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:07.000Z"
+      "processed_at": "2026-10-03T03:10:02.000Z"
     }
   }
 }

@@ -3,312 +3,161 @@
   "data": {
     "name": "Alzbeta",
     "slug": "alzbeta",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Alzbeta is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alzbeta",
+    "normalized_name": "alzbeta",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Saint",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "God's Protector",
-    "long_meaning": "The meaning of Alzbeta is recorded in name-lists as “God's Protector”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alzbeta expresses “God's Protector”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-z-b-e-t-a",
-    "syllables": 3,
-    "name_length": 7,
-    "transliteration": [
-      "Alzbeta"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Grey",
-      "Blue"
-    ],
-    "lucky_stone": "Hessonite",
-    "ruling_planet": "Rahu",
-    "life_path_number": 4,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alzbeta total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-    "in_hebrew": {
-      "name": "אלזבета",
-      "meaning": "אלזבета היא אל שבטה נדיב",
-      "long_meaning": "אלזבета היא שם עברי שפירושו אל שבטה נדיב, מורכב מ'אל' שפירושו אלוהים ו'זבטה' שפירושו נדיב, ומשמעו אלוהים הוא הנדיב או אלוהים נדיב לנו."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αλζβέτα",
-      "meaning": "Αλζβέτα σημαίνει Θεού πλούσιος",
-      "long_meaning": "Το όνομα Αλζβέτα προέρχεται από το εβραϊκό όνομα 'אלזבטה' (Elisheva) που σημαίνει 'Θεού πλούσιος' ή 'Η Θεός είναι η πλουσία μου'. Στην Καινή Διαθήκη, το όνομα αυτό συναντάται ως 'Ελισαβετ' (Elisabet) και είναι το όνομα της μητέρας του Ιωάννη του Βαπτιστή."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alzbeta",
-      "meaning": "Alzbeta means God's generous gift",
-      "long_meaning": "The name Alzbeta is derived from the Hebrew name 'אלזבטה' (Elisheva), which means 'God's generous gift' or 'God is my oath'. In the Christian tradition, this name is associated with Saint Elizabeth, the mother of John the Baptist, and is often given to girls born into families of strong faith."
-    },
-    "in_english": {
-      "name": "Alzbeta",
-      "meaning": "God's Protector",
-      "long_meaning": "God's Protector"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "ahlz-BEH-tah",
-      "ipa": "/ahlzˈbeɪtə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alzbeta"
-    ],
-    "variants": [
-      "Alzbeta"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alzbeta is used in Biblical naming tradition with the meaning “God's Protector”.",
-    "spiritual_significance": "Any spiritual significance attached to Alzbeta is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “God's Protector” is the basis of any symbolism attached to Alzbeta; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alzbeta."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlzbetaMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Alzbeta"
-    ],
-    "monetization": {
-      "ad_placement": "below_content"
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alzbeta Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alzbeta has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alzbeta, Alzbeta name meaning, Alzbeta meaning, Alzbeta origin, Alzbeta root, Alzbeta pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alzbeta has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alzbeta name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alzbeta Name Meaning & Origin | NameVerse",
+      "meta_description": "Alzbeta: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alzbeta",
-        "Alzbeta name meaning",
-        "Alzbeta meaning",
-        "Alzbeta origin",
-        "Alzbeta root",
-        "Alzbeta pronunciation",
-        "Biblical names"
+        "Alzbeta name meaning"
       ],
-      "focus_keyword": "Alzbeta name meaning",
-      "secondary_keywords": [
-        "Alzbeta meaning",
-        "Alzbeta origin",
-        "Alzbeta pronunciation",
-        "Alzbeta lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alzbeta mean?",
-          "a": "Name-lists record the meaning as “God's Protector”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alzbeta verified?",
-          "a": "No. The meaning of Alzbeta could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alzbeta come from?",
-          "a": "The origin of Alzbeta has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alzbeta Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alzbeta has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alzbeta Name Meaning & Origin | NameVerse",
+    "meta_description": "Alzbeta: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alzbeta",
-      "Alzbeta name meaning",
-      "Alzbeta meaning",
-      "Alzbeta origin",
-      "Alzbeta root",
-      "Alzbeta pronunciation",
-      "Biblical names"
+      "Alzbeta name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alzbeta has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alzbeta",
-      "description": "Alzbeta — God's Protector",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alzbeta mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “God's Protector”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alzbeta verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alzbeta could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alzbeta come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alzbeta has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:07.000Z",
-    "tier1_verified": {
-      "name": "Alzbeta",
-      "slug": "alzbeta",
-      "meaning": "God's Protector",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alzbeta",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "God's Protector",
-      "long_meaning": "The name Alzbeta is recorded with the meaning “God's Protector”. Alzbeta is a Biblical name meaning “God's Protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alzbeta",
-          "meaning": "God's Protector",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "ahlz-BEH-tah",
-        "ipa": "/ahlzˈbeɪtə/"
-      },
-      "syllables": 3,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Alzbeta mean?",
-          "a": "Name-lists record the meaning as “God's Protector”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alzbeta verified?",
-          "a": "No. The meaning of Alzbeta could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alzbeta come from?",
-          "a": "The origin of Alzbeta has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 4,
-        "life_path_number": 4,
-        "ruling_planet": "Rahu",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Hessonite",
-        "lucky_colors": [
-          "Grey",
-          "Blue"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alzbeta total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:09:59.000Z",
+    "updated_at": "2026-10-03T03:09:59.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -317,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:07.000Z"
+      "processed_at": "2026-10-03T03:09:59.000Z"
     }
   }
 }

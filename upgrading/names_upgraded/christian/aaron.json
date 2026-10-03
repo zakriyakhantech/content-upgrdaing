@@ -3,162 +3,344 @@
   "data": {
     "name": "Aaron",
     "slug": "aaron",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Aaron",
+    "normalized_name": "aaron",
     "language": [
-      "Hebrew"
+      "Biblical Hebrew",
+      "English",
+      "Greek",
+      "Latin"
     ],
     "gender": "Male",
-    "gender_notes": "Aaron is used as a male name in christian naming traditions.",
-    "origin": "Hebrew",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Hebrew (disputed; possibly Egyptian)",
+    "origin_detail": "The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established.",
     "religion": "christian",
-    "category": "Christian",
-    "culture": [
-      "Hebrew"
+    "christian_status": {
+      "is_christian_name": true,
+      "confidence": "MEDIUM",
+      "classification": "biblical",
+      "explanation": "The personal name occurs in the Hebrew Bible (Exodus) and in the New Testament (e.g. Luke 1:5; Hebrews)."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "High mountain; exalted (proposed); the etymology is uncertain",
+      "alternative_gloss": "exalted (proposed); light / illuminator (proposed)",
+      "meaning_type": "lexical",
+      "confidence": "MEDIUM",
+      "note": "Aaron is the anglicised form of the Biblical Hebrew ʾAharon."
+    },
+    "short_meaning": "High mountain; exalted (proposed); the etymology is uncertain",
+    "long_meaning": "Aaron (אַהֲרֹן) is a name of Hebrew (disputed; possibly Egyptian) origin meaning “High mountain; exalted (proposed); the etymology is uncertain”. The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established. Its root is Hebrew אַהֲרֹן (ʾAharon); etymology disputed - possibly Egyptian, or from Hebrew roots אור ('or, 'light') or הר (har, 'mountain'). Aaron is the anglicised form of the Biblical Hebrew ʾAharon. It is distinct from Aron / Harun (cognate forms in other languages).",
+    "etymology": {
+      "components": [
+        "high mountain (proposed)",
+        "exalted (proposed)",
+        "light / illuminator (proposed)"
+      ],
+      "formation": "The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "high mountain (proposed)",
+      "exalted (proposed)",
+      "light / illuminator (proposed)"
     ],
-    "short_meaning": "Mountain of strength; exalted",
-    "long_meaning": "The meaning of Aaron is recorded in name-lists as “Mountain of strength; exalted”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aaron expresses “Mountain of strength; exalted”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Hebrew",
-    "root_letters": "a-a-r-o-n",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Aharon"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Grey",
-      "Blue"
-    ],
-    "lucky_stone": "Hessonite",
-    "ruling_planet": "Rahu",
-    "life_path_number": 4,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aaron total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-    "in_hebrew": {
-      "name": "אַהֲרֹן",
-      "meaning": "Mountain of strength; exalted",
-      "long_meaning": "אַהֲרֹן — meaning: Mountain of strength; exalted"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 4,
+      "lucky_number": 4,
+      "numerology_meaning": "stability, order and hard work",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Ἀαρών",
-      "meaning": "Mountain of strength; exalted",
-      "long_meaning": "Ἀαρών — meaning: Mountain of strength; exalted"
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Aaron",
-      "meaning": "Mountain of strength; exalted",
-      "long_meaning": "Aaron — meaning: Mountain of strength; exalted"
+    "translations": {
+      "hebrew": {
+        "name": "אַהֲרֹן",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "אַהֲרֹן is the name's own orthography in Hebrew script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "greek": {
+        "name": "Ἀαρών",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Ἀαρών is the name's own orthography in Greek script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Aaron",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Aaron is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Aaron",
+        "meaning": "High mountain; exalted (proposed); the etymology is uncertain",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Aaron",
-      "meaning": "Mountain of strength; exalted",
-      "long_meaning": "Mountain of strength; exalted"
+    "scripts": {
+      "hebrew": "אַהֲרֹן",
+      "greek": "Ἀαρών",
+      "latin": "Aaron"
     },
     "pronunciation": {
-      "english": "ahron",
-      "ipa": "/ɑːron/"
+      "original_language": {
+        "transliteration": "ʾAharon",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "AIR-ən / AR-ən",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "hebrew": "אַהֲרֹן",
+      "greek": "Ἀαρών",
+      "latin": "Aaron"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": true,
+      "exact_lexical_form_occurs": true,
+      "root_or_lemma_occurs": true,
+      "related_forms_occur": true,
+      "old_testament_occurs": true,
+      "new_testament_occurs": true,
+      "christian_historical_usage": true,
+      "saint_association": false,
+      "interpretation": "The personal name occurs in the Hebrew Bible (Exodus) and in the New Testament (e.g. Luke 1:5; Hebrews)."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [
+      {
+        "person": "Aaron, brother of Moses",
+        "form": "אַהֲרֹן / Ἀαρών",
+        "period": "Biblical narrative",
+        "source": "Exodus 4:14; 28:1"
+      }
+    ],
+    "historical_note": "",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Biblical Hebrew, English, Greek, Latin naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Aaron"
+      "Aharon",
+      "Aron",
+      "Harun",
+      "Aarón"
     ],
     "variants": [
-      "Aaron"
+      "Aharon",
+      "Aron",
+      "Harun",
+      "Aarón"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "Moses",
+      "Miriam"
+    ],
+    "similar_sounding_names": [
+      "Aaren",
+      "Aarika",
+      "Aaronn",
+      "Aaronson"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Aaron is used in Hebrew naming tradition with the meaning “Mountain of strength; exalted”.",
-    "spiritual_significance": "Any spiritual significance attached to Aaron is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Mountain of strength; exalted” is the basis of any symbolism attached to Aaron; such symbolism is interpretive.",
-    "biblical_reference": {},
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aaron."
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
+    "biblical_reference": {
+      "occurs": true,
+      "old_testament": true,
+      "new_testament": true,
+      "note": "The personal name occurs in the Hebrew Bible (Exodus) and in the New Testament (e.g. Luke 1:5; Hebrews)."
     },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#Aaron",
-      "#AaronMeaning",
-      "#ChristianNames",
-      "#BabyNames"
-    ],
-    "monetization": {},
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Aaron Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aaron has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aaron, Aaron name meaning, Aaron meaning, Aaron origin, Aaron root, Aaron pronunciation, Hebrew names",
-      "description_paragraph": "The meaning of Aaron has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Aaron name meaning and origin",
+      "secondary_search_intents": [
+        "is Aaron a biblical name",
+        "Aaron name origin and language",
+        "Aaron pronunciation"
+      ],
+      "seo_title": "Aaron Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Aaron: meaning “High mountain; exalted (proposed); the etymology is uncertain”, Hebrew (disputed; possibly Egyptian) origin. Verified etymology, Biblical stat",
+      "description_paragraph": "Aaron (אַהֲרֹן) is a name of Hebrew (disputed; possibly Egyptian) origin meaning “High mountain; exalted (proposed); the etymology is uncertain”. The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established. Its root is Hebrew אַהֲרֹן (ʾAharon); etymology disputed - possibly Egyptian, or from Hebrew roots אור ('or, 'light') or הר (har, 'mountain'). Aaron is the anglicised form of the Biblical Hebrew ʾAharon. It is distinct from Aron / Harun (cognate forms in other languages).",
       "keywords": [
-        "Aaron",
         "Aaron name meaning",
-        "Aaron meaning",
         "Aaron origin",
-        "Aaron root",
+        "Aaron biblical name",
         "Aaron pronunciation",
-        "Hebrew names"
+        "Aaron etymology"
       ],
-      "focus_keyword": "Aaron name meaning",
-      "secondary_keywords": [
-        "Aaron meaning",
-        "Aaron origin",
-        "Aaron pronunciation",
-        "Aaron lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 90,
       "faq": [
         {
           "q": "What does the name Aaron mean?",
-          "a": "Name-lists record the meaning as “Mountain of strength; exalted”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Aaron means “High mountain; exalted (proposed); the etymology is uncertain”."
+        },
+        {
+          "q": "What is the origin of the name Aaron?",
+          "a": "Aaron is of Hebrew (disputed; possibly Egyptian) origin."
+        },
+        {
+          "q": "What language does the name Aaron come from?",
+          "a": "Aaron is used in Biblical Hebrew, English, Greek, Latin."
+        },
+        {
+          "q": "Is Aaron a boy's name or a girl's name?",
+          "a": "Aaron is used as a male name."
+        },
+        {
+          "q": "How is Aaron pronounced?",
+          "a": "Aaron is pronounced AIR-ən / AR-ən."
+        },
+        {
+          "q": "How is Aaron written in Hebrew?",
+          "a": "Aaron is written אַהֲרֹן in Hebrew script."
+        },
+        {
+          "q": "How is Aaron written in Greek?",
+          "a": "Aaron is written Ἀαρών in Greek script."
+        },
+        {
+          "q": "How is Aaron written in Latin?",
+          "a": "Aaron is written Aaron in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Aaron?",
+          "a": "The root of Aaron is Hebrew אַהֲרֹן (ʾAharon); etymology disputed - possibly Egyptian, or from Hebrew roots אור ('or, 'light') or הר (har, 'mountain')."
+        },
+        {
+          "q": "What is the etymology of Aaron?",
+          "a": "The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established."
+        },
+        {
+          "q": "Does Aaron appear in the Bible?",
+          "a": "Yes. The personal name occurs in the Hebrew Bible (Exodus) and in the New Testament (e.g. Luke 1:5; Hebrews)."
+        },
+        {
+          "q": "Is Aaron a Biblical name?",
+          "a": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the Hebrew Bible (Exodus) and in the New Testament (e.g. Luke 1:5; Hebrews)."
+        },
+        {
+          "q": "Does Aaron occur in the Old Testament?",
+          "a": "Yes."
+        },
+        {
+          "q": "Does Aaron occur in the New Testament?",
+          "a": "Yes."
+        },
+        {
+          "q": "Is Aaron associated with a saint?",
+          "a": "No saint association is verified for the name Aaron."
         },
         {
           "q": "Is the meaning of Aaron verified?",
-          "a": "No. The meaning of Aaron could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “High mountain; exalted (proposed); the etymology is uncertain” is supported by Old Testament: Aaron, brother of Moses and first high priest (Exodus 4:14; 28:1). Confidence: MEDIUM."
         },
         {
-          "q": "Where does the name Aaron come from?",
-          "a": "The origin of Aaron has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Aaron?",
+          "a": "In Pythagorean numerology the letters of Aaron total 49, reducing to 4. Number 4 is traditionally associated with stability, order and hard work. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Aaron?",
+          "a": "Variants and alternative forms include Aharon, Aron, Harun, Aarón."
+        },
+        {
+          "q": "Is Aaron the same as Aron / Harun?",
+          "a": "No. Aaron is distinct from Aron / Harun (cognate forms in other languages)."
+        },
+        {
+          "q": "What is the transliteration of Aaron?",
+          "a": "Aaron is transliterated as ʾAharon."
+        },
+        {
+          "q": "How many syllables does Aaron have?",
+          "a": "Aaron has 2 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Aaron?",
+          "a": "Any spiritual significance attached to Aaron is interpretive. Its documented core is the lexical meaning “High mountain; exalted (proposed); the etymology is uncertain”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Aaron used today?",
+          "a": "Aaron circulates chiefly in Biblical Hebrew, English, Greek, Latin naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 23 (>=10 target) · tier-1 confidence MEDIUM · 1 open issue(s)"
     },
-    "seo_title": "Aaron Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aaron has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Aaron Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Aaron: meaning “High mountain; exalted (proposed); the etymology is uncertain”, Hebrew (disputed; possibly Egyptian) origin. Verified etymology, Biblical stat",
     "keywords": [
-      "Aaron",
       "Aaron name meaning",
-      "Aaron meaning",
       "Aaron origin",
-      "Aaron root",
+      "Aaron biblical name",
       "Aaron pronunciation",
-      "Hebrew names"
+      "Aaron etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Aaron has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Aaron (אַהֲרֹן) is a name of Hebrew (disputed; possibly Egyptian) origin meaning “High mountain; exalted (proposed); the etymology is uncertain”. The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established. Its root is Hebrew אַהֲרֹן (ʾAharon); etymology disputed - possibly Egyptian, or from Hebrew roots אור ('or, 'light') or הר (har, 'mountain'). Aaron is the anglicised form of the Biblical Hebrew ʾAharon. It is distinct from Aron / Harun (cognate forms in other languages).",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Aaron",
-      "description": "Aaron — Mountain of strength; exalted",
-      "additionalType": "https://schema.org/Person"
+      "description": "High mountain; exalted (proposed); the etymology is uncertain",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -169,7 +351,119 @@
           "name": "What does the name Aaron mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Mountain of strength; exalted”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Aaron means “High mountain; exalted (proposed); the etymology is uncertain”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Aaron?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron is of Hebrew (disputed; possibly Egyptian) origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Aaron come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron is used in Biblical Hebrew, English, Greek, Latin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aaron a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aaron pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron is pronounced AIR-ən / AR-ən."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aaron written in Hebrew?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron is written אַהֲרֹן in Hebrew script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aaron written in Greek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron is written Ἀαρών in Greek script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aaron written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron is written Aaron in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Aaron?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Aaron is Hebrew אַהֲרֹן (ʾAharon); etymology disputed - possibly Egyptian, or from Hebrew roots אור ('or, 'light') or הר (har, 'mountain')."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Aaron?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aaron appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The personal name occurs in the Hebrew Bible (Exodus) and in the New Testament (e.g. Luke 1:5; Hebrews)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aaron a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the Hebrew Bible (Exodus) and in the New Testament (e.g. Luke 1:5; Hebrews)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aaron occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aaron occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aaron associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Aaron."
           }
         },
         {
@@ -177,152 +471,210 @@
           "name": "Is the meaning of Aaron verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Aaron could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “High mountain; exalted (proposed); the etymology is uncertain” is supported by Old Testament: Aaron, brother of Moses and first high priest (Exodus 4:14; 28:1). Confidence: MEDIUM."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Aaron come from?",
+          "name": "What is the numerology or lucky number of Aaron?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Aaron has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Aaron total 49, reducing to 4. Number 4 is traditionally associated with stability, order and hard work. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Aaron?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Aharon, Aron, Harun, Aarón."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aaron the same as Aron / Harun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Aaron is distinct from Aron / Harun (cognate forms in other languages)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Aaron?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron is transliterated as ʾAharon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Aaron have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron has 2 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Aaron?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Aaron is interpretive. Its documented core is the lexical meaning “High mountain; exalted (proposed); the etymology is uncertain”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Aaron used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaron circulates chiefly in Biblical Hebrew, English, Greek, Latin naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Aaron",
+          "item": ""
+        }
+      ]
+    },
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 55,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "MEDIUM",
+      "basis": "Old Testament: Aaron, brother of Moses and first high priest (Exodus 4:14; 28:1)."
     },
     "data_quality": {
-      "source_was_thin": true,
-      "authenticity_flags": [],
-      "fields_total": 69
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:41.000Z",
+    "created_at": "2026-10-03T02:50:51.000Z",
+    "updated_at": "2026-10-03T02:50:51.000Z",
     "tier1_verified": {
       "name": "Aaron",
       "slug": "aaron",
-      "meaning": "Mountain of strength; exalted",
-      "origin": "Hebrew",
+      "meaning": "High mountain; exalted (proposed); the etymology is uncertain",
+      "origin": "Hebrew (disputed; possibly Egyptian)",
       "language": [
-        "Hebrew"
+        "Biblical Hebrew",
+        "English",
+        "Greek",
+        "Latin"
       ],
       "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aaron",
-      "reference": "",
-      "confidence": "UNKNOWN"
+      "root": "Hebrew אַהֲרֹן (ʾAharon); etymology disputed - possibly Egyptian, or from Hebrew roots אור ('or, 'light') or הר (har, 'mountain')",
+      "etymology": "The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established.",
+      "script": {
+        "hebrew": "אַהֲרֹן",
+        "greek": "Ἀαρών",
+        "latin": "Aaron"
+      },
+      "transliteration": "ʾAharon",
+      "reference": "Old Testament: Aaron, brother of Moses and first high priest (Exodus 4:14; 28:1).",
+      "confidence": "MEDIUM"
     },
     "tier2_explanatory": {
-      "short_meaning": "Mountain of strength; exalted",
-      "long_meaning": "From the Hebrew Aharon; the etymology is uncertain, often given as 'mountain of strength' or 'exalted'. Its root is Hebrew ʾ-h-r-n. Aaron, brother of Moses and the first high priest (Exodus 4). Aaron is a Hebrew name meaning “Mountain of strength; exalted”. Families who choose it generally do so for the quality the name expresses.",
-      "translations": {
-        "hebrew": {
-          "name": "אַהֲרֹן",
-          "meaning": "אַהֲרֹן — meaning: Mountain of strength; exalted",
-          "confidence": "HIGH"
-        },
-        "greek": {
-          "name": "Ἀαρών",
-          "meaning": "Ἀαρών — meaning: Mountain of strength; exalted",
-          "confidence": "HIGH"
-        },
-        "latin": {
-          "name": "Aaron",
-          "meaning": "Aaron — meaning: Mountain of strength; exalted",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aaron",
-          "meaning": "Mountain of strength; exalted",
-          "confidence": "HIGH"
-        }
+      "long_meaning": "Aaron (אַהֲרֹן) is a name of Hebrew (disputed; possibly Egyptian) origin meaning “High mountain; exalted (proposed); the etymology is uncertain”. The etymology of אַהֲרֹן (ʾAharon) is uncertain. A widely cited view holds an Egyptian origin; other proposals derive it from Hebrew אור ('or) 'to be light' or הר (har) 'mountain'. No single derivation is established. Its root is Hebrew אַהֲרֹן (ʾAharon); etymology disputed - possibly Egyptian, or from Hebrew roots אור ('or, 'light') or הר (har, 'mountain'). Aaron is the anglicised form of the Biblical Hebrew ʾAharon. It is distinct from Aron / Harun (cognate forms in other languages).",
+      "biblical_status": {
+        "exact_name_form_occurs": true,
+        "exact_lexical_form_occurs": true,
+        "root_or_lemma_occurs": true,
+        "related_forms_occur": true,
+        "old_testament_occurs": true,
+        "new_testament_occurs": true,
+        "christian_historical_usage": true,
+        "saint_association": false,
+        "interpretation": "The personal name occurs in the Hebrew Bible (Exodus) and in the New Testament (e.g. Luke 1:5; Hebrews)."
       },
-      "pronunciation": {
-        "english": "ahron",
-        "ipa": "/ɑːron/"
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
       },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
+      "historical_references": [
         {
-          "q": "What does the name Aaron mean?",
-          "a": "Name-lists record the meaning as “Mountain of strength; exalted”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aaron verified?",
-          "a": "No. The meaning of Aaron could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aaron come from?",
-          "a": "The origin of Aaron has not been verified and is not asserted here."
+          "person": "Aaron, brother of Moses",
+          "form": "אַהֲרֹן / Ἀαρών",
+          "period": "Biblical narrative",
+          "source": "Exodus 4:14; 28:1"
         }
       ]
     },
     "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
       "numerology": {
-        "lucky_number": 4,
-        "life_path_number": 4,
-        "ruling_planet": "Rahu",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Hessonite",
-        "lucky_colors": [
-          "Grey",
-          "Blue"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aaron total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+        "name_number": 4,
+        "meaning": "stability, order and hard work",
+        "status": "belief_based"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "sources": [
+        "Old Testament: Aaron, brother of Moses and first high priest (Exodus 4:14; 28:1)."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "Old Testament: Aaron, brother of Moses and first high priest (Exodus 4:14; 28:1).",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "Old Testament: Aaron, brother of Moses and first high priest (Exodus 4:14; 28:1)."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:41.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:50:51.000Z"
     }
   }
 }

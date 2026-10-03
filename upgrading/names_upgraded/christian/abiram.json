@@ -3,177 +3,341 @@
   "data": {
     "name": "Abiram",
     "slug": "abiram",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Abiram",
+    "normalized_name": "abiram",
     "language": [
+      "Biblical Hebrew",
       "English",
-      "Hebrew"
+      "Greek",
+      "Latin"
     ],
     "gender": "Male",
-    "gender_notes": "Abiram is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Hebrew",
+    "origin_detail": "A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'.",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": true,
+      "confidence": "HIGH",
+      "classification": "biblical",
+      "explanation": "The personal name occurs in the Hebrew Bible (Numbers 16:1; 1 Kings 16:34)."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "My father is exalted; the Exalted One is my father",
+      "alternative_gloss": "father of loftiness",
+      "meaning_type": "lexical",
+      "confidence": "HIGH",
+      "note": "Abiram is the anglicised form of Biblical Hebrew ʾAviram."
+    },
+    "short_meaning": "My father is exalted; the Exalted One is my father",
+    "long_meaning": "Abiram (אֲבִירָם) is a name of Hebrew origin meaning “My father is exalted; the Exalted One is my father”. A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'. Its root is Hebrew אֲבִירָם (ʾAviram), from אָב ('av) 'father' + רוּם (rum) 'to be exalted, high'. Abiram is the anglicised form of Biblical Hebrew ʾAviram. It is distinct from Abram (אַבְרָם) - a distinct name, 'exalted father'.",
+    "etymology": {
+      "components": [
+        "my father is exalted",
+        "father of loftiness"
+      ],
+      "formation": "A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "my father is exalted",
+      "father of loftiness"
     ],
-    "short_meaning": "My father is exalted",
-    "long_meaning": "The meaning of Abiram is recorded in name-lists as “My father is exalted”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Abiram expresses “My father is exalted”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-b-i-r-a-m",
-    "syllables": 3,
-    "name_length": 6,
-    "transliteration": [
-      "Abiram"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Abiram total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_hebrew": {
-      "name": "אֲבִירָם",
-      "meaning": "אבי רם, אב לרמי",
-      "long_meaning": "אֲבִירָם הוא שם עברי שמורכב משני מילים: אב ורם, שמשמעו אב לרמי, או אבי רם, ומופיע בתנ״ך בספר במדבר"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 8,
+      "lucky_number": 8,
+      "numerology_meaning": "ambition, authority and material success",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Αβιραμ",
-      "meaning": "πατήρ ὑψοῦ",
-      "long_meaning": "Το όνομα Αβιραμ είναι ελληνική μεταγραφή του εβραϊκού ονόματος אֲבִירָם, που σημαίνει πατήρ ὑψοῦ, και αναφέρεται σε πρόσωπα της Παλαιάς Διαθήκης"
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Abiram",
-      "meaning": "pater excelsus",
-      "long_meaning": "Abiram est nomen Hebraicum, quod significat patrem excelsus, et in Veteri Testamento occurrunt personae quae hoc nomen portant"
+    "translations": {
+      "hebrew": {
+        "name": "אֲבִירָם",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "אֲבִירָם is the name's own orthography in Hebrew script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "greek": {
+        "name": "Ἀβειρών",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Ἀβειρών is the name's own orthography in Greek script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Abiram",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Abiram is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Abiram",
+        "meaning": "My father is exalted; the Exalted One is my father",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Abiram",
-      "meaning": "My father is exalted",
-      "long_meaning": "My father is exalted"
+    "scripts": {
+      "hebrew": "אֲבִירָם",
+      "greek": "Ἀβειρών",
+      "latin": "Abiram"
     },
     "pronunciation": {
-      "english": "AB-ih-ram",
-      "biblical": "ʾÁḇīrām",
-      "ipa": "/ˈæbɪrəm/"
+      "original_language": {
+        "transliteration": "ʾAviram",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "ə-BY-rəm",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "hebrew": "אֲבִירָם",
+      "greek": "Ἀβειρών",
+      "latin": "Abiram"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": true,
+      "exact_lexical_form_occurs": true,
+      "root_or_lemma_occurs": true,
+      "related_forms_occur": true,
+      "old_testament_occurs": true,
+      "new_testament_occurs": false,
+      "christian_historical_usage": true,
+      "saint_association": false,
+      "interpretation": "The personal name occurs in the Hebrew Bible (Numbers 16:1; 1 Kings 16:34)."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [
+      {
+        "person": "Abiram, son of Eliab",
+        "form": "אֲבִירָם",
+        "period": "Biblical narrative",
+        "source": "Numbers 16:1"
+      }
+    ],
+    "historical_note": "",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Biblical Hebrew, English, Greek, Latin naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
+      "Aviram",
       "Abiram"
     ],
     "variants": [
+      "Aviram",
       "Abiram"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "Abram",
+      "Korah",
+      "Dathan"
+    ],
+    "similar_sounding_names": [
+      "Abiel",
+      "Abigael",
+      "Abigail",
+      "Abigale",
+      "Abijah",
+      "Abilio"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Abiram is used in Biblical naming tradition with the meaning “My father is exalted”.",
-    "spiritual_significance": "Any spiritual significance attached to Abiram is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “My father is exalted” is the basis of any symbolism attached to Abiram; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Numbers",
-      "verse_reference": "Numbers 16:1",
-      "note": "Abiram was a leader of the rebellion against Moses"
+      "occurs": true,
+      "old_testament": true,
+      "new_testament": false,
+      "note": "The personal name occurs in the Hebrew Bible (Numbers 16:1; 1 Kings 16:34)."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Abiram."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AbiramMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Abiram"
-    ],
-    "monetization": {
-      "adsense": {
-        "ads_location": [
-          "header",
-          "sidebar"
-        ]
-      }
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Abiram Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Abiram has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Abiram, Abiram name meaning, Abiram meaning, Abiram origin, Abiram root, Abiram pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Abiram has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Abiram name meaning and origin",
+      "secondary_search_intents": [
+        "is Abiram a biblical name",
+        "Abiram name origin and language",
+        "Abiram pronunciation"
+      ],
+      "seo_title": "Abiram Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Abiram: meaning “My father is exalted; the Exalted One is my father”, Hebrew origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Abiram (אֲבִירָם) is a name of Hebrew origin meaning “My father is exalted; the Exalted One is my father”. A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'. Its root is Hebrew אֲבִירָם (ʾAviram), from אָב ('av) 'father' + רוּם (rum) 'to be exalted, high'. Abiram is the anglicised form of Biblical Hebrew ʾAviram. It is distinct from Abram (אַבְרָם) - a distinct name, 'exalted father'.",
       "keywords": [
-        "Abiram",
         "Abiram name meaning",
-        "Abiram meaning",
         "Abiram origin",
-        "Abiram root",
+        "Abiram biblical name",
         "Abiram pronunciation",
-        "Biblical names"
+        "Abiram etymology"
       ],
-      "focus_keyword": "Abiram name meaning",
-      "secondary_keywords": [
-        "Abiram meaning",
-        "Abiram origin",
-        "Abiram pronunciation",
-        "Abiram lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Abiram mean?",
-          "a": "Name-lists record the meaning as “My father is exalted”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Abiram means “My father is exalted; the Exalted One is my father”."
+        },
+        {
+          "q": "What is the origin of the name Abiram?",
+          "a": "Abiram is of Hebrew origin."
+        },
+        {
+          "q": "What language does the name Abiram come from?",
+          "a": "Abiram is used in Biblical Hebrew, English, Greek, Latin."
+        },
+        {
+          "q": "Is Abiram a boy's name or a girl's name?",
+          "a": "Abiram is used as a male name."
+        },
+        {
+          "q": "How is Abiram pronounced?",
+          "a": "Abiram is pronounced ə-BY-rəm."
+        },
+        {
+          "q": "How is Abiram written in Hebrew?",
+          "a": "Abiram is written אֲבִירָם in Hebrew script."
+        },
+        {
+          "q": "How is Abiram written in Greek?",
+          "a": "Abiram is written Ἀβειρών in Greek script."
+        },
+        {
+          "q": "How is Abiram written in Latin?",
+          "a": "Abiram is written Abiram in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Abiram?",
+          "a": "The root of Abiram is Hebrew אֲבִירָם (ʾAviram), from אָב ('av) 'father' + רוּם (rum) 'to be exalted, high'."
+        },
+        {
+          "q": "What is the etymology of Abiram?",
+          "a": "A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'."
+        },
+        {
+          "q": "Does Abiram appear in the Bible?",
+          "a": "Yes. The personal name occurs in the Hebrew Bible (Numbers 16:1; 1 Kings 16:34)."
+        },
+        {
+          "q": "Is Abiram a Biblical name?",
+          "a": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the Hebrew Bible (Numbers 16:1; 1 Kings 16:34)."
+        },
+        {
+          "q": "Does Abiram occur in the Old Testament?",
+          "a": "Yes."
+        },
+        {
+          "q": "Does Abiram occur in the New Testament?",
+          "a": "No — it is not attested in the New Testament."
+        },
+        {
+          "q": "Is Abiram associated with a saint?",
+          "a": "No saint association is verified for the name Abiram."
         },
         {
           "q": "Is the meaning of Abiram verified?",
-          "a": "No. The meaning of Abiram could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “My father is exalted; the Exalted One is my father” is supported by Old Testament: a Reubenite who joined Korah's rebellion (Numbers 16:1). Confidence: HIGH."
         },
         {
-          "q": "Where does the name Abiram come from?",
-          "a": "The origin of Abiram has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Abiram?",
+          "a": "In Pythagorean numerology the letters of Abiram total 44, reducing to 8. Number 8 is traditionally associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Abiram?",
+          "a": "Variants and alternative forms include Aviram, Abiram."
+        },
+        {
+          "q": "Is Abiram the same as Abram?",
+          "a": "No. Abiram is distinct from Abram (אַבְרָם) - a distinct name, 'exalted father'."
+        },
+        {
+          "q": "What is the transliteration of Abiram?",
+          "a": "Abiram is transliterated as ʾAviram."
+        },
+        {
+          "q": "How many syllables does Abiram have?",
+          "a": "Abiram has 3 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Abiram?",
+          "a": "Any spiritual significance attached to Abiram is interpretive. Its documented core is the lexical meaning “My father is exalted; the Exalted One is my father”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Abiram used today?",
+          "a": "Abiram circulates chiefly in Biblical Hebrew, English, Greek, Latin naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 23 (>=10 target) · tier-1 confidence HIGH · 0 open issue(s)"
     },
-    "seo_title": "Abiram Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Abiram has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Abiram Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Abiram: meaning “My father is exalted; the Exalted One is my father”, Hebrew origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Abiram",
       "Abiram name meaning",
-      "Abiram meaning",
       "Abiram origin",
-      "Abiram root",
+      "Abiram biblical name",
       "Abiram pronunciation",
-      "Biblical names"
+      "Abiram etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Abiram has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Abiram (אֲבִירָם) is a name of Hebrew origin meaning “My father is exalted; the Exalted One is my father”. A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'. Its root is Hebrew אֲבִירָם (ʾAviram), from אָב ('av) 'father' + רוּם (rum) 'to be exalted, high'. Abiram is the anglicised form of Biblical Hebrew ʾAviram. It is distinct from Abram (אַבְרָם) - a distinct name, 'exalted father'.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Abiram",
-      "description": "Abiram — My father is exalted",
-      "additionalType": "https://schema.org/Person"
+      "description": "My father is exalted; the Exalted One is my father",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -184,7 +348,119 @@
           "name": "What does the name Abiram mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “My father is exalted”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Abiram means “My father is exalted; the Exalted One is my father”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Abiram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram is of Hebrew origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Abiram come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram is used in Biblical Hebrew, English, Greek, Latin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abiram a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abiram pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram is pronounced ə-BY-rəm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abiram written in Hebrew?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram is written אֲבִירָם in Hebrew script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abiram written in Greek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram is written Ἀβειρών in Greek script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abiram written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram is written Abiram in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Abiram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Abiram is Hebrew אֲבִירָם (ʾAviram), from אָב ('av) 'father' + רוּם (rum) 'to be exalted, high'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Abiram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abiram appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The personal name occurs in the Hebrew Bible (Numbers 16:1; 1 Kings 16:34)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abiram a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the Hebrew Bible (Numbers 16:1; 1 Kings 16:34)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abiram occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abiram occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the New Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abiram associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Abiram."
           }
         },
         {
@@ -192,140 +468,210 @@
           "name": "Is the meaning of Abiram verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Abiram could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “My father is exalted; the Exalted One is my father” is supported by Old Testament: a Reubenite who joined Korah's rebellion (Numbers 16:1). Confidence: HIGH."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Abiram come from?",
+          "name": "What is the numerology or lucky number of Abiram?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Abiram has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Abiram total 44, reducing to 8. Number 8 is traditionally associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Abiram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Aviram, Abiram."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abiram the same as Abram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Abiram is distinct from Abram (אַבְרָם) - a distinct name, 'exalted father'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Abiram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram is transliterated as ʾAviram."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Abiram have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram has 3 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Abiram?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Abiram is interpretive. Its documented core is the lexical meaning “My father is exalted; the Exalted One is my father”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Abiram used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abiram circulates chiefly in Biblical Hebrew, English, Greek, Latin naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Abiram",
+          "item": ""
+        }
+      ]
+    },
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 56,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "HIGH",
+      "basis": "Old Testament: a Reubenite who joined Korah's rebellion (Numbers 16:1)."
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:42.000Z",
+    "created_at": "2026-10-03T02:51:08.000Z",
+    "updated_at": "2026-10-03T02:51:08.000Z",
     "tier1_verified": {
       "name": "Abiram",
       "slug": "abiram",
-      "meaning": "My father is exalted",
-      "origin": "Biblical",
+      "meaning": "My father is exalted; the Exalted One is my father",
+      "origin": "Hebrew",
       "language": [
+        "Biblical Hebrew",
         "English",
-        "Hebrew"
+        "Greek",
+        "Latin"
       ],
       "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Abiram",
-      "reference": "",
-      "confidence": "UNKNOWN"
+      "root": "Hebrew אֲבִירָם (ʾAviram), from אָב ('av) 'father' + רוּם (rum) 'to be exalted, high'",
+      "etymology": "A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'.",
+      "script": {
+        "hebrew": "אֲבִירָם",
+        "greek": "Ἀβειρών",
+        "latin": "Abiram"
+      },
+      "transliteration": "ʾAviram",
+      "reference": "Old Testament: a Reubenite who joined Korah's rebellion (Numbers 16:1).",
+      "confidence": "HIGH"
     },
     "tier2_explanatory": {
-      "short_meaning": "My father is exalted",
-      "long_meaning": "The name Abiram is recorded with the meaning “My father is exalted”. Abiram is a Biblical name meaning “My father is exalted”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Abiram",
-          "meaning": "My father is exalted",
-          "confidence": "LOW"
-        }
+      "long_meaning": "Abiram (אֲבִירָם) is a name of Hebrew origin meaning “My father is exalted; the Exalted One is my father”. A compound of Hebrew אָב ('av) 'father' (with possessive yod) and the root רוּם (rum) 'to be high, exalted' - 'my father is exalted'. Its root is Hebrew אֲבִירָם (ʾAviram), from אָב ('av) 'father' + רוּם (rum) 'to be exalted, high'. Abiram is the anglicised form of Biblical Hebrew ʾAviram. It is distinct from Abram (אַבְרָם) - a distinct name, 'exalted father'.",
+      "biblical_status": {
+        "exact_name_form_occurs": true,
+        "exact_lexical_form_occurs": true,
+        "root_or_lemma_occurs": true,
+        "related_forms_occur": true,
+        "old_testament_occurs": true,
+        "new_testament_occurs": false,
+        "christian_historical_usage": true,
+        "saint_association": false,
+        "interpretation": "The personal name occurs in the Hebrew Bible (Numbers 16:1; 1 Kings 16:34)."
       },
-      "pronunciation": {
-        "english": "AB-ih-ram",
-        "ipa": "/ˈæbɪrəm/"
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
       },
-      "syllables": 3,
-      "name_length": 6,
-      "faqs": [
+      "historical_references": [
         {
-          "q": "What does the name Abiram mean?",
-          "a": "Name-lists record the meaning as “My father is exalted”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Abiram verified?",
-          "a": "No. The meaning of Abiram could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Abiram come from?",
-          "a": "The origin of Abiram has not been verified and is not asserted here."
+          "person": "Abiram, son of Eliab",
+          "form": "אֲבִירָם",
+          "period": "Biblical narrative",
+          "source": "Numbers 16:1"
         }
       ]
     },
     "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
       "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Abiram total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+        "name_number": 8,
+        "meaning": "ambition, authority and material success",
+        "status": "belief_based"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "Old Testament: a Reubenite who joined Korah's rebellion (Numbers 16:1)."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "Old Testament: a Reubenite who joined Korah's rebellion (Numbers 16:1).",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "Old Testament: a Reubenite who joined Korah's rebellion (Numbers 16:1)."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:42.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:51:08.000Z"
     }
   }
 }

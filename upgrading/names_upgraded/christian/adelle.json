@@ -3,319 +3,161 @@
   "data": {
     "name": "Adelle",
     "slug": "adelle",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Adelle is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Adelle",
+    "normalized_name": "adelle",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Virtue",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Noble, just",
-    "long_meaning": "The meaning of Adelle is recorded in name-lists as “Noble, just”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Adelle expresses “Noble, just”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-e-l-l-e",
-    "syllables": 2,
-    "name_length": 6,
-    "transliteration": [
-      "Adelle"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Yellow Sapphire",
-    "ruling_planet": "Jupiter",
-    "life_path_number": 3,
-    "numerology_meaning": "In Pythagorean numerology the letters of Adelle total 21, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-    "in_hebrew": {
-      "name": "עדלה",
-      "meaning": "העדלה - (ha-adela) - נקשרת לעדל, שם נשי, שמקורו ב-עדה, צדק",
-      "long_meaning": "העדלה היא שם נשי מיוחד, שמקורו בעברית עתיקה. השם נקשר ל-עדה, שם נשי, שמשמעותו 'צדק'. עדלה נזכרת בספרות היהודית בתקופה הרומית, והיא נחשבה שם נשי יפה. בתקופה הקרובה, עדלה נהפכה לשם נשי פופולרי, והיא נחשבת לשם נשי יפה ונעים. בקרב הנוצרים, עדלה נחשבת לשם נשי מיוחד, והיא נקשרת למוטיבים של צדק ואמונה. עדלה היא שם נשי יפה, שמתאים לילדה יפה, שאמונתה וצדקתה עוצבים את חייה."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Άντελλα",
-      "meaning": "Άντελλα - (Anedella) - מתייחס לאתיקה, צדק",
-      "long_meaning": "Άντελλα (Anedella) הוא שם נשי מיוחד, שמקורו ביוונית עתיקה. השם מתייחס לאתיקה, שמשמעותה 'צדק'. ביוון העתיקה, השם Άντελλα היה נפוץ, והוא נחשבה שם נשי יפה. בתקופה הנוצרית, Άντελλα נחשבה שם נשי מיוחד, שמתאים לילדה יפה, שאמונתה וצדקתה עוצבים את חייה. Άντελλα היא שם נשי יפה, שמקורו ביוונית עתיקה, והוא נחשב כמיוחד בקרב הנוצרים."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Adella",
-      "meaning": "Adella - (Adella) - מתייחסת ל-adius, adere, ad, justitia",
-      "long_meaning": "Adella est nomen femininum, quod ad adiustiam, justitiam pertinet. Origine, nomen huiusmodi est a vocabulis 'adius', 'adere', 'ad', et 'justitia' deductum. In tempore antiquo, nomen Adella erat nomen femininum, quod significabat virtutem, justitiam, et honestatem. In Ecclesia Christiana, nomen Adella est nomen femininum, quod designat mulierem, quae est iusta, recta, et virtuosa. Adella est nomen femininum, quod est utilis in multarum culturarum traditionibus Christianorum."
-    },
-    "in_english": {
-      "name": "Adelle",
-      "meaning": "Noble, just",
-      "long_meaning": "Noble, just"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AD-el",
-      "ipa": "/əˈdɛlə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Adelle"
-    ],
-    "variants": [
-      "Adelle"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Adelle is used in Biblical naming tradition with the meaning “Noble, just”.",
-    "spiritual_significance": "Any spiritual significance attached to Adelle is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Noble, just” is the basis of any symbolism attached to Adelle; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Adelle."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AdelleMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Adelle"
-    ],
-    "monetization": {
-      "google_ads": true,
-      "affiliate_links": [
-        "https://www.amazon.com/dp/1234567890"
-      ],
-      "donations": {
-        "url": "https://www.paypal.com/donate/?hosted_button_id=ABCDEFGHIJKLMNOP",
-        "text": "Support our mission to help people discover the meaning and spiritual significance of names. Any contribution is greatly appreciated."
-      }
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Adelle Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Adelle has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Adelle, Adelle name meaning, Adelle meaning, Adelle origin, Adelle root, Adelle pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Adelle has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Adelle name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Adelle Name Meaning & Origin | NameVerse",
+      "meta_description": "Adelle: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Adelle",
-        "Adelle name meaning",
-        "Adelle meaning",
-        "Adelle origin",
-        "Adelle root",
-        "Adelle pronunciation",
-        "Biblical names"
+        "Adelle name meaning"
       ],
-      "focus_keyword": "Adelle name meaning",
-      "secondary_keywords": [
-        "Adelle meaning",
-        "Adelle origin",
-        "Adelle pronunciation",
-        "Adelle lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Adelle mean?",
-          "a": "Name-lists record the meaning as “Noble, just”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adelle verified?",
-          "a": "No. The meaning of Adelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adelle come from?",
-          "a": "The origin of Adelle has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Adelle Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Adelle has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Adelle Name Meaning & Origin | NameVerse",
+    "meta_description": "Adelle: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Adelle",
-      "Adelle name meaning",
-      "Adelle meaning",
-      "Adelle origin",
-      "Adelle root",
-      "Adelle pronunciation",
-      "Biblical names"
+      "Adelle name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Adelle has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Adelle",
-      "description": "Adelle — Noble, just",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Adelle mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Noble, just”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Adelle verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Adelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Adelle come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Adelle has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:46.000Z",
-    "tier1_verified": {
-      "name": "Adelle",
-      "slug": "adelle",
-      "meaning": "Noble, just",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Adelle",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Noble, just",
-      "long_meaning": "The name Adelle is recorded with the meaning “Noble, just”. Adelle is a Biblical name meaning “Noble, just”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Adelle",
-          "meaning": "Noble, just",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AD-el",
-        "ipa": "/əˈdɛlə/"
-      },
-      "syllables": 2,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "What does the name Adelle mean?",
-          "a": "Name-lists record the meaning as “Noble, just”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adelle verified?",
-          "a": "No. The meaning of Adelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adelle come from?",
-          "a": "The origin of Adelle has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 3,
-        "life_path_number": 3,
-        "ruling_planet": "Jupiter",
-        "lucky_day": "Thursday",
-        "lucky_stone": "Yellow Sapphire",
-        "lucky_colors": [
-          "Yellow",
-          "Gold"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Adelle total 21, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:56:30.000Z",
+    "updated_at": "2026-10-03T02:56:30.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -324,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:46.000Z"
+      "processed_at": "2026-10-03T02:56:30.000Z"
     }
   }
 }

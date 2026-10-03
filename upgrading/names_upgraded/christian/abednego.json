@@ -3,184 +3,338 @@
   "data": {
     "name": "Abednego",
     "slug": "abednego",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Abednego",
+    "normalized_name": "abednego",
     "language": [
+      "Biblical Aramaic",
       "English",
       "Greek",
       "Latin"
     ],
     "gender": "Male",
-    "gender_notes": "Abednego is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Aramaic / Babylonian",
+    "origin_detail": "A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin.",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": true,
+      "confidence": "HIGH",
+      "classification": "biblical",
+      "explanation": "The personal name occurs in the Hebrew Bible (Daniel 1:7; 3:12-30)."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "Servant of Nego (Nabu); a Babylonian name given to Azariah",
+      "alternative_gloss": "servant of Nabu",
+      "meaning_type": "lexical",
+      "confidence": "HIGH",
+      "note": "Abednego is a Babylonian name, not a Hebrew one; it was given to Azariah in Daniel."
+    },
+    "short_meaning": "Servant of Nego (Nabu); a Babylonian name given to Azariah",
+    "long_meaning": "Abednego (Ἀβδεναγώ) is a name of Aramaic / Babylonian origin meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah”. A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin. Its root is Aramaic עֲבֵד נְגוֹ (ʿaved nego), from עֶבֶד (ʿeved) 'servant' + the Babylonian divine element Nego/Nabu. Abednego is a Babylonian name, not a Hebrew one; it was given to Azariah in Daniel.",
+    "etymology": {
+      "components": [
+        "servant of Nego",
+        "servant of Nabu"
+      ],
+      "formation": "A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "servant of Nego",
+      "servant of Nabu"
     ],
-    "short_meaning": "Servant of God",
-    "long_meaning": "The meaning of Abednego is recorded in name-lists as “Servant of God”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Abednego expresses “Servant of God”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-b-e-d-n-e-g-o",
-    "syllables": 4,
-    "name_length": 8,
-    "transliteration": [
-      "Abednego"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Abednego total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_hebrew": {
-      "name": "עבדנגו",
-      "meaning": "עבד ל אלוהים גדול נגו שפחה",
-      "long_meaning": "עבדנגו הוא שם שמקורו בשפה הארמית ומשמעותו 'עבד נגו' או 'שפחה של נגו', כאשר 'נגו' הוא שם של אלוהים או כוכב לכת. השם עבדנגו מוזכר בספר דניאל בתנך, כחלק מהשמות של שלושת החברים של נבוכדנצר, מלך בבל."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 8,
+      "lucky_number": 8,
+      "numerology_meaning": "ambition, authority and material success",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Αβδενηγώ",
-      "meaning": "υπηρέτης του Νεβουκαδνεσάρ",
-      "long_meaning": "Το όνομα Αβδενηγώ προέρχεται από την αρamaϊκή γλώσσα και σημαίνει 'υπηρέτης του Νεβουκαδνεσάρ' ή 'υπηρέτης του θεού Νεγώ'. Στη Βίβλο, το Αβδενηγώ αναφέρεται ως ένας από τους τρεις φίλους του προφήτη Δανιήλ, που ήταν επίσης υπηρέτες του βασιλιά Νεβουκαδνεσάρ Β' της Βαβυλώνας."
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Abdenego",
-      "meaning": "servus Dei",
-      "long_meaning": "Nomen Abdenego derivatur ex lingua aramaea et significat 'servus Dei' vel 'servus Nego', Nego autem nomen est dei vel planetae. In libro Danielis, Abdenego est unus ex tribus amicis prophetae Danielis, qui fuerunt etiam servi regis Nabuchodonosoris, Babylonis regis."
+    "translations": {
+      "hebrew": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Hebrew form is established for this name."
+      },
+      "greek": {
+        "name": "Ἀβδεναγώ",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Ἀβδεναγώ is the name's own orthography in Greek script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "aramaic": {
+        "name": "עֲבֵד נְגוֹ",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "עֲבֵד נְגוֹ is the name's own orthography in Aramaic script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "latin": {
+        "name": "Abdenago",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Abdenago is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Abednego",
+        "meaning": "Servant of Nego (Nabu); a Babylonian name given to Azariah",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Abednego",
-      "meaning": "Servant of God",
-      "long_meaning": "Servant of God"
+    "scripts": {
+      "aramaic": "עֲבֵד נְגוֹ",
+      "greek": "Ἀβδεναγώ",
+      "latin": "Abdenago"
     },
     "pronunciation": {
-      "english": "ab-den-ee-goh",
-      "biblical": "ʿaḇ·ḏe·nā·ḡōw",
-      "ipa": "/ˌæb dɛnˈiːɡoʊ/"
+      "original_language": {
+        "transliteration": "ʿAved-Nego",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "ə-BED-ni-go",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "greek": "Ἀβδεναγώ",
+      "aramaic": "עֲבֵד נְגוֹ",
+      "latin": "Abdenago"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": true,
+      "exact_lexical_form_occurs": true,
+      "root_or_lemma_occurs": true,
+      "related_forms_occur": true,
+      "old_testament_occurs": true,
+      "new_testament_occurs": false,
+      "christian_historical_usage": true,
+      "saint_association": false,
+      "interpretation": "The personal name occurs in the Hebrew Bible (Daniel 1:7; 3:12-30)."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [
+      {
+        "person": "Abednego (Azariah), companion of Daniel",
+        "form": "עֲבֵד נְגוֹ",
+        "period": "Biblical narrative",
+        "source": "Daniel 1:7; 3"
+      }
+    ],
+    "historical_note": "",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Biblical Aramaic, English, Greek, Latin naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Abednego"
+      "Abed-nego",
+      "Abdenago"
     ],
     "variants": [
-      "Abednego"
+      "Abed-nego",
+      "Abdenago"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "Shadrach",
+      "Meshach",
+      "Daniel",
+      "Azariah"
+    ],
+    "similar_sounding_names": [
+      "Abe",
+      "Abebi",
+      "Abeden",
+      "Abel",
+      "Abeliel",
+      "Abelina"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Abednego is used in Biblical naming tradition with the meaning “Servant of God”.",
-    "spiritual_significance": "Any spiritual significance attached to Abednego is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Servant of God” is the basis of any symbolism attached to Abednego; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Daniel",
-      "verse_reference": "Daniel 1:6, 3:12",
-      "note": "One of the three friends of Daniel, also known as Shadrach, Meshach, and Abednego"
+      "occurs": true,
+      "old_testament": true,
+      "new_testament": false,
+      "note": "The personal name occurs in the Hebrew Bible (Daniel 1:7; 3:12-30)."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Abednego."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AbednegoMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Abednego"
-    ],
-    "monetization": {
-      "ad_units": [
-        {
-          "type": "in-content",
-          "format": "display",
-          "size": "300x250"
-        },
-        {
-          "type": "in-content",
-          "format": "native",
-          "position": "below-content"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Abednego Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Abednego has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Abednego, Abednego name meaning, Abednego meaning, Abednego origin, Abednego root, Abednego pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Abednego has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Abednego name meaning and origin",
+      "secondary_search_intents": [
+        "is Abednego a biblical name",
+        "Abednego name origin and language",
+        "Abednego pronunciation"
+      ],
+      "seo_title": "Abednego Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Abednego: meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah”, Aramaic / Babylonian origin. Verified etymology, Biblical status and pronuncia",
+      "description_paragraph": "Abednego (Ἀβδεναγώ) is a name of Aramaic / Babylonian origin meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah”. A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin. Its root is Aramaic עֲבֵד נְגוֹ (ʿaved nego), from עֶבֶד (ʿeved) 'servant' + the Babylonian divine element Nego/Nabu. Abednego is a Babylonian name, not a Hebrew one; it was given to Azariah in Daniel.",
       "keywords": [
-        "Abednego",
         "Abednego name meaning",
-        "Abednego meaning",
         "Abednego origin",
-        "Abednego root",
+        "Abednego biblical name",
         "Abednego pronunciation",
-        "Biblical names"
+        "Abednego etymology"
       ],
-      "focus_keyword": "Abednego name meaning",
-      "secondary_keywords": [
-        "Abednego meaning",
-        "Abednego origin",
-        "Abednego pronunciation",
-        "Abednego lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Abednego mean?",
-          "a": "Name-lists record the meaning as “Servant of God”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Abednego means “Servant of Nego (Nabu); a Babylonian name given to Azariah”."
+        },
+        {
+          "q": "What is the origin of the name Abednego?",
+          "a": "Abednego is of Aramaic / Babylonian origin."
+        },
+        {
+          "q": "What language does the name Abednego come from?",
+          "a": "Abednego is used in Biblical Aramaic, English, Greek, Latin."
+        },
+        {
+          "q": "Is Abednego a boy's name or a girl's name?",
+          "a": "Abednego is used as a male name."
+        },
+        {
+          "q": "How is Abednego pronounced?",
+          "a": "Abednego is pronounced ə-BED-ni-go."
+        },
+        {
+          "q": "How is Abednego written in Greek?",
+          "a": "Abednego is written Ἀβδεναγώ in Greek script."
+        },
+        {
+          "q": "How is Abednego written in Aramaic?",
+          "a": "Abednego is written עֲבֵד נְגוֹ in Aramaic script."
+        },
+        {
+          "q": "How is Abednego written in Latin?",
+          "a": "Abednego is written Abdenago in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Abednego?",
+          "a": "The root of Abednego is Aramaic עֲבֵד נְגוֹ (ʿaved nego), from עֶבֶד (ʿeved) 'servant' + the Babylonian divine element Nego/Nabu."
+        },
+        {
+          "q": "What is the etymology of Abednego?",
+          "a": "A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin."
+        },
+        {
+          "q": "Does Abednego appear in the Bible?",
+          "a": "Yes. The personal name occurs in the Hebrew Bible (Daniel 1:7; 3:12-30)."
+        },
+        {
+          "q": "Is Abednego a Biblical name?",
+          "a": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the Hebrew Bible (Daniel 1:7; 3:12-30)."
+        },
+        {
+          "q": "Does Abednego occur in the Old Testament?",
+          "a": "Yes."
+        },
+        {
+          "q": "Does Abednego occur in the New Testament?",
+          "a": "No — it is not attested in the New Testament."
+        },
+        {
+          "q": "Is Abednego associated with a saint?",
+          "a": "No saint association is verified for the name Abednego."
         },
         {
           "q": "Is the meaning of Abednego verified?",
-          "a": "No. The meaning of Abednego could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah” is supported by Old Testament: the Babylonian name of Azariah, one of the three men delivered from the fiery furnace (Daniel 1:7; 3). Confidence: HIGH."
         },
         {
-          "q": "Where does the name Abednego come from?",
-          "a": "The origin of Abednego has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Abednego?",
+          "a": "In Pythagorean numerology the letters of Abednego total 53, reducing to 8. Number 8 is traditionally associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Abednego?",
+          "a": "Variants and alternative forms include Abed-nego, Abdenago."
+        },
+        {
+          "q": "What is the transliteration of Abednego?",
+          "a": "Abednego is transliterated as ʿAved-Nego."
+        },
+        {
+          "q": "How many syllables does Abednego have?",
+          "a": "Abednego has 4 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Abednego?",
+          "a": "Any spiritual significance attached to Abednego is interpretive. Its documented core is the lexical meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Abednego used today?",
+          "a": "Abednego circulates chiefly in Biblical Aramaic, English, Greek, Latin naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 22 (>=10 target) · tier-1 confidence HIGH · 0 open issue(s)"
     },
-    "seo_title": "Abednego Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Abednego has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Abednego Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Abednego: meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah”, Aramaic / Babylonian origin. Verified etymology, Biblical status and pronuncia",
     "keywords": [
-      "Abednego",
       "Abednego name meaning",
-      "Abednego meaning",
       "Abednego origin",
-      "Abednego root",
+      "Abednego biblical name",
       "Abednego pronunciation",
-      "Biblical names"
+      "Abednego etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Abednego has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Abednego (Ἀβδεναγώ) is a name of Aramaic / Babylonian origin meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah”. A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin. Its root is Aramaic עֲבֵד נְגוֹ (ʿaved nego), from עֶבֶד (ʿeved) 'servant' + the Babylonian divine element Nego/Nabu. Abednego is a Babylonian name, not a Hebrew one; it was given to Azariah in Daniel.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Abednego",
-      "description": "Abednego — Servant of God",
-      "additionalType": "https://schema.org/Person"
+      "description": "Servant of Nego (Nabu); a Babylonian name given to Azariah",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -191,7 +345,119 @@
           "name": "What does the name Abednego mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Servant of God”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Abednego means “Servant of Nego (Nabu); a Babylonian name given to Azariah”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Abednego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego is of Aramaic / Babylonian origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Abednego come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego is used in Biblical Aramaic, English, Greek, Latin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abednego a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abednego pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego is pronounced ə-BED-ni-go."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abednego written in Greek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego is written Ἀβδεναγώ in Greek script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abednego written in Aramaic?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego is written עֲבֵד נְגוֹ in Aramaic script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Abednego written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego is written Abdenago in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Abednego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Abednego is Aramaic עֲבֵד נְגוֹ (ʿaved nego), from עֶבֶד (ʿeved) 'servant' + the Babylonian divine element Nego/Nabu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Abednego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abednego appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The personal name occurs in the Hebrew Bible (Daniel 1:7; 3:12-30)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abednego a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the Hebrew Bible (Daniel 1:7; 3:12-30)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abednego occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Abednego occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the New Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Abednego associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Abednego."
           }
         },
         {
@@ -199,141 +465,202 @@
           "name": "Is the meaning of Abednego verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Abednego could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah” is supported by Old Testament: the Babylonian name of Azariah, one of the three men delivered from the fiery furnace (Daniel 1:7; 3). Confidence: HIGH."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Abednego come from?",
+          "name": "What is the numerology or lucky number of Abednego?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Abednego has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Abednego total 53, reducing to 8. Number 8 is traditionally associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Abednego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Abed-nego, Abdenago."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Abednego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego is transliterated as ʿAved-Nego."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Abednego have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego has 4 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Abednego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Abednego is interpretive. Its documented core is the lexical meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Abednego used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Abednego circulates chiefly in Biblical Aramaic, English, Greek, Latin naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Abednego",
+          "item": ""
+        }
+      ]
+    },
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "HIGH",
+      "basis": "Old Testament: the Babylonian name of Azariah, one of the three men delivered from the fiery furnace (Daniel 1:7; 3)."
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:42.000Z",
+    "created_at": "2026-10-03T02:51:02.000Z",
+    "updated_at": "2026-10-03T02:51:02.000Z",
     "tier1_verified": {
       "name": "Abednego",
       "slug": "abednego",
-      "meaning": "Servant of God",
-      "origin": "Biblical",
+      "meaning": "Servant of Nego (Nabu); a Babylonian name given to Azariah",
+      "origin": "Aramaic / Babylonian",
       "language": [
+        "Biblical Aramaic",
         "English",
         "Greek",
         "Latin"
       ],
       "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Abednego",
-      "reference": "",
-      "confidence": "UNKNOWN"
+      "root": "Aramaic עֲבֵד נְגוֹ (ʿaved nego), from עֶבֶד (ʿeved) 'servant' + the Babylonian divine element Nego/Nabu",
+      "etymology": "A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin.",
+      "script": {
+        "aramaic": "עֲבֵד נְגוֹ",
+        "greek": "Ἀβδεναγώ",
+        "latin": "Abdenago"
+      },
+      "transliteration": "ʿAved-Nego",
+      "reference": "Old Testament: the Babylonian name of Azariah, one of the three men delivered from the fiery furnace (Daniel 1:7; 3).",
+      "confidence": "HIGH"
     },
     "tier2_explanatory": {
-      "short_meaning": "Servant of God",
-      "long_meaning": "The name Abednego is recorded with the meaning “Servant of God”. Abednego is a Biblical name meaning “Servant of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Abednego",
-          "meaning": "Servant of God",
-          "confidence": "LOW"
-        }
+      "long_meaning": "Abednego (Ἀβδεναγώ) is a name of Aramaic / Babylonian origin meaning “Servant of Nego (Nabu); a Babylonian name given to Azariah”. A Babylonian name imposed on the Hebrew Azariah: עֶבֶד (ʿeved) 'servant' + the theophoric element Nego (commonly identified with the Babylonian god Nabu). It is not a Hebrew name in origin. Its root is Aramaic עֲבֵד נְגוֹ (ʿaved nego), from עֶבֶד (ʿeved) 'servant' + the Babylonian divine element Nego/Nabu. Abednego is a Babylonian name, not a Hebrew one; it was given to Azariah in Daniel.",
+      "biblical_status": {
+        "exact_name_form_occurs": true,
+        "exact_lexical_form_occurs": true,
+        "root_or_lemma_occurs": true,
+        "related_forms_occur": true,
+        "old_testament_occurs": true,
+        "new_testament_occurs": false,
+        "christian_historical_usage": true,
+        "saint_association": false,
+        "interpretation": "The personal name occurs in the Hebrew Bible (Daniel 1:7; 3:12-30)."
       },
-      "pronunciation": {
-        "english": "ab-den-ee-goh",
-        "ipa": "/ˌæb dɛnˈiːɡoʊ/"
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
       },
-      "syllables": 4,
-      "name_length": 8,
-      "faqs": [
+      "historical_references": [
         {
-          "q": "What does the name Abednego mean?",
-          "a": "Name-lists record the meaning as “Servant of God”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Abednego verified?",
-          "a": "No. The meaning of Abednego could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Abednego come from?",
-          "a": "The origin of Abednego has not been verified and is not asserted here."
+          "person": "Abednego (Azariah), companion of Daniel",
+          "form": "עֲבֵד נְגוֹ",
+          "period": "Biblical narrative",
+          "source": "Daniel 1:7; 3"
         }
       ]
     },
     "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
       "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Abednego total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+        "name_number": 8,
+        "meaning": "ambition, authority and material success",
+        "status": "belief_based"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "Old Testament: the Babylonian name of Azariah, one of the three men delivered from the fiery furnace (Daniel 1:7; 3)."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "Old Testament: the Babylonian name of Azariah, one of the three men delivered from the fiery furnace (Daniel 1:7; 3).",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "Old Testament: the Babylonian name of Azariah, one of the three men delivered from the fiery furnace (Daniel 1:7; 3)."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:42.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:51:02.000Z"
     }
   }
 }

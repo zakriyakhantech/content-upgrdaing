@@ -3,324 +3,161 @@
   "data": {
     "name": "Adella",
     "slug": "adella",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Adella is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Adella",
+    "normalized_name": "adella",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Saint",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Noble",
-    "long_meaning": "The meaning of Adella is recorded in name-lists as “Noble”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Adella expresses “Noble”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-e-l-l-a",
-    "syllables": 3,
-    "name_length": 6,
-    "transliteration": [
-      "Adella"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Adella total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_hebrew": {
-      "name": "אדלה",
-      "meaning": "אדלה היא שם שפירושו noble, שובח, או יופי",
-      "long_meaning": "אדלה הוא שם עברי שמקורו ביוונית ופירושו noble, שובח, או יופי. השם אדלה מופיע בתנ\"ך כצורה נשית של השם אדל, שפירושו תורגמן או פירושו שובח. השם היה בשימוש בקרב יהודים וגם בנצרות כצורה של שם אדל."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αδελα",
-      "meaning": "Αδελα σημαίνει ευγενής, αξιοπρεπής, ή ομορφιά",
-      "long_meaning": "Το όνομα Αδελα είναι ελληνικής προέλευσης και σημαίνει ευγενής, αξιοπρεπής, ή ομορφιά. Το όνομα Αδελα ήταν γνωστό στην αρχαία Ελλάδα και χρησιμοποιήθηκε και στην Εκκλησία ως όνομα για τις γυναίκες που είχαν noble ή virtuous χαρακτήρα."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Adella",
-      "meaning": "Adella means noble, virtuous, or beauty",
-      "long_meaning": "The name Adella is derived from the Germanic word 'adal,' meaning noble. It was used in the Latin Church as a feminine form of Adelius, which means virtuous or noble. The name Adella was popularized in Europe during the Middle Ages and became associated with the virtues of nobility and beauty."
-    },
-    "in_english": {
-      "name": "Adella",
-      "meaning": "Noble",
-      "long_meaning": "Noble"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "a-DEH-lah",
-      "ipa": "/əˈdɛlə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Adella"
-    ],
-    "variants": [
-      "Adella"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Adella is used in Biblical naming tradition with the meaning “Noble”.",
-    "spiritual_significance": "Any spiritual significance attached to Adella is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Noble” is the basis of any symbolism attached to Adella; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Adella."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AdellaMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Adella"
-    ],
-    "monetization": {
-      "ads": [
-        {
-          "type": "display",
-          "location": "footer"
-        }
-      ],
-      "affiliate": [
-        {
-          "type": "amazon",
-          "asin": "0787977291",
-          "text": "Shop Baby Books"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Adella Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Adella has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Adella, Adella name meaning, Adella meaning, Adella origin, Adella root, Adella pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Adella has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Adella name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Adella Name Meaning & Origin | NameVerse",
+      "meta_description": "Adella: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Adella",
-        "Adella name meaning",
-        "Adella meaning",
-        "Adella origin",
-        "Adella root",
-        "Adella pronunciation",
-        "Biblical names"
+        "Adella name meaning"
       ],
-      "focus_keyword": "Adella name meaning",
-      "secondary_keywords": [
-        "Adella meaning",
-        "Adella origin",
-        "Adella pronunciation",
-        "Adella lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Adella mean?",
-          "a": "Name-lists record the meaning as “Noble”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adella verified?",
-          "a": "No. The meaning of Adella could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adella come from?",
-          "a": "The origin of Adella has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Adella Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Adella has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Adella Name Meaning & Origin | NameVerse",
+    "meta_description": "Adella: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Adella",
-      "Adella name meaning",
-      "Adella meaning",
-      "Adella origin",
-      "Adella root",
-      "Adella pronunciation",
-      "Biblical names"
+      "Adella name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Adella has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Adella",
-      "description": "Adella — Noble",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Adella mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Noble”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Adella verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Adella could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Adella come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Adella has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 50,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:46.000Z",
-    "tier1_verified": {
-      "name": "Adella",
-      "slug": "adella",
-      "meaning": "Noble",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Adella",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Noble",
-      "long_meaning": "The name Adella is recorded with the meaning “Noble”. Adella is a Biblical name meaning “Noble”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Adella",
-          "meaning": "Noble",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "a-DEH-lah",
-        "ipa": "/əˈdɛlə/"
-      },
-      "syllables": 3,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "What does the name Adella mean?",
-          "a": "Name-lists record the meaning as “Noble”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adella verified?",
-          "a": "No. The meaning of Adella could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adella come from?",
-          "a": "The origin of Adella has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Adella total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:56:30.000Z",
+    "updated_at": "2026-10-03T02:56:30.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -329,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:46.000Z"
+      "processed_at": "2026-10-03T02:56:30.000Z"
     }
   }
 }

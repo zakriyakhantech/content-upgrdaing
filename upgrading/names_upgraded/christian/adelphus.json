@@ -3,329 +3,161 @@
   "data": {
     "name": "Adelphus",
     "slug": "adelphus",
-    "language": [
-      "English",
-      "Hebrew",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Male",
-    "gender_notes": "Adelphus is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Adelphus",
+    "normalized_name": "adelphus",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Brother, Companion",
-    "long_meaning": "The meaning of Adelphus is recorded in name-lists as “Brother, Companion”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Adelphus expresses “Brother, Companion”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-e-l-p-h-u-s",
-    "syllables": 3,
-    "name_length": 8,
-    "transliteration": [
-      "Adelphus"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Wednesday",
-    "lucky_colors": [
-      "Green",
-      "Turquoise"
-    ],
-    "lucky_stone": "Emerald",
-    "ruling_planet": "Mercury",
-    "life_path_number": 5,
-    "numerology_meaning": "In Pythagorean numerology the letters of Adelphus total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-    "in_hebrew": {
-      "name": "אדלפוס",
-      "meaning": "אחים במשמעות רוחנית",
-      "long_meaning": "אדלפוס הוא שם הנגזר מהמילה היוונית אחים, ומשמעותו היא אחים במובן רוחני, המתייחס לאחווה הנוצרית ולקהילת המאמינים"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αδελφός",
-      "meaning": "αδελφοί εν πνεύματι",
-      "long_meaning": "Αδελφός είναι ο όρος που χρησιμοποιείται για να περιγράψει τους αδελφούς εν πνεύματι, και σημαίνει την αλληλεγγύη και την αγάπη μεταξύ των μελών της χριστιανικής κοινότητας"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Adelphus",
-      "meaning": "fratres in spiritu",
-      "long_meaning": "Adelphus est nomen quod derivatur a verbo graeco fratres, et significat fratres in spiritu, referens ad communionem et caritatem inter fideles in ecclesia christiana"
-    },
-    "in_english": {
-      "name": "Adelphus",
-      "meaning": "Brother, Companion",
-      "long_meaning": "Brother, Companion"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AD-el-fus",
-      "biblical": "not applicable",
-      "ipa": "/əˈdɛlfəs/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Adelphus"
-    ],
-    "variants": [
-      "Adelphus"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Adelphus is used in Biblical naming tradition with the meaning “Brother, Companion”.",
-    "spiritual_significance": "Any spiritual significance attached to Adelphus is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Brother, Companion” is the basis of any symbolism attached to Adelphus; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "not applicable",
-      "verse_reference": "not applicable",
-      "note": "not a direct biblical reference, but related to biblical concept of brotherly love"
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Adelphus."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AdelphusMeaning",
-      "#ChristianBabyNames",
-      "#LatinNames",
-      "#ChristianNames",
-      "#Adelphus"
-    ],
-    "monetization": {
-      "google_adsense": {
-        "publisher_id": "ca-pub-12345678901234:123456"
-      },
-      "affiliate_links": [
-        {
-          "product": "Book about Greek mythology",
-          "commission": 0.1,
-          "url": "https://example.com/greek-mythology-book"
-        },
-        {
-          "product": "Personalized name necklace",
-          "commission": 0.2,
-          "url": "https://example.com/adelphus-necklace"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Adelphus Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Adelphus has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Adelphus, Adelphus name meaning, Adelphus meaning, Adelphus origin, Adelphus root, Adelphus pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Adelphus has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Adelphus name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Adelphus Name Meaning & Origin | NameVerse",
+      "meta_description": "Adelphus: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Adelphus",
-        "Adelphus name meaning",
-        "Adelphus meaning",
-        "Adelphus origin",
-        "Adelphus root",
-        "Adelphus pronunciation",
-        "Biblical names"
+        "Adelphus name meaning"
       ],
-      "focus_keyword": "Adelphus name meaning",
-      "secondary_keywords": [
-        "Adelphus meaning",
-        "Adelphus origin",
-        "Adelphus pronunciation",
-        "Adelphus lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Adelphus mean?",
-          "a": "Name-lists record the meaning as “Brother, Companion”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adelphus verified?",
-          "a": "No. The meaning of Adelphus could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adelphus come from?",
-          "a": "The origin of Adelphus has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Adelphus Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Adelphus has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Adelphus Name Meaning & Origin | NameVerse",
+    "meta_description": "Adelphus: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Adelphus",
-      "Adelphus name meaning",
-      "Adelphus meaning",
-      "Adelphus origin",
-      "Adelphus root",
-      "Adelphus pronunciation",
-      "Biblical names"
+      "Adelphus name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Adelphus has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Adelphus",
-      "description": "Adelphus — Brother, Companion",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Adelphus mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Brother, Companion”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Adelphus verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Adelphus could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Adelphus come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Adelphus has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:46.000Z",
-    "tier1_verified": {
-      "name": "Adelphus",
-      "slug": "adelphus",
-      "meaning": "Brother, Companion",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Adelphus",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Brother, Companion",
-      "long_meaning": "The name Adelphus is recorded with the meaning “Brother, Companion”. Adelphus is a Biblical name meaning “Brother, Companion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Adelphus",
-          "meaning": "Brother, Companion",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AD-el-fus",
-        "ipa": "/əˈdɛlfəs/"
-      },
-      "syllables": 3,
-      "name_length": 8,
-      "faqs": [
-        {
-          "q": "What does the name Adelphus mean?",
-          "a": "Name-lists record the meaning as “Brother, Companion”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adelphus verified?",
-          "a": "No. The meaning of Adelphus could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adelphus come from?",
-          "a": "The origin of Adelphus has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 5,
-        "life_path_number": 5,
-        "ruling_planet": "Mercury",
-        "lucky_day": "Wednesday",
-        "lucky_stone": "Emerald",
-        "lucky_colors": [
-          "Green",
-          "Turquoise"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Adelphus total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:56:32.000Z",
+    "updated_at": "2026-10-03T02:56:32.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -334,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:46.000Z"
+      "processed_at": "2026-10-03T02:56:32.000Z"
     }
   }
 }

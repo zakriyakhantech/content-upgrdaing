@@ -3,327 +3,161 @@
   "data": {
     "name": "Addie",
     "slug": "addie",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Addie is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Addie",
+    "normalized_name": "addie",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Add, Daughter",
-    "long_meaning": "The meaning of Addie is recorded in name-lists as “Add, Daughter”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Addie expresses “Add, Daughter”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-d-i-e",
-    "syllables": 1,
-    "name_length": 5,
-    "transliteration": [
-      "Addie"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Wednesday",
-    "lucky_colors": [
-      "Green",
-      "Turquoise"
-    ],
-    "lucky_stone": "Emerald",
-    "ruling_planet": "Mercury",
-    "life_path_number": 5,
-    "numerology_meaning": "In Pythagorean numerology the letters of Addie total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-    "in_hebrew": {
-      "name": "אדדי",
-      "meaning": "אדדי הוא שם שפירושו עשיר או מקושט",
-      "long_meaning": "אדדי הוא שם שפירושו עשיר או מקושט, ומקורו בשם העברי אדד, שפירושו גם הוא עשיר. השם אדדי מופיע בתנ\"ך כצורה קצרה של שמות שונים שמתחילים באד-, כמו אדוניהו. השם נושא משמעות של שגשוג וגדלות, והוא משויך לאנשים שבעלי עושר פנימי וברכה."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Άντι",
-      "meaning": "Το Άντι σημαίνει πλούσια ή διακοσμημένη",
-      "long_meaning": "Το Άντι είναι μια ελληνική μορφή του ονόματος που σημαίνει πλούσια ή διακοσμημένη. Η προέλευση του ονόματος βρίσκεται στη Βίβλο, όπου αναφέρεται ως μια σύντομη μορφή ονομάτων που αρχίζουν με το Αδ-, όπως ο Αδωνίας. Το όνομα Άντι φέρει τη σημασία της ευημερίας και της μεγαλοπρέπειας, και συνδέεται με άτομα που διαθέτουν εσωτερική πλούτο και ευλογία."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Addie",
-      "meaning": "Addie means rich or adorned one",
-      "long_meaning": "The name Addie is derived from the Hebrew name Adah, meaning rich or adorned. In Christian tradition, the name Addie has been associated with prosperity and spiritual wealth. Historically, the name has been used in various forms across different cultures, reflecting its adaptability and universal appeal. The name's significance extends beyond its literal meaning, symbolizing a life of abundance and divine favor."
-    },
-    "in_english": {
-      "name": "Addie",
-      "meaning": "Add, Daughter",
-      "long_meaning": "Add, Daughter"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AD-ee",
-      "biblical": "Ah-dah",
-      "ipa": "/ˈædi/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Addie"
-    ],
-    "variants": [
-      "Addie"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Addie is used in Biblical naming tradition with the meaning “Add, Daughter”.",
-    "spiritual_significance": "Any spiritual significance attached to Addie is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Add, Daughter” is the basis of any symbolism attached to Addie; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Addie."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AddieMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Addie"
-    ],
-    "monetization": {
-      "adsense": {
-        "publisher_id": "pub-1234567890123456"
-      },
-      "affiliate": [
-        {
-          "merchant_id": "merchant123",
-          "product_id": "product12345",
-          "commission": 0.1
-        },
-        {
-          "merchant_id": "merchant234",
-          "product_id": "product23456",
-          "commission": 0.2
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Addie Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Addie has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Addie, Addie name meaning, Addie meaning, Addie origin, Addie root, Addie pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Addie has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Addie name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Addie Name Meaning & Origin | NameVerse",
+      "meta_description": "Addie: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Addie",
-        "Addie name meaning",
-        "Addie meaning",
-        "Addie origin",
-        "Addie root",
-        "Addie pronunciation",
-        "Biblical names"
+        "Addie name meaning"
       ],
-      "focus_keyword": "Addie name meaning",
-      "secondary_keywords": [
-        "Addie meaning",
-        "Addie origin",
-        "Addie pronunciation",
-        "Addie lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Addie mean?",
-          "a": "Name-lists record the meaning as “Add, Daughter”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Addie verified?",
-          "a": "No. The meaning of Addie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Addie come from?",
-          "a": "The origin of Addie has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Addie Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Addie has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Addie Name Meaning & Origin | NameVerse",
+    "meta_description": "Addie: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Addie",
-      "Addie name meaning",
-      "Addie meaning",
-      "Addie origin",
-      "Addie root",
-      "Addie pronunciation",
-      "Biblical names"
+      "Addie name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Addie has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Addie",
-      "description": "Addie — Add, Daughter",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Addie mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Add, Daughter”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Addie verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Addie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Addie come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Addie has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:45.000Z",
-    "tier1_verified": {
-      "name": "Addie",
-      "slug": "addie",
-      "meaning": "Add, Daughter",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Addie",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Add, Daughter",
-      "long_meaning": "The name Addie is recorded with the meaning “Add, Daughter”. Addie is a Biblical name meaning “Add, Daughter”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Addie",
-          "meaning": "Add, Daughter",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AD-ee",
-        "ipa": "/ˈædi/"
-      },
-      "syllables": 1,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Addie mean?",
-          "a": "Name-lists record the meaning as “Add, Daughter”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Addie verified?",
-          "a": "No. The meaning of Addie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Addie come from?",
-          "a": "The origin of Addie has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 5,
-        "life_path_number": 5,
-        "ruling_planet": "Mercury",
-        "lucky_day": "Wednesday",
-        "lucky_stone": "Emerald",
-        "lucky_colors": [
-          "Green",
-          "Turquoise"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Addie total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:56:22.000Z",
+    "updated_at": "2026-10-03T02:56:22.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -332,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:45.000Z"
+      "processed_at": "2026-10-03T02:56:22.000Z"
     }
   }
 }

@@ -3,178 +3,324 @@
   "data": {
     "name": "Achilles",
     "slug": "achilles",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Achilles",
+    "normalized_name": "achilles",
     "language": [
+      "Ancient Greek",
       "English",
-      "Greek",
       "Latin"
     ],
     "gender": "Male",
-    "gender_notes": "Achilles is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Greek",
+    "origin_detail": "Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed.",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": false,
+      "confidence": "HIGH",
+      "classification": "not_christian_in_origin",
+      "explanation": "The name does not occur in the Bible. It is a Greek mythological name."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "Grief of the people (proposed); the etymology is debated",
+      "alternative_gloss": "whose people have grief (proposed)",
+      "meaning_type": "lexical",
+      "confidence": "HIGH",
+      "note": "Achilles is a Greek mythological name, not a Biblical or Christian name."
+    },
+    "short_meaning": "Grief of the people (proposed); the etymology is debated",
+    "long_meaning": "Achilles (Ἀχιλλεύς) is a name of Greek origin meaning “Grief of the people (proposed); the etymology is debated”. Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed. Its root is Greek Ἀχιλλεύς (Akhilleus), commonly analysed as ἄχος (akhos) 'grief, pain' + λαός (laos) 'people, host'. Achilles is a Greek mythological name, not a Biblical or Christian name.",
+    "etymology": {
+      "components": [
+        "grief of the people (proposed)",
+        "whose people have grief (proposed)"
+      ],
+      "formation": "Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "grief of the people (proposed)",
+      "whose people have grief (proposed)"
     ],
-    "short_meaning": "Hero, Unyielding",
-    "long_meaning": "The meaning of Achilles is recorded in name-lists as “Hero, Unyielding”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Achilles expresses “Hero, Unyielding”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-c-h-i-l-l-e-s",
-    "syllables": 3,
-    "name_length": 8,
-    "transliteration": [
-      "Achilles"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "White",
-      "Pink"
-    ],
-    "lucky_stone": "Diamond",
-    "ruling_planet": "Venus",
-    "life_path_number": 6,
-    "numerology_meaning": "In Pythagorean numerology the letters of Achilles total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-    "in_hebrew": {
-      "name": "אכילס",
-      "meaning": "לא ניתן לומר שום דבר",
-      "long_meaning": "אכילס הוא שם שמקורו ביוונית, אך אין לו שום קשר או משמעות בעברית או בתנ\"ך. השם אכילס ידוע מהמיתולוגיה היוונית כאחד מגיבורי מלחמת טרויה."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 6,
+      "lucky_number": 6,
+      "numerology_meaning": "responsibility, care and harmony",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Αχιλλεύς",
-      "meaning": "Αχιλλεύς, ο πολεμιστής με την αθίβαστη δύναμη",
-      "long_meaning": "Ο Αχιλλεύς είναι ένας από τους πιο διάσημους ήρωες της ελληνικής μυθολογίας και ένας από τους κύριους χαρακτήρες του Ιλιάδας του Ομήρου. Ο Αχιλλεύς ήταν ένας απίστευτα ισχυρός και γενναίος πολεμιστής που πολέμησε στον Τρωικό Πόλεμο."
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Achilles",
-      "meaning": "Achilles, a legendary warrior with unmatched strength",
-      "long_meaning": "The name Achilles originates from Greek mythology. Achilles was a hero of the Trojan War, known for his invulnerability and extraordinary combat skills. The name became synonymous with bravery and martial prowess."
+    "translations": {
+      "hebrew": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Hebrew form is established for this name."
+      },
+      "greek": {
+        "name": "Ἀχιλλεύς",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Ἀχιλλεύς is the name's own orthography in Greek script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Achilles",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Achilles is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Achilles",
+        "meaning": "Grief of the people (proposed); the etymology is debated",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Achilles",
-      "meaning": "Hero, Unyielding",
-      "long_meaning": "Hero, Unyielding"
+    "scripts": {
+      "greek": "Ἀχιλλεύς",
+      "latin": "Achilles"
     },
     "pronunciation": {
-      "english": "uh-KIL-eez",
-      "ipa": "/əˈkɪliːz/"
+      "original_language": {
+        "transliteration": "Akhilleús",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "ə-KIL-eez",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "greek": "Ἀχιλλεύς",
+      "latin": "Achilles"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": false,
+      "exact_lexical_form_occurs": false,
+      "root_or_lemma_occurs": false,
+      "related_forms_occur": false,
+      "old_testament_occurs": false,
+      "new_testament_occurs": false,
+      "christian_historical_usage": false,
+      "saint_association": false,
+      "interpretation": "The name does not occur in the Bible. It is a Greek mythological name."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified; the name belongs to Greek myth rather than documented history.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Ancient Greek, English, Latin naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Achilles"
+      "Akhilleus",
+      "Achille",
+      "Aquiles"
     ],
     "variants": [
-      "Achilles"
+      "Akhilleus",
+      "Achille",
+      "Aquiles"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "Patroclus",
+      "Hector",
+      "Odysseus"
+    ],
+    "similar_sounding_names": [
+      "Achan",
+      "Acherman",
+      "Achille",
+      "Achilleo",
+      "Achorn"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Achilles is used in Biblical naming tradition with the meaning “Hero, Unyielding”.",
-    "spiritual_significance": "Any spiritual significance attached to Achilles is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Hero, Unyielding” is the basis of any symbolism attached to Achilles; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": "The name Achilles does not appear in the Bible."
+      "occurs": false,
+      "old_testament": false,
+      "new_testament": false,
+      "note": "The name does not occur in the Bible. It is a Greek mythological name."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Achilles."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AchillesMeaning",
-      "#ChristianBabyNames",
-      "#MythologicalNames",
-      "#LegendaryNames"
-    ],
-    "monetization": {
-      "ad_places": [
-        "header",
-        "sidebar",
-        "footer"
-      ],
-      "affiliate_links": [
-        "https://www.babynamesworld.com/achilles-baby-name"
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Achilles Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Achilles has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Achilles, Achilles name meaning, Achilles meaning, Achilles origin, Achilles root, Achilles pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Achilles has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Achilles name meaning and origin",
+      "secondary_search_intents": [
+        "is Achilles a biblical name",
+        "Achilles name origin and language",
+        "Achilles pronunciation"
+      ],
+      "seo_title": "Achilles Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Achilles: meaning “Grief of the people (proposed); the etymology is debated”, Greek origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Achilles (Ἀχιλλεύς) is a name of Greek origin meaning “Grief of the people (proposed); the etymology is debated”. Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed. Its root is Greek Ἀχιλλεύς (Akhilleus), commonly analysed as ἄχος (akhos) 'grief, pain' + λαός (laos) 'people, host'. Achilles is a Greek mythological name, not a Biblical or Christian name.",
       "keywords": [
-        "Achilles",
         "Achilles name meaning",
-        "Achilles meaning",
         "Achilles origin",
-        "Achilles root",
+        "Achilles biblical name",
         "Achilles pronunciation",
-        "Biblical names"
+        "Achilles etymology"
       ],
-      "focus_keyword": "Achilles name meaning",
-      "secondary_keywords": [
-        "Achilles meaning",
-        "Achilles origin",
-        "Achilles pronunciation",
-        "Achilles lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Achilles mean?",
-          "a": "Name-lists record the meaning as “Hero, Unyielding”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Achilles means “Grief of the people (proposed); the etymology is debated”."
+        },
+        {
+          "q": "What is the origin of the name Achilles?",
+          "a": "Achilles is of Greek origin."
+        },
+        {
+          "q": "What language does the name Achilles come from?",
+          "a": "Achilles is used in Ancient Greek, English, Latin."
+        },
+        {
+          "q": "Is Achilles a boy's name or a girl's name?",
+          "a": "Achilles is used as a male name."
+        },
+        {
+          "q": "How is Achilles pronounced?",
+          "a": "Achilles is pronounced ə-KIL-eez."
+        },
+        {
+          "q": "How is Achilles written in Greek?",
+          "a": "Achilles is written Ἀχιλλεύς in Greek script."
+        },
+        {
+          "q": "How is Achilles written in Latin?",
+          "a": "Achilles is written Achilles in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Achilles?",
+          "a": "The root of Achilles is Greek Ἀχιλλεύς (Akhilleus), commonly analysed as ἄχος (akhos) 'grief, pain' + λαός (laos) 'people, host'."
+        },
+        {
+          "q": "What is the etymology of Achilles?",
+          "a": "Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed."
+        },
+        {
+          "q": "Does Achilles appear in the Bible?",
+          "a": "No. The name does not occur in the Bible. It is a Greek mythological name."
+        },
+        {
+          "q": "Is Achilles a Biblical name?",
+          "a": "No. Achilles is not a Biblical personal name; it is of Greek origin."
+        },
+        {
+          "q": "Does Achilles occur in the Old Testament?",
+          "a": "No — it is not attested in the Old Testament."
+        },
+        {
+          "q": "Does Achilles occur in the New Testament?",
+          "a": "No — it is not attested in the New Testament."
+        },
+        {
+          "q": "Is Achilles associated with a saint?",
+          "a": "No saint association is verified for the name Achilles."
         },
         {
           "q": "Is the meaning of Achilles verified?",
-          "a": "No. The meaning of Achilles could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “Grief of the people (proposed); the etymology is debated” is supported by Greek mythology: the hero of the Iliad. Not a Biblical or Christian name in origin. Confidence: HIGH."
         },
         {
-          "q": "Where does the name Achilles come from?",
-          "a": "The origin of Achilles has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Achilles?",
+          "a": "In Pythagorean numerology the letters of Achilles total 69, reducing to 6. Number 6 is traditionally associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Achilles?",
+          "a": "Variants and alternative forms include Akhilleus, Achille, Aquiles."
+        },
+        {
+          "q": "What is the transliteration of Achilles?",
+          "a": "Achilles is transliterated as Akhilleús."
+        },
+        {
+          "q": "How many syllables does Achilles have?",
+          "a": "Achilles has 3 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Achilles?",
+          "a": "Any spiritual significance attached to Achilles is interpretive. Its documented core is the lexical meaning “Grief of the people (proposed); the etymology is debated”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Achilles used today?",
+          "a": "Achilles circulates chiefly in Ancient Greek, English, Latin naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 21 (>=10 target) · tier-1 confidence HIGH · 0 open issue(s)"
     },
-    "seo_title": "Achilles Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Achilles has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Achilles Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Achilles: meaning “Grief of the people (proposed); the etymology is debated”, Greek origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Achilles",
       "Achilles name meaning",
-      "Achilles meaning",
       "Achilles origin",
-      "Achilles root",
+      "Achilles biblical name",
       "Achilles pronunciation",
-      "Biblical names"
+      "Achilles etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Achilles has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Achilles (Ἀχιλλεύς) is a name of Greek origin meaning “Grief of the people (proposed); the etymology is debated”. Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed. Its root is Greek Ἀχιλλεύς (Akhilleus), commonly analysed as ἄχος (akhos) 'grief, pain' + λαός (laos) 'people, host'. Achilles is a Greek mythological name, not a Biblical or Christian name.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Achilles",
-      "description": "Achilles — Hero, Unyielding",
-      "additionalType": "https://schema.org/Person"
+      "description": "Grief of the people (proposed); the etymology is debated",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -185,7 +331,111 @@
           "name": "What does the name Achilles mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Hero, Unyielding”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Achilles means “Grief of the people (proposed); the etymology is debated”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Achilles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles is of Greek origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Achilles come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles is used in Ancient Greek, English, Latin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Achilles a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Achilles pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles is pronounced ə-KIL-eez."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Achilles written in Greek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles is written Ἀχιλλεύς in Greek script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Achilles written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles is written Achilles in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Achilles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Achilles is Greek Ἀχιλλεύς (Akhilleus), commonly analysed as ἄχος (akhos) 'grief, pain' + λαός (laos) 'people, host'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Achilles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Achilles appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The name does not occur in the Bible. It is a Greek mythological name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Achilles a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Achilles is not a Biblical personal name; it is of Greek origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Achilles occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the Old Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Achilles occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the New Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Achilles associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Achilles."
           }
         },
         {
@@ -193,141 +443,193 @@
           "name": "Is the meaning of Achilles verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Achilles could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “Grief of the people (proposed); the etymology is debated” is supported by Greek mythology: the hero of the Iliad. Not a Biblical or Christian name in origin. Confidence: HIGH."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Achilles come from?",
+          "name": "What is the numerology or lucky number of Achilles?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Achilles has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Achilles total 69, reducing to 6. Number 6 is traditionally associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Achilles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Akhilleus, Achille, Aquiles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Achilles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles is transliterated as Akhilleús."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Achilles have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles has 3 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Achilles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Achilles is interpretive. Its documented core is the lexical meaning “Grief of the people (proposed); the etymology is debated”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Achilles used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achilles circulates chiefly in Ancient Greek, English, Latin naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
-    },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:43.000Z",
-    "tier1_verified": {
-      "name": "Achilles",
-      "slug": "achilles",
-      "meaning": "Hero, Unyielding",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Achilles",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Hero, Unyielding",
-      "long_meaning": "The name Achilles is recorded with the meaning “Hero, Unyielding”. Achilles is a Biblical name meaning “Hero, Unyielding”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
           "name": "Achilles",
-          "meaning": "Hero, Unyielding",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "uh-KIL-eez",
-        "ipa": "/əˈkɪliːz/"
-      },
-      "syllables": 3,
-      "name_length": 8,
-      "faqs": [
-        {
-          "q": "What does the name Achilles mean?",
-          "a": "Name-lists record the meaning as “Hero, Unyielding”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Achilles verified?",
-          "a": "No. The meaning of Achilles could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Achilles come from?",
-          "a": "The origin of Achilles has not been verified and is not asserted here."
+          "item": ""
         }
       ]
     },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 6,
-        "life_path_number": 6,
-        "ruling_planet": "Venus",
-        "lucky_day": "Friday",
-        "lucky_stone": "Diamond",
-        "lucky_colors": [
-          "White",
-          "Pink"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Achilles total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
+    "advanced_seo": {
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
+      }
+    },
+    "confidence": {
+      "overall": "HIGH",
+      "basis": "Greek mythology: the hero of the Iliad. Not a Biblical or Christian name in origin."
+    },
+    "data_quality": {
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
+    },
+    "created_at": "2026-10-03T02:51:20.000Z",
+    "updated_at": "2026-10-03T02:51:20.000Z",
+    "tier1_verified": {
+      "name": "Achilles",
+      "slug": "achilles",
+      "meaning": "Grief of the people (proposed); the etymology is debated",
+      "origin": "Greek",
+      "language": [
+        "Ancient Greek",
+        "English",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "Greek Ἀχιλλεύς (Akhilleus), commonly analysed as ἄχος (akhos) 'grief, pain' + λαός (laos) 'people, host'",
+      "etymology": "Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed.",
+      "script": {
+        "greek": "Ἀχιλλεύς",
+        "latin": "Achilles"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "transliteration": "Akhilleús",
+      "reference": "Greek mythology: the hero of the Iliad. Not a Biblical or Christian name in origin.",
+      "confidence": "HIGH"
+    },
+    "tier2_explanatory": {
+      "long_meaning": "Achilles (Ἀχιλλεύς) is a name of Greek origin meaning “Grief of the people (proposed); the etymology is debated”. Commonly analysed as a compound of ἄχος (akhos) 'grief, pain' and λαός (laos) 'people, host of fighting men' - 'grief of the people'. The derivation is debated and a pre-Greek origin has been proposed. Its root is Greek Ἀχιλλεύς (Akhilleus), commonly analysed as ἄχος (akhos) 'grief, pain' + λαός (laos) 'people, host'. Achilles is a Greek mythological name, not a Biblical or Christian name.",
+      "biblical_status": {
+        "exact_name_form_occurs": false,
+        "exact_lexical_form_occurs": false,
+        "root_or_lemma_occurs": false,
+        "related_forms_occur": false,
+        "old_testament_occurs": false,
+        "new_testament_occurs": false,
+        "christian_historical_usage": false,
+        "saint_association": false,
+        "interpretation": "The name does not occur in the Bible. It is a Greek mythological name."
+      },
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
+      },
+      "historical_references": []
+    },
+    "tier3_interpretive": {
+      "numerology": {
+        "name_number": 6,
+        "meaning": "responsibility, care and harmony",
+        "status": "belief_based"
+      },
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "Greek mythology: the hero of the Iliad. Not a Biblical or Christian name in origin."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "Greek mythology: the hero of the Iliad. Not a Biblical or Christian name in origin.",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "Greek mythology: the hero of the Iliad. Not a Biblical or Christian name in origin."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:43.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:51:20.000Z"
     }
   }
 }

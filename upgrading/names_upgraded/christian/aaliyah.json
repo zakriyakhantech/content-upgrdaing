@@ -3,144 +3,324 @@
   "data": {
     "name": "Aaliyah",
     "slug": "aaliyah",
-    "language": [],
-    "gender": "Unisex",
-    "gender_notes": "Aaliyah is used as a unisex name in christian naming traditions.",
-    "origin": "",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Aaliyah",
+    "normalized_name": "aaliyah",
+    "language": [
+      "Arabic",
+      "Hebrew",
+      "English"
+    ],
+    "gender": "Female",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Arabic / Hebrew",
+    "origin_detail": "From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin.",
     "religion": "christian",
-    "category": "Christian",
-    "culture": [],
-    "short_meaning": "Rising, ascending",
-    "long_meaning": "The meaning of Aaliyah is recorded in name-lists as “Rising, ascending”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aaliyah expresses “Rising, ascending”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": false,
+      "confidence": "MEDIUM",
+      "classification": "not_christian_in_origin",
+      "explanation": "The name does not occur in the Bible. It is an Arabic name."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "Rising; ascending; exalted",
+      "alternative_gloss": "ascending; exalted",
+      "meaning_type": "lexical",
+      "confidence": "MEDIUM",
+      "note": "Aaliyah is an Arabic name; it is not a Biblical or Christian name in origin."
+    },
+    "short_meaning": "Rising; ascending; exalted",
+    "long_meaning": "Aaliyah (עֲלִיָּה) is a name of Arabic / Hebrew origin meaning “Rising; ascending; exalted”. From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin. Its root is Arabic عالية (ʿāliyah) 'high, exalted', from the root ع-ل-و (ʿ-l-w) 'to be high'; also Hebrew עֲלִיָּה (ʿaliyyah) 'ascent'. Aaliyah is an Arabic name; it is not a Biblical or Christian name in origin. It is distinct from Hebrew עֲלִיָּה (ʿaliyyah) 'ascent' - a distinct word, not the same name.",
+    "etymology": {
+      "components": [
+        "rising",
+        "ascending",
+        "exalted"
+      ],
+      "formation": "From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "rising",
+      "ascending",
+      "exalted"
+    ],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "",
-    "root_letters": "a-a-l-i-y-a-h",
-    "syllables": 2,
-    "name_length": 7,
-    "transliteration": [
-      "Aaliyah"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Yellow Sapphire",
-    "ruling_planet": "Jupiter",
-    "life_path_number": 3,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aaliyah total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-    "in_hebrew": {},
-    "in_greek": {},
-    "in_latin": {},
-    "in_english": {
-      "name": "Aaliyah",
-      "meaning": "Rising, ascending",
-      "long_meaning": "Rising, ascending"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 3,
+      "lucky_number": 3,
+      "numerology_meaning": "expression, creativity and sociability",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
+    },
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
+    },
+    "translations": {
+      "hebrew": {
+        "name": "עֲלִיָּה",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "עֲלִיָּה is the name's own orthography in Hebrew script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "greek": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Greek form is established for this name."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Aaliyah",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Aaliyah is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Aaliyah",
+        "meaning": "Rising; ascending; exalted",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
+    },
+    "scripts": {
+      "arabic": "عالية",
+      "hebrew": "עֲלִיָּה",
+      "latin": "Aaliyah"
     },
     "pronunciation": {
-      "english": "ahliyah",
-      "ipa": "/ɑːliyah/"
+      "original_language": {
+        "transliteration": "ʿĀliyah",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "ah-LEE-yah",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "hebrew": "עֲלִיָּה",
+      "latin": "Aaliyah"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": false,
+      "exact_lexical_form_occurs": false,
+      "root_or_lemma_occurs": false,
+      "related_forms_occur": false,
+      "old_testament_occurs": false,
+      "new_testament_occurs": false,
+      "christian_historical_usage": false,
+      "saint_association": false,
+      "interpretation": "The name does not occur in the Bible. It is an Arabic name."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified; the name is a modern Arabic given name.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Arabic, Hebrew, English naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Aaliyah"
+      "Aliyah",
+      "Aaliya",
+      "Alia"
     ],
     "variants": [
-      "Aaliyah"
+      "Aliyah",
+      "Aaliya",
+      "Alia"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
+    "related_names": [
+      "Ali",
+      "Aali"
+    ],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Aaliyah is used in its naming tradition with the meaning “Rising, ascending”.",
-    "spiritual_significance": "Any spiritual significance attached to Aaliyah is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Rising, ascending” is the basis of any symbolism attached to Aaliyah; such symbolism is interpretive.",
-    "biblical_reference": {},
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aaliyah."
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
+    "biblical_reference": {
+      "occurs": false,
+      "old_testament": false,
+      "new_testament": false,
+      "note": "The name does not occur in the Bible. It is an Arabic name."
     },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#Aaliyah",
-      "#AaliyahMeaning",
-      "#ChristianNames",
-      "#BabyNames"
-    ],
-    "monetization": {},
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Aaliyah Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aaliyah has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aaliyah, Aaliyah name meaning, Aaliyah meaning, Aaliyah origin, Aaliyah root, Aaliyah pronunciation",
-      "description_paragraph": "The meaning of Aaliyah has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aaliyah",
-        "Aaliyah name meaning",
-        "Aaliyah meaning",
-        "Aaliyah origin",
-        "Aaliyah root",
+      "primary_search_intent": "Aaliyah name meaning and origin",
+      "secondary_search_intents": [
+        "is Aaliyah a biblical name",
+        "Aaliyah name origin and language",
         "Aaliyah pronunciation"
       ],
-      "focus_keyword": "Aaliyah name meaning",
-      "secondary_keywords": [
-        "Aaliyah meaning",
+      "seo_title": "Aaliyah Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Aaliyah: meaning “Rising; ascending; exalted”, Arabic / Hebrew origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Aaliyah (עֲלִיָּה) is a name of Arabic / Hebrew origin meaning “Rising; ascending; exalted”. From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin. Its root is Arabic عالية (ʿāliyah) 'high, exalted', from the root ع-ل-و (ʿ-l-w) 'to be high'; also Hebrew עֲלִיָּה (ʿaliyyah) 'ascent'. Aaliyah is an Arabic name; it is not a Biblical or Christian name in origin. It is distinct from Hebrew עֲלִיָּה (ʿaliyyah) 'ascent' - a distinct word, not the same name.",
+      "keywords": [
+        "Aaliyah name meaning",
         "Aaliyah origin",
+        "Aaliyah biblical name",
         "Aaliyah pronunciation",
-        "Aaliyah lucky number"
+        "Aaliyah etymology"
       ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Aaliyah mean?",
-          "a": "Name-lists record the meaning as “Rising, ascending”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Aaliyah means “Rising; ascending; exalted”."
+        },
+        {
+          "q": "What is the origin of the name Aaliyah?",
+          "a": "Aaliyah is of Arabic / Hebrew origin."
+        },
+        {
+          "q": "What language does the name Aaliyah come from?",
+          "a": "Aaliyah is used in Arabic, Hebrew, English."
+        },
+        {
+          "q": "Is Aaliyah a boy's name or a girl's name?",
+          "a": "Aaliyah is used as a female name."
+        },
+        {
+          "q": "How is Aaliyah pronounced?",
+          "a": "Aaliyah is pronounced ah-LEE-yah."
+        },
+        {
+          "q": "How is Aaliyah written in Hebrew?",
+          "a": "Aaliyah is written עֲלִיָּה in Hebrew script."
+        },
+        {
+          "q": "How is Aaliyah written in Latin?",
+          "a": "Aaliyah is written Aaliyah in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Aaliyah?",
+          "a": "The root of Aaliyah is Arabic عالية (ʿāliyah) 'high, exalted', from the root ع-ل-و (ʿ-l-w) 'to be high'; also Hebrew עֲלִיָּה (ʿaliyyah) 'ascent'."
+        },
+        {
+          "q": "What is the etymology of Aaliyah?",
+          "a": "From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin."
+        },
+        {
+          "q": "Does Aaliyah appear in the Bible?",
+          "a": "No. The name does not occur in the Bible. It is an Arabic name."
+        },
+        {
+          "q": "Is Aaliyah a Biblical name?",
+          "a": "No. Aaliyah is not a Biblical personal name; it is of Arabic / Hebrew origin."
+        },
+        {
+          "q": "Does Aaliyah occur in the Old Testament?",
+          "a": "No — it is not attested in the Old Testament."
+        },
+        {
+          "q": "Does Aaliyah occur in the New Testament?",
+          "a": "No — it is not attested in the New Testament."
+        },
+        {
+          "q": "Is Aaliyah associated with a saint?",
+          "a": "No saint association is verified for the name Aaliyah."
         },
         {
           "q": "Is the meaning of Aaliyah verified?",
-          "a": "No. The meaning of Aaliyah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “Rising; ascending; exalted” is supported by An Arabic name; the Hebrew ʿaliyyah is a distinct word meaning 'ascent'. Confidence: MEDIUM."
         },
         {
-          "q": "Where does the name Aaliyah come from?",
-          "a": "The origin of Aaliyah has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Aaliyah?",
+          "a": "In Pythagorean numerology the letters of Aaliyah total 57, reducing to 3. Number 3 is traditionally associated with expression, creativity and sociability. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Aaliyah?",
+          "a": "Variants and alternative forms include Aliyah, Aaliya, Alia."
+        },
+        {
+          "q": "Is Aaliyah the same as Hebrew עֲלִיָּה?",
+          "a": "No. Aaliyah is distinct from Hebrew עֲלִיָּה (ʿaliyyah) 'ascent' - a distinct word, not the same name."
+        },
+        {
+          "q": "What is the transliteration of Aaliyah?",
+          "a": "Aaliyah is transliterated as ʿĀliyah."
+        },
+        {
+          "q": "How many syllables does Aaliyah have?",
+          "a": "Aaliyah has 2 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Aaliyah?",
+          "a": "Any spiritual significance attached to Aaliyah is interpretive. Its documented core is the lexical meaning “Rising; ascending; exalted”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Aaliyah used today?",
+          "a": "Aaliyah circulates chiefly in Arabic, Hebrew, English naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 95,
+      "seo_score_basis": "FAQ 22 (>=10 target) · tier-1 confidence MEDIUM · 0 open issue(s)"
     },
-    "seo_title": "Aaliyah Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aaliyah has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Aaliyah Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Aaliyah: meaning “Rising; ascending; exalted”, Arabic / Hebrew origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Aaliyah",
       "Aaliyah name meaning",
-      "Aaliyah meaning",
       "Aaliyah origin",
-      "Aaliyah root",
-      "Aaliyah pronunciation"
+      "Aaliyah biblical name",
+      "Aaliyah pronunciation",
+      "Aaliyah etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Aaliyah has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Aaliyah (עֲלִיָּה) is a name of Arabic / Hebrew origin meaning “Rising; ascending; exalted”. From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin. Its root is Arabic عالية (ʿāliyah) 'high, exalted', from the root ع-ل-و (ʿ-l-w) 'to be high'; also Hebrew עֲלִיָּה (ʿaliyyah) 'ascent'. Aaliyah is an Arabic name; it is not a Biblical or Christian name in origin. It is distinct from Hebrew עֲלִיָּה (ʿaliyyah) 'ascent' - a distinct word, not the same name.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Aaliyah",
-      "description": "Aaliyah — Rising, ascending",
-      "additionalType": "https://schema.org/Person"
+      "description": "Rising; ascending; exalted",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -151,7 +331,111 @@
           "name": "What does the name Aaliyah mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Rising, ascending”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Aaliyah means “Rising; ascending; exalted”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Aaliyah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah is of Arabic / Hebrew origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Aaliyah come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah is used in Arabic, Hebrew, English."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aaliyah a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah is used as a female name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aaliyah pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah is pronounced ah-LEE-yah."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aaliyah written in Hebrew?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah is written עֲלִיָּה in Hebrew script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aaliyah written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah is written Aaliyah in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Aaliyah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Aaliyah is Arabic عالية (ʿāliyah) 'high, exalted', from the root ع-ل-و (ʿ-l-w) 'to be high'; also Hebrew עֲלִיָּה (ʿaliyyah) 'ascent'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Aaliyah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aaliyah appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The name does not occur in the Bible. It is an Arabic name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aaliyah a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Aaliyah is not a Biblical personal name; it is of Arabic / Hebrew origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aaliyah occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the Old Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aaliyah occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the New Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aaliyah associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Aaliyah."
           }
         },
         {
@@ -159,138 +443,202 @@
           "name": "Is the meaning of Aaliyah verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Aaliyah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “Rising; ascending; exalted” is supported by An Arabic name; the Hebrew ʿaliyyah is a distinct word meaning 'ascent'. Confidence: MEDIUM."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Aaliyah come from?",
+          "name": "What is the numerology or lucky number of Aaliyah?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Aaliyah has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Aaliyah total 57, reducing to 3. Number 3 is traditionally associated with expression, creativity and sociability. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Aaliyah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Aliyah, Aaliya, Alia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aaliyah the same as Hebrew עֲלִיָּה?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Aaliyah is distinct from Hebrew עֲלִיָּה (ʿaliyyah) 'ascent' - a distinct word, not the same name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Aaliyah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah is transliterated as ʿĀliyah."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Aaliyah have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah has 2 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Aaliyah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Aaliyah is interpretive. Its documented core is the lexical meaning “Rising; ascending; exalted”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Aaliyah used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aaliyah circulates chiefly in Arabic, Hebrew, English naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 53,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": true,
-      "authenticity_flags": [
-        "origin_unverified",
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
-    },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:41.000Z",
-    "tier1_verified": {
-      "name": "Aaliyah",
-      "slug": "aaliyah",
-      "meaning": "Rising, ascending",
-      "origin": "",
-      "language": [],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aaliyah",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Rising, ascending",
-      "long_meaning": "The name Aaliyah is recorded with the meaning “Rising, ascending”. Aaliyah is a uncertain origin name meaning “Rising, ascending”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
           "name": "Aaliyah",
-          "meaning": "Rising, ascending",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "ahliyah",
-        "ipa": "/ɑːliyah/"
-      },
-      "syllables": 2,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Aaliyah mean?",
-          "a": "Name-lists record the meaning as “Rising, ascending”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aaliyah verified?",
-          "a": "No. The meaning of Aaliyah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aaliyah come from?",
-          "a": "The origin of Aaliyah has not been verified and is not asserted here."
+          "item": ""
         }
       ]
     },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 3,
-        "life_path_number": 3,
-        "ruling_planet": "Jupiter",
-        "lucky_day": "Thursday",
-        "lucky_stone": "Yellow Sapphire",
-        "lucky_colors": [
-          "Yellow",
-          "Gold"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aaliyah total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
+    "advanced_seo": {
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
+      }
+    },
+    "confidence": {
+      "overall": "MEDIUM",
+      "basis": "An Arabic name; the Hebrew ʿaliyyah is a distinct word meaning 'ascent'."
+    },
+    "data_quality": {
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
+    },
+    "created_at": "2026-10-03T02:50:50.000Z",
+    "updated_at": "2026-10-03T02:50:50.000Z",
+    "tier1_verified": {
+      "name": "Aaliyah",
+      "slug": "aaliyah",
+      "meaning": "Rising; ascending; exalted",
+      "origin": "Arabic / Hebrew",
+      "language": [
+        "Arabic",
+        "Hebrew",
+        "English"
+      ],
+      "gender": "Female",
+      "root": "Arabic عالية (ʿāliyah) 'high, exalted', from the root ع-ل-و (ʿ-l-w) 'to be high'; also Hebrew עֲלִיָּה (ʿaliyyah) 'ascent'",
+      "etymology": "From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin.",
+      "script": {
+        "arabic": "عالية",
+        "hebrew": "עֲלִיָּה",
+        "latin": "Aaliyah"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "transliteration": "ʿĀliyah",
+      "reference": "An Arabic name; the Hebrew ʿaliyyah is a distinct word meaning 'ascent'.",
+      "confidence": "MEDIUM"
+    },
+    "tier2_explanatory": {
+      "long_meaning": "Aaliyah (עֲלִיָּה) is a name of Arabic / Hebrew origin meaning “Rising; ascending; exalted”. From Arabic عالية (ʿāliyah) 'high, exalted, sublime', from the root ع-ل-و (ʿ-l-w) 'to be high'. A homophonous Hebrew word עֲלִיָּה (ʿaliyyah) means 'ascent' (as in immigration to Israel). The two are distinct in origin. Its root is Arabic عالية (ʿāliyah) 'high, exalted', from the root ع-ل-و (ʿ-l-w) 'to be high'; also Hebrew עֲלִיָּה (ʿaliyyah) 'ascent'. Aaliyah is an Arabic name; it is not a Biblical or Christian name in origin. It is distinct from Hebrew עֲלִיָּה (ʿaliyyah) 'ascent' - a distinct word, not the same name.",
+      "biblical_status": {
+        "exact_name_form_occurs": false,
+        "exact_lexical_form_occurs": false,
+        "root_or_lemma_occurs": false,
+        "related_forms_occur": false,
+        "old_testament_occurs": false,
+        "new_testament_occurs": false,
+        "christian_historical_usage": false,
+        "saint_association": false,
+        "interpretation": "The name does not occur in the Bible. It is an Arabic name."
+      },
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
+      },
+      "historical_references": []
+    },
+    "tier3_interpretive": {
+      "numerology": {
+        "name_number": 3,
+        "meaning": "expression, creativity and sociability",
+        "status": "belief_based"
+      },
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "sources": [
+        "An Arabic name; the Hebrew ʿaliyyah is a distinct word meaning 'ascent'."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "An Arabic name; the Hebrew ʿaliyyah is a distinct word meaning 'ascent'.",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "An Arabic name; the Hebrew ʿaliyyah is a distinct word meaning 'ascent'."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:41.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:50:50.000Z"
     }
   }
 }

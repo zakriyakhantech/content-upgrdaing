@@ -3,330 +3,161 @@
   "data": {
     "name": "Adele",
     "slug": "adele",
-    "language": [
-      "English",
-      "Hebrew",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Adele is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Adele",
+    "normalized_name": "adele",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Virtue",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Noble one",
-    "long_meaning": "The meaning of Adele is recorded in name-lists as “Noble one”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Adele expresses “Noble one”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-e-l-e",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Adele"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Adele total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_hebrew": {
-      "name": "אדל",
-      "meaning": "מילה נרדפת לנובלה, יקרה, אצילה",
-      "long_meaning": "השם אדל הוא שורש גרמני ומשמעותו 'נובלה', 'יקרה' או 'אצילה'. הוא קשור למילה העברית 'אדל' שפירושה 'תכשיט' או 'אצילות'. השם אדל מופיע בתרבויות שונות ומשמש כסמל לאצילות וטוב טבע."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αδελ",
-      "meaning": "Τυχερή, Καλή, Αγαπητή",
-      "long_meaning": "Ο όρος Αδελ δεν έχει άμεση σύνδεση με την ελληνική γλώσσα, αλλά μπορεί να συσχετιστεί με λέξεις όπως 'αγαπητή' ή 'καλή'. Η ετυμολογία του ονόματος Adele δεν έχει άμεση σύνδεση με την ελληνική γλώσσα."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Adele",
-      "meaning": "Nobilis, Pretiosa, Generosa",
-      "long_meaning": "Nomen Adele originem habet germanicam et significationem 'nobilis', 'pretiosa' vel 'generosa' habet. In traditione christiana, nomen Adele potest significare 'pretiosa' vel 'dilecta'."
-    },
-    "in_english": {
-      "name": "Adele",
-      "meaning": "Noble one",
-      "long_meaning": "Noble one"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AD-əl",
-      "ipa": "/əˈdɛl/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Adele"
-    ],
-    "variants": [
-      "Adele"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Adele is used in Biblical naming tradition with the meaning “Noble one”.",
-    "spiritual_significance": "Any spiritual significance attached to Adele is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Noble one” is the basis of any symbolism attached to Adele; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Adele."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AdeleMeaning",
-      "#ChristianBabyNames",
-      "#NonBiblicalNames",
-      "#ChristianNames",
-      "#Adele"
-    ],
-    "monetization": {
-      "ad_units": [
-        {
-          "type": "display",
-          "format": "leaderboard",
-          "placement": "header"
-        },
-        {
-          "type": "display",
-          "format": "rectangle",
-          "placement": "article"
-        },
-        {
-          "type": "affiliate",
-          "format": "text_link",
-          "placement": "footer"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Adele Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Adele has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Adele, Adele name meaning, Adele meaning, Adele origin, Adele root, Adele pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Adele has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Adele name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Adele Name Meaning & Origin | NameVerse",
+      "meta_description": "Adele: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Adele",
-        "Adele name meaning",
-        "Adele meaning",
-        "Adele origin",
-        "Adele root",
-        "Adele pronunciation",
-        "Biblical names"
+        "Adele name meaning"
       ],
-      "focus_keyword": "Adele name meaning",
-      "secondary_keywords": [
-        "Adele meaning",
-        "Adele origin",
-        "Adele pronunciation",
-        "Adele lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Adele mean?",
-          "a": "Name-lists record the meaning as “Noble one”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adele verified?",
-          "a": "No. The meaning of Adele could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adele come from?",
-          "a": "The origin of Adele has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Adele Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Adele has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Adele Name Meaning & Origin | NameVerse",
+    "meta_description": "Adele: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Adele",
-      "Adele name meaning",
-      "Adele meaning",
-      "Adele origin",
-      "Adele root",
-      "Adele pronunciation",
-      "Biblical names"
+      "Adele name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Adele has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Adele",
-      "description": "Adele — Noble one",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Adele mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Noble one”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Adele verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Adele could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Adele come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Adele has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:46.000Z",
-    "tier1_verified": {
-      "name": "Adele",
-      "slug": "adele",
-      "meaning": "Noble one",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Adele",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Noble one",
-      "long_meaning": "The name Adele is recorded with the meaning “Noble one”. Adele is a Biblical name meaning “Noble one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Adele",
-          "meaning": "Noble one",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AD-əl",
-        "ipa": "/əˈdɛl/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Adele mean?",
-          "a": "Name-lists record the meaning as “Noble one”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adele verified?",
-          "a": "No. The meaning of Adele could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adele come from?",
-          "a": "The origin of Adele has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Adele total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:56:27.000Z",
+    "updated_at": "2026-10-03T02:56:27.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -335,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:46.000Z"
+      "processed_at": "2026-10-03T02:56:27.000Z"
     }
   }
 }

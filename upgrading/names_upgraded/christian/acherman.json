@@ -3,313 +3,161 @@
   "data": {
     "name": "Acherman",
     "slug": "acherman",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Male",
-    "gender_notes": "Acherman is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Acherman",
+    "normalized_name": "acherman",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Father man",
-    "long_meaning": "The meaning of Acherman is recorded in name-lists as “Father man”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Acherman expresses “Father man”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-c-h-e-r-m-a-n",
-    "syllables": 3,
-    "name_length": 8,
-    "transliteration": [
-      "Acherman"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Acherman total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_hebrew": {
-      "name": "אכרמן",
-      "meaning": "אכרמן - תושבי הארץ, חסידים, בעלי האדמה",
-      "long_meaning": "אכרמן הוא שם שמקורו ביהדות, נגזר מהמילה 'אכר' שפירושה 'אדמה' או 'שדה', ויכול להתייחס לאלו שגרים בארץ, חסידים או בעלי אדמות. השם מופיע בהקשרים שונים ביהדות ויכול לסמל קשר לאדמה הקדושה."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αχερμαν",
-      "meaning": "Αχερμαν - ο κάτοικος, ο πιστός, ο γεωργός",
-      "long_meaning": "Το όνομα Αχερμαν έχει τις ρίζες του στην εβραϊκή παράδοση και μεταφράζεται ως 'ο κάτοικος' ή 'ο γεωργός'. Στην Καινή Διαθήκη δεν υπάρχει άμεση αναφορά, αλλά το όνομα μπορεί να συσχετιστεί με την έννοια της καλλιέργειας και της πίστης, αντανακλώντας την πνευματική καλλιέργεια."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Acherman",
-      "meaning": "Acherman - inhabitant, faithful one, landowner",
-      "long_meaning": "The name Acherman originates from Hebrew roots, signifying an inhabitant, a faithful individual, or a landowner. In early Christian contexts, it may reflect a connection to the land or the concept of spiritual cultivation. The name carries connotations of fidelity and terrestrial roots."
-    },
-    "in_english": {
-      "name": "Acherman",
-      "meaning": "Father man",
-      "long_meaning": "Father man"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AK-ər-man",
-      "ipa": "/ˈækərmən/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Acherman"
-    ],
-    "variants": [
-      "Acherman"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Acherman is used in Biblical naming tradition with the meaning “Father man”.",
-    "spiritual_significance": "Any spiritual significance attached to Acherman is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Father man” is the basis of any symbolism attached to Acherman; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": "The name Acherman does not have a direct reference in the Bible but is derived from Hebrew roots related to land and cultivation."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Acherman."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AchermanMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Acherman"
-    ],
-    "monetization": {
-      "price": 2.99,
-      "currency": "USD"
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Acherman Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Acherman has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Acherman, Acherman name meaning, Acherman meaning, Acherman origin, Acherman root, Acherman pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Acherman has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Acherman name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Acherman Name Meaning & Origin | NameVerse",
+      "meta_description": "Acherman: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Acherman",
-        "Acherman name meaning",
-        "Acherman meaning",
-        "Acherman origin",
-        "Acherman root",
-        "Acherman pronunciation",
-        "Biblical names"
+        "Acherman name meaning"
       ],
-      "focus_keyword": "Acherman name meaning",
-      "secondary_keywords": [
-        "Acherman meaning",
-        "Acherman origin",
-        "Acherman pronunciation",
-        "Acherman lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Acherman mean?",
-          "a": "Name-lists record the meaning as “Father man”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Acherman verified?",
-          "a": "No. The meaning of Acherman could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Acherman come from?",
-          "a": "The origin of Acherman has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Acherman Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Acherman has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Acherman Name Meaning & Origin | NameVerse",
+    "meta_description": "Acherman: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Acherman",
-      "Acherman name meaning",
-      "Acherman meaning",
-      "Acherman origin",
-      "Acherman root",
-      "Acherman pronunciation",
-      "Biblical names"
+      "Acherman name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Acherman has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Acherman",
-      "description": "Acherman — Father man",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Acherman mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Father man”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Acherman verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Acherman could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Acherman come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Acherman has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:43.000Z",
-    "tier1_verified": {
-      "name": "Acherman",
-      "slug": "acherman",
-      "meaning": "Father man",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Acherman",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Father man",
-      "long_meaning": "The name Acherman is recorded with the meaning “Father man”. Acherman is a Biblical name meaning “Father man”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Acherman",
-          "meaning": "Father man",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AK-ər-man",
-        "ipa": "/ˈækərmən/"
-      },
-      "syllables": 3,
-      "name_length": 8,
-      "faqs": [
-        {
-          "q": "What does the name Acherman mean?",
-          "a": "Name-lists record the meaning as “Father man”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Acherman verified?",
-          "a": "No. The meaning of Acherman could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Acherman come from?",
-          "a": "The origin of Acherman has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Acherman total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:51:19.000Z",
+    "updated_at": "2026-10-03T02:51:19.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -318,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:43.000Z"
+      "processed_at": "2026-10-03T02:51:19.000Z"
     }
   }
 }

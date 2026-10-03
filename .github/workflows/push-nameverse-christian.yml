@@ -1,4 +1,4 @@
-name: Push NameVerse Christian batch 004
+name: Push NameVerse Christian batch 005
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
         run: |
           set -e
           ok=0
-          for u in "https://litter.catbox.moe/j0f7o9.bundle" "https://x0.at/turT.bundle"; do
+          for u in "https://litter.catbox.moe/eh1siz.bundle" "https://x0.at/hiaV.bundle"; do
             echo "trying $u"
             for attempt in 1 2 3; do
               if curl -fsSL --retry 3 --retry-delay 2 "$u" -o /tmp/nv.bundle; then

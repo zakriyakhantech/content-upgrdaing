@@ -3,312 +3,161 @@
   "data": {
     "name": "Amalburga",
     "slug": "amalburga",
-    "language": [
-      "English",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Amalburga is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Amalburga",
+    "normalized_name": "amalburga",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Saint",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Powerful, industrious",
-    "long_meaning": "The meaning of Amalburga is recorded in name-lists as “Powerful, industrious”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Amalburga expresses “Powerful, industrious”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-m-a-l-b-u-r-g-a",
-    "syllables": 4,
-    "name_length": 9,
-    "transliteration": [
-      "Amalburga"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Grey",
-      "Blue"
-    ],
-    "lucky_stone": "Hessonite",
-    "ruling_planet": "Rahu",
-    "life_path_number": 4,
-    "numerology_meaning": "In Pythagorean numerology the letters of Amalburga total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-    "in_hebrew": {
-      "name": "עמאלבורגה",
-      "meaning": "עם-אל-בורגה",
-      "long_meaning": "עם-אל-בורגה-משמעות-בעברית-היא-יהודית-מקור-בבבל-בימי-האימפריה-הפרסית-דבק-הסמל-הגרמני-בורגה-בסימן-עוצמה-ובריט-א-כ-א-ר-ג-ב-ק-ב-ס-כ-ס-מ-ש-מ-א-ל-ב-א-ו-ר-ג-ה-ב-ב-ל-א-ם-ה-ב-א-ם-ה-ב-ב-ו-מ-ב-ב-א-ר-ג-ה-ב-ב-ל-א-ם-ה-ב-א-ל-ב-ג-ר-ג-ה-ב-א-ל-ב-ג-ת-ג-ה-ב-א-ל-ב-כ-א-"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Ἀμαλβούργα",
-      "meaning": "ἄνθημα τοῦ βουργέος",
-      "long_meaning": "Ἀμαλβούργα-ἡ-λέξη-ἔχει-ἐτυμολογία-ἀπὸ-τῆς-Ἑβραϊκῆς-φωνή-ἤ-ἄνθος-ἤ-ἄνθος-τοῦ-βουργέος-ἀπὸ-τῆς-παλαιῆς-ἑλληνικής-φωνή-ἤ-ἄνθος-ἤ-ἄνθος-τοῦ-βουργέος-ἀπὸ-τῆς-παλαιῆς-ἑλληνικής-φωνή-ἤ-ἄνθος-ἤ-ἄνθος-τοῦ-βουργέος-ἀπὸ-τῆς-παλαιῆς-ἑλληνικής-φωνή-ἤ-ἄνθος-ἤ-ἄνθος-τοῦ-βουργέος-ἀπὸ-τῆς-παλαιῆς-ἑλληνικής-φωνή"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Amalburga",
-      "meaning": "Amalburga, nomen Germanicum, significans fortitudo et virtus",
-      "long_meaning": "Amalburga, nomen Germanicum, significans fortitudo et virtus, origo a Germania, etiam in lingua Anglica utitur, in cultu Christiano habet locum, in scriptis Ecclesiasticis mentionem habet, etiam in calendario sanctorum habet locum"
-    },
-    "in_english": {
-      "name": "Amalburga",
-      "meaning": "Powerful, industrious",
-      "long_meaning": "Powerful, industrious"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "MAR-al-bur-gah",
-      "biblical": "N/A",
-      "ipa": "/ˌmærəlˈbɜːrɡə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Amalburga"
-    ],
-    "variants": [
-      "Amalburga"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Amalburga is used in Biblical naming tradition with the meaning “Powerful, industrious”.",
-    "spiritual_significance": "Any spiritual significance attached to Amalburga is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Powerful, industrious” is the basis of any symbolism attached to Amalburga; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Amalburga."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AmalburgaMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Amalburga"
-    ],
-    "monetization": {
-      "google_ads": true,
-      "amazon_affiliate": true
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Amalburga Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Amalburga has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Amalburga, Amalburga name meaning, Amalburga meaning, Amalburga origin, Amalburga root, Amalburga pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Amalburga has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Amalburga name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Amalburga Name Meaning & Origin | NameVerse",
+      "meta_description": "Amalburga: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Amalburga",
-        "Amalburga name meaning",
-        "Amalburga meaning",
-        "Amalburga origin",
-        "Amalburga root",
-        "Amalburga pronunciation",
-        "Biblical names"
+        "Amalburga name meaning"
       ],
-      "focus_keyword": "Amalburga name meaning",
-      "secondary_keywords": [
-        "Amalburga meaning",
-        "Amalburga origin",
-        "Amalburga pronunciation",
-        "Amalburga lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Amalburga mean?",
-          "a": "Name-lists record the meaning as “Powerful, industrious”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Amalburga verified?",
-          "a": "No. The meaning of Amalburga could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Amalburga come from?",
-          "a": "The origin of Amalburga has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Amalburga Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Amalburga has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Amalburga Name Meaning & Origin | NameVerse",
+    "meta_description": "Amalburga: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Amalburga",
-      "Amalburga name meaning",
-      "Amalburga meaning",
-      "Amalburga origin",
-      "Amalburga root",
-      "Amalburga pronunciation",
-      "Biblical names"
+      "Amalburga name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Amalburga has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Amalburga",
-      "description": "Amalburga — Powerful, industrious",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Amalburga mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Powerful, industrious”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Amalburga verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Amalburga could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Amalburga come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Amalburga has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:08.000Z",
-    "tier1_verified": {
-      "name": "Amalburga",
-      "slug": "amalburga",
-      "meaning": "Powerful, industrious",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Amalburga",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Powerful, industrious",
-      "long_meaning": "The name Amalburga is recorded with the meaning “Powerful, industrious”. Amalburga is a Biblical name meaning “Powerful, industrious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Amalburga",
-          "meaning": "Powerful, industrious",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "MAR-al-bur-gah",
-        "ipa": "/ˌmærəlˈbɜːrɡə/"
-      },
-      "syllables": 4,
-      "name_length": 9,
-      "faqs": [
-        {
-          "q": "What does the name Amalburga mean?",
-          "a": "Name-lists record the meaning as “Powerful, industrious”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Amalburga verified?",
-          "a": "No. The meaning of Amalburga could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Amalburga come from?",
-          "a": "The origin of Amalburga has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 4,
-        "life_path_number": 4,
-        "ruling_planet": "Rahu",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Hessonite",
-        "lucky_colors": [
-          "Grey",
-          "Blue"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Amalburga total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:10:07.000Z",
+    "updated_at": "2026-10-03T03:10:07.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -317,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:08.000Z"
+      "processed_at": "2026-10-03T03:10:07.000Z"
     }
   }
 }

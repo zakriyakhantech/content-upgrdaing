@@ -3,339 +3,161 @@
   "data": {
     "name": "Ambrosilla",
     "slug": "ambrosilla",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Ambrosilla is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Ambrosilla",
+    "normalized_name": "ambrosilla",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Immortal Nectar",
-    "long_meaning": "The meaning of Ambrosilla is recorded in name-lists as “Immortal Nectar”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Ambrosilla expresses “Immortal Nectar”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-m-b-r-o-s-i-l-l-a",
-    "syllables": 4,
-    "name_length": 10,
-    "transliteration": [
-      "Ambrosilla"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Yellow Sapphire",
-    "ruling_planet": "Jupiter",
-    "life_path_number": 3,
-    "numerology_meaning": "In Pythagorean numerology the letters of Ambrosilla total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-    "in_hebrew": {
-      "name": "אמברוסילה",
-      "meaning": "אמברוסילה - שמן נוצרי עם משמעות אלוהית",
-      "long_meaning": "אמברוסילה הוא שם נוצרי שמקורו במילה היוונית 'אמברוסיה', שפירושה 'מזון אלוהי' או 'מאכל אלוהי'. השם נגזר מהמילה 'אמברוס', שפירושה 'אלמותות' או 'לא מת'. השם אמברוסילה משמש כנראה כחיבה או כצורה נשית של השם אמברוסיוס, שפירושו 'אלמותי' או 'לא מת'. השם משקף את הרעיון של חיי נצח וקשר אלוהי"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αμβροσίλλα",
-      "meaning": "Αμβροσίλλα - θρέμμα θεϊκόν",
-      "long_meaning": "Το όνομα Αμβροσίλλα προέρχεται από το ελληνικό 'αμβροσία', που σημαίνει 'θεϊκή τροφή' ή 'αθάνατη τροφή'. Στην ελληνική μυθολογία, η αμβροσία ήταν η τροφή των θεών που τους έδινε αθανασία. Το όνομα Αμβροσίλλα πιθανόν να χρησιμοποιήθηκε ως υποκοριστικό ή ως θηλυκή μορφή του ονόματος Αμβρόσιος, που σημαίνει 'αθάνατος' ή 'αθώος'. Το όνομα αντανακλά την ιδέα της πνευματικής τροφής και της σύνδεσης με το θείο"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Ambrosilla",
-      "meaning": "Ambrosilla - divine food or immortal",
-      "long_meaning": "The name Ambrosilla is derived from the Latin 'ambrosia', which means 'divine food' or 'immortal'. In Roman mythology, ambrosia was the food of the gods that granted immortality. The name Ambrosilla is likely a diminutive or feminine form of Ambrosius, which means 'immortal' or 'eternal'. The name reflects the idea of spiritual nourishment and connection to the divine, signifying a life of virtue and devotion"
-    },
-    "in_english": {
-      "name": "Ambrosilla",
-      "meaning": "Immortal Nectar",
-      "long_meaning": "Immortal Nectar"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "am-broh-SIL-ah",
-      "ipa": "/ˌæmbrəˈsɪlə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Ambrosilla"
-    ],
-    "variants": [
-      "Ambrosilla"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Ambrosilla is used in Biblical naming tradition with the meaning “Immortal Nectar”.",
-    "spiritual_significance": "Any spiritual significance attached to Ambrosilla is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Immortal Nectar” is the basis of any symbolism attached to Ambrosilla; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Ambrosilla."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AmbrosillaMeaning",
-      "#ChristianBabyNames",
-      "#EternalLifeNames",
-      "#SpiritualNames",
-      "#Ambrosilla"
-    ],
-    "monetization": {
-      "ad_places": [
-        {
-          "position": "top",
-          "ad_type": "image"
-        },
-        {
-          "position": "side",
-          "ad_type": "text"
-        },
-        {
-          "position": "bottom",
-          "ad_type": "video"
-        }
-      ],
-      "affiliate_links": [
-        {
-          "product": "Baby Clothes",
-          "commission": 0.1
-        },
-        {
-          "product": "Baby Books",
-          "commission": 0.2
-        },
-        {
-          "product": "Baby Toys",
-          "commission": 0.3
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Ambrosilla Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Ambrosilla has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Ambrosilla, Ambrosilla name meaning, Ambrosilla meaning, Ambrosilla origin, Ambrosilla root, Ambrosilla pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Ambrosilla has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Ambrosilla name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Ambrosilla Name Meaning & Origin | NameVerse",
+      "meta_description": "Ambrosilla: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Ambrosilla",
-        "Ambrosilla name meaning",
-        "Ambrosilla meaning",
-        "Ambrosilla origin",
-        "Ambrosilla root",
-        "Ambrosilla pronunciation",
-        "Biblical names"
+        "Ambrosilla name meaning"
       ],
-      "focus_keyword": "Ambrosilla name meaning",
-      "secondary_keywords": [
-        "Ambrosilla meaning",
-        "Ambrosilla origin",
-        "Ambrosilla pronunciation",
-        "Ambrosilla lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Ambrosilla mean?",
-          "a": "Name-lists record the meaning as “Immortal Nectar”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Ambrosilla verified?",
-          "a": "No. The meaning of Ambrosilla could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Ambrosilla come from?",
-          "a": "The origin of Ambrosilla has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Ambrosilla Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Ambrosilla has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Ambrosilla Name Meaning & Origin | NameVerse",
+    "meta_description": "Ambrosilla: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Ambrosilla",
-      "Ambrosilla name meaning",
-      "Ambrosilla meaning",
-      "Ambrosilla origin",
-      "Ambrosilla root",
-      "Ambrosilla pronunciation",
-      "Biblical names"
+      "Ambrosilla name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Ambrosilla has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Ambrosilla",
-      "description": "Ambrosilla — Immortal Nectar",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Ambrosilla mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Immortal Nectar”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Ambrosilla verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Ambrosilla could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Ambrosilla come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Ambrosilla has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:11.000Z",
-    "tier1_verified": {
-      "name": "Ambrosilla",
-      "slug": "ambrosilla",
-      "meaning": "Immortal Nectar",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Ambrosilla",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Immortal Nectar",
-      "long_meaning": "The name Ambrosilla is recorded with the meaning “Immortal Nectar”. Ambrosilla is a Biblical name meaning “Immortal Nectar”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Ambrosilla",
-          "meaning": "Immortal Nectar",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "am-broh-SIL-ah",
-        "ipa": "/ˌæmbrəˈsɪlə/"
-      },
-      "syllables": 4,
-      "name_length": 10,
-      "faqs": [
-        {
-          "q": "What does the name Ambrosilla mean?",
-          "a": "Name-lists record the meaning as “Immortal Nectar”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Ambrosilla verified?",
-          "a": "No. The meaning of Ambrosilla could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Ambrosilla come from?",
-          "a": "The origin of Ambrosilla has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 3,
-        "life_path_number": 3,
-        "ruling_planet": "Jupiter",
-        "lucky_day": "Thursday",
-        "lucky_stone": "Yellow Sapphire",
-        "lucky_colors": [
-          "Yellow",
-          "Gold"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Ambrosilla total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:10:32.000Z",
+    "updated_at": "2026-10-03T03:10:32.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -344,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:11.000Z"
+      "processed_at": "2026-10-03T03:10:32.000Z"
     }
   }
 }

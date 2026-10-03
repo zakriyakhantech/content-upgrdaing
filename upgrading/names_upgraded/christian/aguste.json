@@ -3,332 +3,161 @@
   "data": {
     "name": "Aguste",
     "slug": "aguste",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Male",
-    "gender_notes": "Aguste is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Aguste",
+    "normalized_name": "aguste",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Majestic, venerable",
-    "long_meaning": "The meaning of Aguste is recorded in name-lists as “Majestic, venerable”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aguste expresses “Majestic, venerable”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-g-u-s-t-e",
-    "syllables": 2,
-    "name_length": 6,
-    "transliteration": [
-      "Aguste"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Gold",
-      "Orange"
-    ],
-    "lucky_stone": "Ruby",
-    "ruling_planet": "Sun",
-    "life_path_number": 1,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aguste total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-    "in_hebrew": {
-      "name": "אוגוסט",
-      "meaning": "מלך גדול ורב עוצמה",
-      "long_meaning": "השם אוגוסט מקורו בלטינית, אך במסורת הנוצרית הוא מזוהה עם רעיון המלכות והגדולה, כפי שמופיע בברית החדשה, במיוחד בספר מעשי השליחים"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αὐγούστης",
-      "meaning": "μεγάλος και ισχυρός βασιλιάς",
-      "long_meaning": "το όνομα Αὐγούστης προέρχεται από το λατινικό, αλλά στην χριστιανική παράδοση ταυτίζεται με την ιδέα της βασιλείας και της μεγαλειότητας, όπως φαίνεται στην Καινή Διαθήκη, ιδιαίτερα στο βιβλίο των Πράξεων των Αποστόλων"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Augustus",
-      "meaning": "magnus et potens rex",
-      "long_meaning": "nomen Augustus originem habet in lingua Latina, sed in traditione Christiana identificatur cum idea regni et magnitudinis, ut in Novo Testamento, praecipue in libro Actuum Apostolorum"
-    },
-    "in_english": {
-      "name": "Aguste",
-      "meaning": "Majestic, venerable",
-      "long_meaning": "Majestic, venerable"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AWG-uhs-tay",
-      "biblical": "no direct biblical pronunciation",
-      "ipa": "/ɔːˈɡʌst/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Aguste"
-    ],
-    "variants": [
-      "Aguste"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Aguste is used in Biblical naming tradition with the meaning “Majestic, venerable”.",
-    "spiritual_significance": "Any spiritual significance attached to Aguste is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Majestic, venerable” is the basis of any symbolism attached to Aguste; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": "no direct biblical reference"
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aguste."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AgusteMeaning",
-      "#ChristianBabyNames",
-      "#LatinNames",
-      "#ChristianNames",
-      "#Aguste"
-    ],
-    "monetization": {
-      "adsense": true,
-      "affiliates": [
-        "BabyCenter",
-        "Buy Buy Baby",
-        "Amazon"
-      ],
-      "google_ads": [
-        {
-          "slot": "1",
-          "size": "300x250"
-        },
-        {
-          "slot": "2",
-          "size": "336x280"
-        },
-        {
-          "slot": "3",
-          "size": "300x600"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Aguste Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aguste has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aguste, Aguste name meaning, Aguste meaning, Aguste origin, Aguste root, Aguste pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Aguste has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Aguste name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Aguste Name Meaning & Origin | NameVerse",
+      "meta_description": "Aguste: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Aguste",
-        "Aguste name meaning",
-        "Aguste meaning",
-        "Aguste origin",
-        "Aguste root",
-        "Aguste pronunciation",
-        "Biblical names"
+        "Aguste name meaning"
       ],
-      "focus_keyword": "Aguste name meaning",
-      "secondary_keywords": [
-        "Aguste meaning",
-        "Aguste origin",
-        "Aguste pronunciation",
-        "Aguste lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aguste mean?",
-          "a": "Name-lists record the meaning as “Majestic, venerable”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aguste verified?",
-          "a": "No. The meaning of Aguste could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aguste come from?",
-          "a": "The origin of Aguste has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Aguste Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aguste has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Aguste Name Meaning & Origin | NameVerse",
+    "meta_description": "Aguste: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Aguste",
-      "Aguste name meaning",
-      "Aguste meaning",
-      "Aguste origin",
-      "Aguste root",
-      "Aguste pronunciation",
-      "Biblical names"
+      "Aguste name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Aguste has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aguste",
-      "description": "Aguste — Majestic, venerable",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aguste mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Majestic, venerable”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aguste verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aguste could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aguste come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aguste has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:50.000Z",
-    "tier1_verified": {
-      "name": "Aguste",
-      "slug": "aguste",
-      "meaning": "Majestic, venerable",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aguste",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Majestic, venerable",
-      "long_meaning": "The name Aguste is recorded with the meaning “Majestic, venerable”. Aguste is a Biblical name meaning “Majestic, venerable”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aguste",
-          "meaning": "Majestic, venerable",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AWG-uhs-tay",
-        "ipa": "/ɔːˈɡʌst/"
-      },
-      "syllables": 2,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "What does the name Aguste mean?",
-          "a": "Name-lists record the meaning as “Majestic, venerable”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aguste verified?",
-          "a": "No. The meaning of Aguste could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aguste come from?",
-          "a": "The origin of Aguste has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 1,
-        "life_path_number": 1,
-        "ruling_planet": "Sun",
-        "lucky_day": "Sunday",
-        "lucky_stone": "Ruby",
-        "lucky_colors": [
-          "Gold",
-          "Orange"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aguste total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T02:59:18.000Z",
+    "updated_at": "2026-10-03T02:59:18.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -337,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:50.000Z"
+      "processed_at": "2026-10-03T02:59:18.000Z"
     }
   }
 }

@@ -3,318 +3,161 @@
   "data": {
     "name": "Alyce",
     "slug": "alyce",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Alyce is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alyce",
+    "normalized_name": "alyce",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Noble, kind, and radiant",
-    "long_meaning": "The meaning of Alyce is recorded in name-lists as “Noble, kind, and radiant”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alyce expresses “Noble, kind, and radiant”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-y-c-e",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Alyce"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Gold",
-      "Orange"
-    ],
-    "lucky_stone": "Ruby",
-    "ruling_planet": "Sun",
-    "life_path_number": 1,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alyce total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-    "in_hebrew": {
-      "name": "אליס",
-      "meaning": "אליס משמעתו אמונה באלוהים",
-      "long_meaning": "אליס הוא שם נוצרי שמקורו בשם העברי אלישבע, שמשמעותו 'אלוהים הוא שבועתי' או 'אלוהים הוא השופט שלי'. השם אליס הוא גרסה מקוצרת של אלישבע, והוא משמש לעתים קרובות כחלופה לשם אליסבת, שגם היא מקורה באלישבע. השם אליסבע מוזכר במקרא בספר שמות כבתו של עמרם ואשתו של אהרון."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αλίκη",
-      "meaning": "Αλίκη σημαίνει πιστεύω σε Θεό",
-      "long_meaning": "Το όνομα Αλίκη είναι η ελληνική μορφή του ονόματος Ελισάβετ, το οποίο προέρχεται από το εβραϊκό όνομα אלישבע. Το όνομα Ελισάβετ σημαίνει 'Θεός είναι ο όρκος μου' ή 'Θεός είναι ο δικαστής μου'. Στην Καινή Διαθήκη, το όνομα Ελισάβετ αναφέρεται ως η μητέρα του Ιωάννη του Βαπτιστή."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alyce",
-      "meaning": "Alyce means believing in God",
-      "long_meaning": "The name Alyce is derived from the Hebrew name אלישבע (Elisheva), which means 'God is my oath' or 'God is my judge'. The name Alyce is a variant of the name Alice, which is a shortened form of Elizabeth. In the early Christian church, the name Elizabeth was popularized by the mother of John the Baptist, who was mentioned in the New Testament."
-    },
-    "in_english": {
-      "name": "Alyce",
-      "meaning": "Noble, kind, and radiant",
-      "long_meaning": "Noble, kind, and radiant"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AL-is",
-      "biblical": "אלישבע (Ah-lee-SHEH-vah)",
-      "ipa": "/ˈælɪs/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alyce"
-    ],
-    "variants": [
-      "Alyce"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alyce is used in Biblical naming tradition with the meaning “Noble, kind, and radiant”.",
-    "spiritual_significance": "Any spiritual significance attached to Alyce is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Noble, kind, and radiant” is the basis of any symbolism attached to Alyce; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Exodus",
-      "verse_reference": "Exodus 6:23",
-      "note": "The name Elisheva is mentioned in the Bible as the daughter of Amram and the wife of Aaron."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alyce."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlyceMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Alyce"
-    ],
-    "monetization": {
-      "google_ad_sense_publisher_id": "ca-pub-1234567890123456",
-      "affiliate_programs": [
-        "AmazonAssociates",
-        "BabyCenter"
-      ],
-      "sponsored_content": true
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alyce Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alyce has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alyce, Alyce name meaning, Alyce meaning, Alyce origin, Alyce root, Alyce pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alyce has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alyce name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alyce Name Meaning & Origin | NameVerse",
+      "meta_description": "Alyce: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alyce",
-        "Alyce name meaning",
-        "Alyce meaning",
-        "Alyce origin",
-        "Alyce root",
-        "Alyce pronunciation",
-        "Biblical names"
+        "Alyce name meaning"
       ],
-      "focus_keyword": "Alyce name meaning",
-      "secondary_keywords": [
-        "Alyce meaning",
-        "Alyce origin",
-        "Alyce pronunciation",
-        "Alyce lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alyce mean?",
-          "a": "Name-lists record the meaning as “Noble, kind, and radiant”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alyce verified?",
-          "a": "No. The meaning of Alyce could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alyce come from?",
-          "a": "The origin of Alyce has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alyce Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alyce has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alyce Name Meaning & Origin | NameVerse",
+    "meta_description": "Alyce: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alyce",
-      "Alyce name meaning",
-      "Alyce meaning",
-      "Alyce origin",
-      "Alyce root",
-      "Alyce pronunciation",
-      "Biblical names"
+      "Alyce name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alyce has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alyce",
-      "description": "Alyce — Noble, kind, and radiant",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alyce mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Noble, kind, and radiant”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alyce verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alyce could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alyce come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alyce has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 56,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:06.000Z",
-    "tier1_verified": {
-      "name": "Alyce",
-      "slug": "alyce",
-      "meaning": "Noble, kind, and radiant",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alyce",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Noble, kind, and radiant",
-      "long_meaning": "The name Alyce is recorded with the meaning “Noble, kind, and radiant”. Alyce is a Biblical name meaning “Noble, kind, and radiant”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alyce",
-          "meaning": "Noble, kind, and radiant",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AL-is",
-        "ipa": "/ˈælɪs/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Alyce mean?",
-          "a": "Name-lists record the meaning as “Noble, kind, and radiant”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alyce verified?",
-          "a": "No. The meaning of Alyce could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alyce come from?",
-          "a": "The origin of Alyce has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 1,
-        "life_path_number": 1,
-        "ruling_planet": "Sun",
-        "lucky_day": "Sunday",
-        "lucky_stone": "Ruby",
-        "lucky_colors": [
-          "Gold",
-          "Orange"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alyce total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:08:36.000Z",
+    "updated_at": "2026-10-03T03:08:36.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -323,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:06.000Z"
+      "processed_at": "2026-10-03T03:08:36.000Z"
     }
   }
 }

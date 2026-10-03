@@ -3,323 +3,161 @@
   "data": {
     "name": "Allissa",
     "slug": "allissa",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Allissa is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Allissa",
+    "normalized_name": "allissa",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Virtue",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "God's Grace",
-    "long_meaning": "The meaning of Allissa is recorded in name-lists as “God's Grace”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Allissa expresses “God's Grace”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-l-i-s-s-a",
-    "syllables": 3,
-    "name_length": 7,
-    "transliteration": [
-      "Allissa"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Gold",
-      "Orange"
-    ],
-    "lucky_stone": "Ruby",
-    "ruling_planet": "Sun",
-    "life_path_number": 1,
-    "numerology_meaning": "In Pythagorean numerology the letters of Allissa total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-    "in_hebrew": {
-      "name": "עליסה",
-      "meaning": "מקור השם הוא עליזה, פירוש: נענע, גבינה",
-      "long_meaning": "מקור השם עליסה הוא עליזה, המופיעה בספר תהלים (פסוק 30, 31) כאחת מן הנשים הטובות. השם ניתן להקבלה גם עם המילה עליזה, שפירושה: נענע. בסנסקריט, נענע היא שם לפירות העליז. בערבית, השם נענע (عليصة) פירושו: גבינה. השם נמצא בשימוש ביהדות כשם נשים, ובנצרות כשם נשים וגברים. השם נחשב לפופולרי בקרב נשים, והיה מקובל במיוחד במאה ה-19."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αλλισσα",
-      "meaning": "πηγή ονόματος: Αλλισσα, σημασία: φρέσκος, νωπός",
-      "long_meaning": "πηγή ονόματος: Αλλισσα, το οποίο πήρε την ονομασία του από τον Αλλισσα, γυναικείο όνομα που αναφέρεται στην Βίβλο (1 Κορ. 16:15). Το όνομα Αλλισσα σημαίνει φρέσκος ή νωπός και σχετίζεται με τη λέξη άλειμμα, που σημαίνει πλήρωμα. Το όνομα ήταν δημοφιλές στην αρχαία Ελλάδα και στη Βυζαντινή Αυτοκρατορία. Στη νέα ελληνική γλώσσα, το όνομα Αλλισσα σημαίνει φρέσκος ή νωπός και χρησιμοποιείται ως όνομα για κορίτσια και κορίτσια."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Allissa",
-      "meaning": "origo nominis: Allissa, significatio: fresca, nova",
-      "long_meaning": "origo nominis: Allissa, quod nomen ab Allissa, femineo nomine, deductum est, quod in Nova Testamento (1 Cor. 16:15) mentionatur. Nomen Allissa significat fresca aut nova et cum vocabulo allimentum, quod significat supplementum, coniunctum est. Nomen in antiqua Graecia et in Imperio Byzantino fuit popularis. In lingua Latina recentiori, nomen Allissa significat fresca aut nova et utitur nomine puellis et puellis."
-    },
-    "in_english": {
-      "name": "Allissa",
-      "meaning": "God's Grace",
-      "long_meaning": "God's Grace"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "al-EE-sah",
-      "biblical": "not applicable",
-      "ipa": "/ælɪˈsɑː/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Allissa"
-    ],
-    "variants": [
-      "Allissa"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Allissa is used in Biblical naming tradition with the meaning “God's Grace”.",
-    "spiritual_significance": "Any spiritual significance attached to Allissa is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “God's Grace” is the basis of any symbolism attached to Allissa; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Allissa."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AllissaMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Allissa"
-    ],
-    "monetization": {
-      "display_ads": true,
-      "affiliate_links": [
-        {
-          "product": "https://example.com/baby-books",
-          "commission": 0.1
-        },
-        {
-          "product": "https://example.com/baby-clothes",
-          "commission": 0.15
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Allissa Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Allissa has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Allissa, Allissa name meaning, Allissa meaning, Allissa origin, Allissa root, Allissa pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Allissa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Allissa name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Allissa Name Meaning & Origin | NameVerse",
+      "meta_description": "Allissa: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Allissa",
-        "Allissa name meaning",
-        "Allissa meaning",
-        "Allissa origin",
-        "Allissa root",
-        "Allissa pronunciation",
-        "Biblical names"
+        "Allissa name meaning"
       ],
-      "focus_keyword": "Allissa name meaning",
-      "secondary_keywords": [
-        "Allissa meaning",
-        "Allissa origin",
-        "Allissa pronunciation",
-        "Allissa lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Allissa mean?",
-          "a": "Name-lists record the meaning as “God's Grace”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Allissa verified?",
-          "a": "No. The meaning of Allissa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Allissa come from?",
-          "a": "The origin of Allissa has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Allissa Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Allissa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Allissa Name Meaning & Origin | NameVerse",
+    "meta_description": "Allissa: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Allissa",
-      "Allissa name meaning",
-      "Allissa meaning",
-      "Allissa origin",
-      "Allissa root",
-      "Allissa pronunciation",
-      "Biblical names"
+      "Allissa name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Allissa has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Allissa",
-      "description": "Allissa — God's Grace",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Allissa mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “God's Grace”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Allissa verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Allissa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Allissa come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Allissa has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:02.000Z",
-    "tier1_verified": {
-      "name": "Allissa",
-      "slug": "allissa",
-      "meaning": "God's Grace",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Allissa",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "God's Grace",
-      "long_meaning": "The name Allissa is recorded with the meaning “God's Grace”. Allissa is a Biblical name meaning “God's Grace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Allissa",
-          "meaning": "God's Grace",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "al-EE-sah",
-        "ipa": "/ælɪˈsɑː/"
-      },
-      "syllables": 3,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Allissa mean?",
-          "a": "Name-lists record the meaning as “God's Grace”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Allissa verified?",
-          "a": "No. The meaning of Allissa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Allissa come from?",
-          "a": "The origin of Allissa has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 1,
-        "life_path_number": 1,
-        "ruling_planet": "Sun",
-        "lucky_day": "Sunday",
-        "lucky_stone": "Ruby",
-        "lucky_colors": [
-          "Gold",
-          "Orange"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Allissa total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:07:57.000Z",
+    "updated_at": "2026-10-03T03:07:57.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -328,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:02.000Z"
+      "processed_at": "2026-10-03T03:07:57.000Z"
     }
   }
 }

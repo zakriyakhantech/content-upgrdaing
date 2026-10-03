@@ -3,316 +3,161 @@
   "data": {
     "name": "Anastelle",
     "slug": "anastelle",
-    "language": [
-      "English",
-      "Greek"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Anastelle is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Anastelle",
+    "normalized_name": "anastelle",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Resurrection",
-    "long_meaning": "The meaning of Anastelle is recorded in name-lists as “Resurrection”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Anastelle expresses “Resurrection”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-n-a-s-t-e-l-l-e",
-    "syllables": 3,
-    "name_length": 9,
-    "transliteration": [
-      "Anastelle"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Anastelle total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_hebrew": {
-      "name": "Anastelle",
-      "meaning": "שם נוצרי שפירושו Resurrection",
-      "long_meaning": "Anastelle הוא שם נוצרי עם משמעות רוחנית עמוקה בתרבות הנצרות. The name Anastelle is derived from the Greek word anastasis, which means 'resurrection'. In Christian tradition, the name Anastelle honors the resurrection of Jesus Christ, as well as the hope of eternal life for believers."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Anastelle",
-      "meaning": "Χριστιανικό όνομα που σημαίνει Resurrection",
-      "long_meaning": "Anastelle είναι ένα χριστιανικό όνομα με βαθιά πνευματική σημασία στον χριστιανικό πολιτισμό. The name Anastelle is derived from the Greek word anastasis, which means 'resurrection'. In Christian tradition, the name Anastelle honors the resurrection of Jesus Christ, as well as the hope of eternal life for believers."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Anastellus",
-      "meaning": "Name derived from Greek, meaning 'Resurrection' or 'Rebirth'",
-      "long_meaning": "Anastellus is a Latinized form of the Greek name Ánastellēs (Ἀναστέλλης), which is derived from the verb anastellō (ἀναστέλλω), meaning 'to cause to stand up' or 'to raise up.' This verb is in turn derived from the prefix ana- (ἀνά), meaning 'up' or 'again,' and the verb stellō (στέλλω), meaning 'to stand' or 'to set.' In the context of Christian theology, anastellō is often used to describe the act of resurrection, particularly in reference to the resurrection of Jesus Christ. In the early Christian church, the name Anastellus was likely given to children born into families who saw the resurrection of Jesus as a central aspect of their faith. Today, the name Anastellus remains a powerful symbol of hope and redemption in the Christian tradition."
-    },
-    "in_english": {
-      "name": "Anastelle",
-      "meaning": "Resurrection",
-      "long_meaning": "Resurrection"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "/ˌænəˈstɛl/",
-      "ipa": "/ˌænəˈstɛl/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Anastelle"
-    ],
-    "variants": [
-      "Anastelle"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Anastelle is used in Biblical naming tradition with the meaning “Resurrection”.",
-    "spiritual_significance": "Any spiritual significance attached to Anastelle is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Resurrection” is the basis of any symbolism attached to Anastelle; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Anastelle."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AnastelleMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames"
-    ],
-    "monetization": {
-      "ads": {
-        "type": "display",
-        "location": "sidebar"
-      },
-      "affiliate_links": [
-        "https://example.com/baby-clothes-anastelle",
-        "https://example.com/personalized-jewelry-anastelle"
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Anastelle Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Anastelle has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Anastelle, Anastelle name meaning, Anastelle meaning, Anastelle origin, Anastelle root, Anastelle pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Anastelle has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Anastelle name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Anastelle Name Meaning & Origin | NameVerse",
+      "meta_description": "Anastelle: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Anastelle",
-        "Anastelle name meaning",
-        "Anastelle meaning",
-        "Anastelle origin",
-        "Anastelle root",
-        "Anastelle pronunciation",
-        "Biblical names"
+        "Anastelle name meaning"
       ],
-      "focus_keyword": "Anastelle name meaning",
-      "secondary_keywords": [
-        "Anastelle meaning",
-        "Anastelle origin",
-        "Anastelle pronunciation",
-        "Anastelle lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Anastelle mean?",
-          "a": "Name-lists record the meaning as “Resurrection”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Anastelle verified?",
-          "a": "No. The meaning of Anastelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Anastelle come from?",
-          "a": "The origin of Anastelle has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Anastelle Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Anastelle has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Anastelle Name Meaning & Origin | NameVerse",
+    "meta_description": "Anastelle: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Anastelle",
-      "Anastelle name meaning",
-      "Anastelle meaning",
-      "Anastelle origin",
-      "Anastelle root",
-      "Anastelle pronunciation",
-      "Biblical names"
+      "Anastelle name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Anastelle has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Anastelle",
-      "description": "Anastelle — Resurrection",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Anastelle mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Resurrection”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Anastelle verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Anastelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Anastelle come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Anastelle has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 50,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:14.000Z",
-    "tier1_verified": {
-      "name": "Anastelle",
-      "slug": "anastelle",
-      "meaning": "Resurrection",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Anastelle",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Resurrection",
-      "long_meaning": "The name Anastelle is recorded with the meaning “Resurrection”. Anastelle is a Biblical name meaning “Resurrection”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Anastelle",
-          "meaning": "Resurrection",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/ˌænəˈstɛl/",
-        "ipa": "/ˌænəˈstɛl/"
-      },
-      "syllables": 3,
-      "name_length": 9,
-      "faqs": [
-        {
-          "q": "What does the name Anastelle mean?",
-          "a": "Name-lists record the meaning as “Resurrection”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Anastelle verified?",
-          "a": "No. The meaning of Anastelle could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Anastelle come from?",
-          "a": "The origin of Anastelle has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Anastelle total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:12:32.000Z",
+    "updated_at": "2026-10-03T03:12:32.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -321,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:14.000Z"
+      "processed_at": "2026-10-03T03:12:32.000Z"
     }
   }
 }

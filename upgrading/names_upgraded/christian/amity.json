@@ -3,335 +3,161 @@
   "data": {
     "name": "Amity",
     "slug": "amity",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Amity is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Amity",
+    "normalized_name": "amity",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Virtue",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Friendliness, love, and harmony",
-    "long_meaning": "The meaning of Amity is recorded in name-lists as “Friendliness, love, and harmony”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Amity expresses “Friendliness, love, and harmony”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-m-i-t-y",
-    "syllables": 3,
-    "name_length": 5,
-    "transliteration": [
-      "Amity"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Wednesday",
-    "lucky_colors": [
-      "Green",
-      "Turquoise"
-    ],
-    "lucky_stone": "Emerald",
-    "ruling_planet": "Mercury",
-    "life_path_number": 5,
-    "numerology_meaning": "In Pythagorean numerology the letters of Amity total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-    "in_hebrew": {
-      "name": "אמיטי",
-      "meaning": "אמיטי היא שם שפירושו ידידות ואהבה בעברית",
-      "long_meaning": "אמיטי היא שם שמקורו במילה העברית 'אמיתי', שפירושו ידידות, אהבה וכנות. השם אמיטי משקף את הרעיון של יחסים הרמוניים ואהבה ללא תנאי. הוא קשור לנושאים של שלום, אחווה ויחסים טובים בין בני אדם. השם אמיטי הוא גם תכונה רצויה לנוצרים, המעודדת יחסים טובים עם אחרים ובניית קשרים משמעותיים."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αμιτυ",
-      "meaning": "Αμιτυ σημαίνει φιλία και αγάπη",
-      "long_meaning": "Το όνομα Αμιτυ προέρχεται από την ελληνική λέξη για φιλία και αγάπη. Στην πνευματική παράδοση, το όνομα Αμιτυ συμβολίζει την αρμονία και την ειρήνη μεταξύ των ανθρώπων. Είναι ένα όνομα που ενθαρρύνει τις καλές σχέσεις, την ενσυναίσθηση και την κατανόηση. Στην Καινή Διαθήκη, παρόμοιες έννοιες βρίσκονται στις διδασκαλίες του Ιησού για την αγάπη και την υπηρεσία προς τους άλλους."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Amity",
-      "meaning": "Amity means friendship and love",
-      "long_meaning": "The name Amity is derived from the Latin term 'amitas', which signifies friendship, love, and harmony. In Christian tradition, Amity reflects the ideals of peace, mutual respect, and goodwill. The concept of amity is emphasized in biblical teachings on love and neighborliness. Throughout history, the name Amity has been associated with positive interpersonal relationships and community values."
-    },
-    "in_english": {
-      "name": "Amity",
-      "meaning": "Friendliness, love, and harmony",
-      "long_meaning": "Friendliness, love, and harmony"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AM-i-tee",
-      "ipa": "/ˈæmɪti/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Amity"
-    ],
-    "variants": [
-      "Amity"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Amity is used in Biblical naming tradition with the meaning “Friendliness, love, and harmony”.",
-    "spiritual_significance": "Any spiritual significance attached to Amity is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Friendliness, love, and harmony” is the basis of any symbolism attached to Amity; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Amity."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AmityMeaning",
-      "#ChristianBabyNames",
-      "#BibleVirtues",
-      "#ChristianNames",
-      "#Amity"
-    ],
-    "monetization": {
-      "ad_places": [
-        {
-          "position": "header",
-          "size": "728x90"
-        },
-        {
-          "position": "sidebar",
-          "size": "300x250"
-        },
-        {
-          "position": "footer",
-          "size": "728x90"
-        }
-      ],
-      "affiliate_links": [
-        {
-          "product": "Baby Name Book",
-          "commission": 0.1
-        },
-        {
-          "product": "Baby Name T-Shirt",
-          "commission": 0.2
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Amity Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Amity has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Amity, Amity name meaning, Amity meaning, Amity origin, Amity root, Amity pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Amity has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Amity name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Amity Name Meaning & Origin | NameVerse",
+      "meta_description": "Amity: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Amity",
-        "Amity name meaning",
-        "Amity meaning",
-        "Amity origin",
-        "Amity root",
-        "Amity pronunciation",
-        "Biblical names"
+        "Amity name meaning"
       ],
-      "focus_keyword": "Amity name meaning",
-      "secondary_keywords": [
-        "Amity meaning",
-        "Amity origin",
-        "Amity pronunciation",
-        "Amity lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Amity mean?",
-          "a": "Name-lists record the meaning as “Friendliness, love, and harmony”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Amity verified?",
-          "a": "No. The meaning of Amity could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Amity come from?",
-          "a": "The origin of Amity has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Amity Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Amity has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Amity Name Meaning & Origin | NameVerse",
+    "meta_description": "Amity: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Amity",
-      "Amity name meaning",
-      "Amity meaning",
-      "Amity origin",
-      "Amity root",
-      "Amity pronunciation",
-      "Biblical names"
+      "Amity name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Amity has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Amity",
-      "description": "Amity — Friendliness, love, and harmony",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Amity mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Friendliness, love, and harmony”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Amity verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Amity could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Amity come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Amity has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 56,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:12.000Z",
-    "tier1_verified": {
-      "name": "Amity",
-      "slug": "amity",
-      "meaning": "Friendliness, love, and harmony",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Amity",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Friendliness, love, and harmony",
-      "long_meaning": "The name Amity is recorded with the meaning “Friendliness, love, and harmony”. Amity is a Biblical name meaning “Friendliness, love, and harmony”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Amity",
-          "meaning": "Friendliness, love, and harmony",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AM-i-tee",
-        "ipa": "/ˈæmɪti/"
-      },
-      "syllables": 3,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Amity mean?",
-          "a": "Name-lists record the meaning as “Friendliness, love, and harmony”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Amity verified?",
-          "a": "No. The meaning of Amity could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Amity come from?",
-          "a": "The origin of Amity has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 5,
-        "life_path_number": 5,
-        "ruling_planet": "Mercury",
-        "lucky_day": "Wednesday",
-        "lucky_stone": "Emerald",
-        "lucky_colors": [
-          "Green",
-          "Turquoise"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Amity total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:12:12.000Z",
+    "updated_at": "2026-10-03T03:12:12.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -340,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:12.000Z"
+      "processed_at": "2026-10-03T03:12:12.000Z"
     }
   }
 }

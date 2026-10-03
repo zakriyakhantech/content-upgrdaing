@@ -3,314 +3,161 @@
   "data": {
     "name": "Aime",
     "slug": "aime",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Female",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Aime",
+    "normalized_name": "aime",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Saint",
-    "short_meaning": "Love, Beloved",
-    "long_meaning": "The meaning of Aime is recorded in name-lists as “Love, Beloved”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aime expresses “Love, Beloved”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Gold",
-      "Orange"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 1,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aime total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-    "in_hebrew": {
-      "name": "איימ",
-      "meaning": "השם איימ נגזר מלשון האהבה והחיבה",
-      "long_meaning": "השם איימ הוא נגזר מהמילה העברית 'אהבה' ומשמעותו אהוב, חביב. השם קשור לנושא האהבה והחיבה הנמצא בלב ליבו של הנצרות. איימ הוא שם שמשדר חמימות וקרבה"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αίμη",
-      "meaning": "Το όνομα Αίμη σημαίνει αγαπητός, αμφιλεγόμενος",
-      "long_meaning": "Το όνομα Αίμη προέρχεται από την ελληνική λέξη 'αγαπητός' που σημαίνει αγαπητός, αμφιλεγόμενος. Στην Καινή Διαθήκη, η λέξη σχετίζεται με την αγάπη και την αποδοχή. Το όνομα Αίμη φέρει πνευματική σημασία αγάπης και φιλίας"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Aime",
-      "meaning": "Nomen Aime significat amatus, dilectus",
-      "long_meaning": "Nomen Aime derivatur ex verbo Latino 'amare', quod significat 'amare' seu 'diligere'. In Ecclesia primitiva Christiana, nomen Aime habebat connotationem spiritualem amoris et caritatis. Aime est nomen quod suggerit familiaritatem et devotionem"
-    },
-    "in_english": {
-      "name": "Aime",
-      "meaning": "Love, Beloved",
-      "long_meaning": "Love, Beloved"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AYM",
-      "biblical": "",
-      "ipa": "/aɪm/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AimeMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Aime"
-    ],
-    "name_variations": [
-      "Aime"
-    ],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "saint_reference": {
-      "is_saint_name": true,
-      "saint_name": "Aime of Rome",
-      "note": "Saint Aime of Rome was a 7th-century bishop"
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "cultural_impact": "Aime is used in Biblical naming tradition with the meaning “Love, Beloved”.",
-    "spiritual_significance": "Any spiritual significance attached to Aime is interpretive and is labelled as such.",
     "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
     "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aime."
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "spiritual_symbolism": "The meaning “Love, Beloved” is the basis of any symbolism attached to Aime; such symbolism is interpretive.",
-    "seo": {
-      "title": "Aime Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aime has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aime, Aime name meaning, Aime meaning, Aime origin, Aime root, Aime pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Aime has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aime",
-        "Aime name meaning",
-        "Aime meaning",
-        "Aime origin",
-        "Aime root",
-        "Aime pronunciation",
-        "Biblical names"
-      ],
-      "focus_keyword": "Aime name meaning",
-      "secondary_keywords": [
-        "Aime meaning",
-        "Aime origin",
-        "Aime pronunciation",
-        "Aime lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aime mean?",
-          "a": "Name-lists record the meaning as “Love, Beloved”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aime verified?",
-          "a": "No. The meaning of Aime could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aime come from?",
-          "a": "The origin of Aime has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "monetization": {
-      "google_ad_sense": "ca-pub-1234567890123456"
-    },
-    "updated_at": "2026-10-01T04:04:52.000Z",
-    "similar_sounding_names": [],
-    "gender_notes": "Aime is used as a female name in christian naming traditions.",
-    "root": "",
-    "etymology": "",
-    "language_root": "Biblical",
-    "root_letters": "a-i-m-e",
-    "syllables": 1,
-    "name_length": 4,
-    "transliteration": [
-      "Aime"
-    ],
-    "culture": [
-      "Biblical"
-    ],
-    "ruling_planet": "Sun",
-    "variants": [
-      "Aime"
-    ],
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
-    "notable_people": [],
-    "seo_title": "Aime Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aime has not been verified against a reliable source. This record is flagged for manual verification.",
+    "similar_sounding_names": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "popularity_note": "No official birth-registry statistics were verified.",
+    "biblical_reference": {
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "seo": {
+      "primary_search_intent": "Aime name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Aime Name Meaning & Origin | NameVerse",
+      "meta_description": "Aime: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
+      "keywords": [
+        "Aime name meaning"
+      ],
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
+      ],
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
+    },
+    "seo_title": "Aime Name Meaning & Origin | NameVerse",
+    "meta_description": "Aime: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Aime",
-      "Aime name meaning",
-      "Aime meaning",
-      "Aime origin",
-      "Aime root",
-      "Aime pronunciation",
-      "Biblical names"
+      "Aime name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Aime has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aime",
-      "description": "Aime — Love, Beloved",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aime mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Love, Beloved”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aime verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aime could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aime come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aime has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 40
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "tier1_verified": {
-      "name": "Aime",
-      "slug": "aime",
-      "meaning": "Love, Beloved",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Female",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aime",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Love, Beloved",
-      "long_meaning": "The name Aime is recorded with the meaning “Love, Beloved”. Aime is a Biblical name meaning “Love, Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aime",
-          "meaning": "Love, Beloved",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AYM",
-        "ipa": "/aɪm/"
-      },
-      "syllables": 1,
-      "name_length": 4,
-      "faqs": [
-        {
-          "q": "What does the name Aime mean?",
-          "a": "Name-lists record the meaning as “Love, Beloved”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aime verified?",
-          "a": "No. The meaning of Aime could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aime come from?",
-          "a": "The origin of Aime has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 1,
-        "life_path_number": 1,
-        "ruling_planet": "Sun",
-        "lucky_day": "Sunday",
-        "lucky_stone": "Ruby",
-        "lucky_colors": [
-          "Gold",
-          "Orange"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aime total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:00:58.000Z",
+    "updated_at": "2026-10-03T03:00:58.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -319,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:52.000Z"
+      "processed_at": "2026-10-03T03:00:58.000Z"
     }
   }
 }

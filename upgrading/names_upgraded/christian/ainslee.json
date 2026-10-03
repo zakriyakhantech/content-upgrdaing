@@ -3,316 +3,161 @@
   "data": {
     "name": "Ainslee",
     "slug": "ainslee",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Ainslee is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Ainslee",
+    "normalized_name": "ainslee",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Little one, Maiden",
-    "long_meaning": "The meaning of Ainslee is recorded in name-lists as “Little one, Maiden”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Ainslee expresses “Little one, Maiden”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-i-n-s-l-e-e",
-    "syllables": 1,
-    "name_length": 7,
-    "transliteration": [
-      "Ainslee"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Silver"
-    ],
-    "lucky_stone": "Pearl",
-    "ruling_planet": "Moon",
-    "life_path_number": 2,
-    "numerology_meaning": "In Pythagorean numerology the letters of Ainslee total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-    "in_hebrew": {
-      "name": "Ainslee",
-      "meaning": "שם נוצרי שפירושו Little one, Maiden",
-      "long_meaning": "Ainslee הוא שם נוצרי עם משמעות רוחנית עמוקה בתרבות הנצרות. Derived from the Old English 'Aethel-seg' meaning 'Noble-Victory' or 'Aethel-sige' meaning 'Noble-Victorious'. The name Ainslee has roots in Old English and has been used for both males and females throughout history. This name carries the essence of strength and nobility, symbolizing victory and triumph."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Ainslee",
-      "meaning": "Χριστιανικό όνομα που σημαίνει Little one, Maiden",
-      "long_meaning": "Ainslee είναι ένα χριστιανικό όνομα με βαθιά πνευματική σημασία στον χριστιανικό πολιτισμό. Derived from the Old English 'Aethel-seg' meaning 'Noble-Victory' or 'Aethel-sige' meaning 'Noble-Victorious'. The name Ainslee has roots in Old English and has been used for both males and females throughout history. This name carries the essence of strength and nobility, symbolizing victory and triumph."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Ainsleeus",
-      "meaning": "Angelic, heavenly, celestial, divine, heavenly, blessed, holy, sacred, revered, venerated",
-      "long_meaning": "Ainsleeus, derived from Old English and Latin roots, signifies heavenly, blessed, or holy. In early Christian tradition, this name conveys reverence and sacredness, reflecting the divine nature of Christian faith. Its etymology stems from Old English 'æsc' (ash tree) and 'lēah' (meadow), suggesting a connection to the natural world and the divine. In Christian contexts, Ainsleeus represents a strong spiritual bond between the individual and the heavenly realm."
-    },
-    "in_english": {
-      "name": "Ainslee",
-      "meaning": "Little one, Maiden",
-      "long_meaning": "Little one, Maiden"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "/ˈeɪnzli/",
-      "biblical": "No direct biblical reference",
-      "ipa": "/ˈeɪnzli/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Ainslee"
-    ],
-    "variants": [
-      "Ainslee"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Ainslee is used in Biblical naming tradition with the meaning “Little one, Maiden”.",
-    "spiritual_significance": "Any spiritual significance attached to Ainslee is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Little one, Maiden” is the basis of any symbolism attached to Ainslee; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "No biblical reference",
-      "verse_reference": "No verse reference",
-      "note": "No direct biblical reference"
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Ainslee."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AinsleeMeaning",
-      "#ChristianBabyNames",
-      "#ChristianNames",
-      "#Ainslee"
-    ],
-    "monetization": {
-      "display_ads": true,
-      "affiliate_links": [
-        "https://www.babynamesworld.com/affiliate-link"
-      ],
-      "sponsored_content": false
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Ainslee Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Ainslee has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Ainslee, Ainslee name meaning, Ainslee meaning, Ainslee origin, Ainslee root, Ainslee pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Ainslee has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Ainslee name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Ainslee Name Meaning & Origin | NameVerse",
+      "meta_description": "Ainslee: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Ainslee",
-        "Ainslee name meaning",
-        "Ainslee meaning",
-        "Ainslee origin",
-        "Ainslee root",
-        "Ainslee pronunciation",
-        "Biblical names"
+        "Ainslee name meaning"
       ],
-      "focus_keyword": "Ainslee name meaning",
-      "secondary_keywords": [
-        "Ainslee meaning",
-        "Ainslee origin",
-        "Ainslee pronunciation",
-        "Ainslee lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Ainslee mean?",
-          "a": "Name-lists record the meaning as “Little one, Maiden”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Ainslee verified?",
-          "a": "No. The meaning of Ainslee could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Ainslee come from?",
-          "a": "The origin of Ainslee has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Ainslee Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Ainslee has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Ainslee Name Meaning & Origin | NameVerse",
+    "meta_description": "Ainslee: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Ainslee",
-      "Ainslee name meaning",
-      "Ainslee meaning",
-      "Ainslee origin",
-      "Ainslee root",
-      "Ainslee pronunciation",
-      "Biblical names"
+      "Ainslee name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Ainslee has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Ainslee",
-      "description": "Ainslee — Little one, Maiden",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Ainslee mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Little one, Maiden”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Ainslee verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Ainslee could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Ainslee come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Ainslee has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:52.000Z",
-    "tier1_verified": {
-      "name": "Ainslee",
-      "slug": "ainslee",
-      "meaning": "Little one, Maiden",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Ainslee",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Little one, Maiden",
-      "long_meaning": "The name Ainslee is recorded with the meaning “Little one, Maiden”. Ainslee is a Biblical name meaning “Little one, Maiden”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Ainslee",
-          "meaning": "Little one, Maiden",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/ˈeɪnzli/",
-        "ipa": "/ˈeɪnzli/"
-      },
-      "syllables": 1,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Ainslee mean?",
-          "a": "Name-lists record the meaning as “Little one, Maiden”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Ainslee verified?",
-          "a": "No. The meaning of Ainslee could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Ainslee come from?",
-          "a": "The origin of Ainslee has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 2,
-        "life_path_number": 2,
-        "ruling_planet": "Moon",
-        "lucky_day": "Monday",
-        "lucky_stone": "Pearl",
-        "lucky_colors": [
-          "White",
-          "Silver"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Ainslee total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:01:00.000Z",
+    "updated_at": "2026-10-03T03:01:00.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -321,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:52.000Z"
+      "processed_at": "2026-10-03T03:01:00.000Z"
     }
   }
 }

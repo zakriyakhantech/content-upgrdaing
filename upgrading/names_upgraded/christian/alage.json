@@ -3,324 +3,161 @@
   "data": {
     "name": "Alage",
     "slug": "alage",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Alage is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alage",
+    "normalized_name": "alage",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "God's Provision",
-    "long_meaning": "The meaning of Alage is recorded in name-lists as “God's Provision”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alage expresses “God's Provision”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-a-g-e",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Alage"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alage total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_hebrew": {
-      "name": "אלגה",
-      "meaning": "אלגה - שמה של נערה נוצרייה, משמעותו עבודה אלוהית",
-      "long_meaning": "אלגה הוא שם נוצרי שמקורו אינו ברור. ייתכן כי הוא נגזר מהמילה 'אלג', שפירושה 'עבודה אלוהית' או 'פולחן אלוהי'. השם אלגה עשוי להיות קשור לשמות אחרים שמקורם ביוונית או בלטינית, אך משמעותו המדויקת אינה ברורה. הוא משמש כשם נערה נוצרייה, וייתכן כי הוא קשור לערכים של אמונה ודבקות באלוהים."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αλάγη",
-      "meaning": "Αλάγη - όνομα Χριστιανικής κοπέλας, που σημαίνει υπηρεσία του Θεού",
-      "long_meaning": "Το όνομα Αλάγη είναι Χριστιανικό και πιθανόν να προέρχεται από τη λατινική ή την ελληνική γλώσσα. Η ακριβής ετυμολογία του δεν είναι ξεκάθαρη, αλλά πιθανόν να συνδέεται με λέξεις που σημαίνουν 'υπηρεσία του Θεού' ή 'λατρεία του Θεού'. Στην παράδοση της Εκκλησίας, τα ονόματα των Χριστιανών συχνά αντανακλούν τις αρετές και τις αξίες της πίστης."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alage",
-      "meaning": "Alage - Christian girl name, meaning divine service or worship",
-      "long_meaning": "The name Alage appears to be of Christian origin, possibly derived from Latin or Greek roots. While its precise etymology is unclear, it may be associated with terms signifying 'divine service' or 'worship of God'. In early Christian tradition, names often reflected spiritual values and devotion to God."
-    },
-    "in_english": {
-      "name": "Alage",
-      "meaning": "God's Provision",
-      "long_meaning": "God's Provision"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AL-uh-gay",
-      "ipa": "/ˈæl ə ɡeɪ/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alage"
-    ],
-    "variants": [
-      "Alage"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alage is used in Biblical naming tradition with the meaning “God's Provision”.",
-    "spiritual_significance": "Any spiritual significance attached to Alage is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “God's Provision” is the basis of any symbolism attached to Alage; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alage."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlageMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Alage"
-    ],
-    "monetization": {
-      "google_adsense": {
-        "publisher_id": "ca-pub-12345678901234:1234567890",
-        "ad_units": [
-          {
-            "size": "300x250",
-            "position": "after_content"
-          },
-          {
-            "size": "728x90",
-            "position": "before_content"
-          }
-        ]
-      }
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alage Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alage has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alage, Alage name meaning, Alage meaning, Alage origin, Alage root, Alage pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alage has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alage name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alage Name Meaning & Origin | NameVerse",
+      "meta_description": "Alage: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alage",
-        "Alage name meaning",
-        "Alage meaning",
-        "Alage origin",
-        "Alage root",
-        "Alage pronunciation",
-        "Biblical names"
+        "Alage name meaning"
       ],
-      "focus_keyword": "Alage name meaning",
-      "secondary_keywords": [
-        "Alage meaning",
-        "Alage origin",
-        "Alage pronunciation",
-        "Alage lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alage mean?",
-          "a": "Name-lists record the meaning as “God's Provision”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alage verified?",
-          "a": "No. The meaning of Alage could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alage come from?",
-          "a": "The origin of Alage has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alage Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alage has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alage Name Meaning & Origin | NameVerse",
+    "meta_description": "Alage: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alage",
-      "Alage name meaning",
-      "Alage meaning",
-      "Alage origin",
-      "Alage root",
-      "Alage pronunciation",
-      "Biblical names"
+      "Alage name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alage has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alage",
-      "description": "Alage — God's Provision",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alage mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “God's Provision”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alage verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alage could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alage come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alage has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:53.000Z",
-    "tier1_verified": {
-      "name": "Alage",
-      "slug": "alage",
-      "meaning": "God's Provision",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alage",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "God's Provision",
-      "long_meaning": "The name Alage is recorded with the meaning “God's Provision”. Alage is a Biblical name meaning “God's Provision”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alage",
-          "meaning": "God's Provision",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AL-uh-gay",
-        "ipa": "/ˈæl ə ɡeɪ/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Alage mean?",
-          "a": "Name-lists record the meaning as “God's Provision”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alage verified?",
-          "a": "No. The meaning of Alage could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alage come from?",
-          "a": "The origin of Alage has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alage total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:01:12.000Z",
+    "updated_at": "2026-10-03T03:01:12.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -329,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:53.000Z"
+      "processed_at": "2026-10-03T03:01:12.000Z"
     }
   }
 }

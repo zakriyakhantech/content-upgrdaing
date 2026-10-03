@@ -3,326 +3,161 @@
   "data": {
     "name": "Akel",
     "slug": "akel",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Male",
-    "gender_notes": "Akel is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Akel",
+    "normalized_name": "akel",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Strong, Unyielding",
-    "long_meaning": "The meaning of Akel is recorded in name-lists as “Strong, Unyielding”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Akel expresses “Strong, Unyielding”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-k-e-l",
-    "syllables": 2,
-    "name_length": 4,
-    "transliteration": [
-      "Akel"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Silver"
-    ],
-    "lucky_stone": "Pearl",
-    "ruling_planet": "Moon",
-    "life_path_number": 2,
-    "numerology_meaning": "In Pythagorean numerology the letters of Akel total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-    "in_hebrew": {
-      "name": "עָקֵל",
-      "meaning": "thorn",
-      "long_meaning": "The name Akel is derived from the Hebrew word עָקֵל (עקל), which means 'thorn'. It can also be interpreted as 'one who is pierced' or 'one who is pricked'. In the Bible, the name Akel is associated with the name of a place, Akeldama (אֲכֶלְדָמָה), which means 'field of blood', and the name of a man, Achar (אַחָר), who is described as a man 'of Belial'."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Ακελ",
-      "meaning": "unknown",
-      "long_meaning": "There is no direct Greek equivalent to the Hebrew name Akel. However, the name may have been transliterated as Ακελ in some Greek manuscripts."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Acel",
-      "meaning": "thorn",
-      "long_meaning": "The Latin name Acel is derived from the Hebrew name Akel, which means 'thorn'. It is a rare name in the Latin world and is not associated with any notable figures in history."
-    },
-    "in_english": {
-      "name": "Akel",
-      "meaning": "Strong, Unyielding",
-      "long_meaning": "Strong, Unyielding"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "/əˈkɛl/",
-      "biblical": "/əˈkɛl/",
-      "ipa": "əˈkɛl"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Akel"
-    ],
-    "variants": [
-      "Akel"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Akel is used in Biblical naming tradition with the meaning “Strong, Unyielding”.",
-    "spiritual_significance": "Any spiritual significance attached to Akel is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Strong, Unyielding” is the basis of any symbolism attached to Akel; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Old Testament",
-      "verse_reference": "Joshua 21:11, 1 Kings 1:7, 2 Chronicles 11:19",
-      "note": "In the Bible, the name Akel is associated with a place, Akeldama (אֲכֶלְדָמָה), which means 'field of blood', and a man, Achar (אַחָר), who is described as a man 'of Belial'."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Akel."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AkelMeaning",
-      "#ChristianBabyNames"
-    ],
-    "monetization": {
-      "ad_places": [
-        {
-          "position": "top",
-          "type": "image"
-        },
-        {
-          "position": "bottom",
-          "type": "text"
-        }
-      ],
-      "affiliate_links": [
-        {
-          "title": "Shop Biblical Baby Clothes",
-          "url": "https://example.com/biblical-baby-clothes",
-          "description": "Shop a selection of biblical baby clothes inspired by the name Akel. Find beautiful outfits for your little one and make their name come alive."
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Akel Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Akel has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Akel, Akel name meaning, Akel meaning, Akel origin, Akel root, Akel pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Akel has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Akel name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Akel Name Meaning & Origin | NameVerse",
+      "meta_description": "Akel: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Akel",
-        "Akel name meaning",
-        "Akel meaning",
-        "Akel origin",
-        "Akel root",
-        "Akel pronunciation",
-        "Biblical names"
+        "Akel name meaning"
       ],
-      "focus_keyword": "Akel name meaning",
-      "secondary_keywords": [
-        "Akel meaning",
-        "Akel origin",
-        "Akel pronunciation",
-        "Akel lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Akel mean?",
-          "a": "Name-lists record the meaning as “Strong, Unyielding”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Akel verified?",
-          "a": "No. The meaning of Akel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Akel come from?",
-          "a": "The origin of Akel has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Akel Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Akel has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Akel Name Meaning & Origin | NameVerse",
+    "meta_description": "Akel: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Akel",
-      "Akel name meaning",
-      "Akel meaning",
-      "Akel origin",
-      "Akel root",
-      "Akel pronunciation",
-      "Biblical names"
+      "Akel name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Akel has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Akel",
-      "description": "Akel — Strong, Unyielding",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Akel mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Strong, Unyielding”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Akel verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Akel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Akel come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Akel has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:53.000Z",
-    "tier1_verified": {
-      "name": "Akel",
-      "slug": "akel",
-      "meaning": "Strong, Unyielding",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Akel",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Strong, Unyielding",
-      "long_meaning": "The name Akel is recorded with the meaning “Strong, Unyielding”. Akel is a Biblical name meaning “Strong, Unyielding”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Akel",
-          "meaning": "Strong, Unyielding",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/əˈkɛl/",
-        "ipa": "əˈkɛl"
-      },
-      "syllables": 2,
-      "name_length": 4,
-      "faqs": [
-        {
-          "q": "What does the name Akel mean?",
-          "a": "Name-lists record the meaning as “Strong, Unyielding”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Akel verified?",
-          "a": "No. The meaning of Akel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Akel come from?",
-          "a": "The origin of Akel has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 2,
-        "life_path_number": 2,
-        "ruling_planet": "Moon",
-        "lucky_day": "Monday",
-        "lucky_stone": "Pearl",
-        "lucky_colors": [
-          "White",
-          "Silver"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Akel total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:01:06.000Z",
+    "updated_at": "2026-10-03T03:01:06.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -331,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:53.000Z"
+      "processed_at": "2026-10-03T03:01:06.000Z"
     }
   }
 }

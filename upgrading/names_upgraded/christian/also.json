@@ -3,311 +3,161 @@
   "data": {
     "name": "Also",
     "slug": "also",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Also is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Also",
+    "normalized_name": "also",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Additionally, also",
-    "long_meaning": "The meaning of Also is recorded in name-lists as “Additionally, also”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Also expresses “Additionally, also”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-s-o",
-    "syllables": 2,
-    "name_length": 4,
-    "transliteration": [
-      "Also"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Silver"
-    ],
-    "lucky_stone": "Pearl",
-    "ruling_planet": "Moon",
-    "life_path_number": 2,
-    "numerology_meaning": "In Pythagorean numerology the letters of Also total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-    "in_hebrew": {
-      "name": "על-כן",
-      "meaning": "and so, furthermore, also",
-      "long_meaning": "The Hebrew name 'Also' is derived from the Hebrew words 'al' (and) and 'ken' (therefore, furthermore, also). It is used to signify continuation or addition to a previous statement or action."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "αλλά",
-      "meaning": "but, however, on the contrary, also",
-      "long_meaning": "The Greek name 'Also' is derived from the Greek word 'allá' (but, however, on the contrary, also). It is used to introduce a contrast or alternative to the previous statement or action."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "et",
-      "meaning": "and, also",
-      "long_meaning": "The Latin name 'Also' is derived from the Latin word 'et' (and, also). It is used to connect two or more ideas or elements in a sentence."
-    },
-    "in_english": {
-      "name": "Also",
-      "meaning": "Additionally, also",
-      "long_meaning": "Additionally, also"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "/ˈælso/",
-      "biblical": "/ˈælso/",
-      "ipa": "/ˈæl.so/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Also"
-    ],
-    "variants": [
-      "Also"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Also is used in Biblical naming tradition with the meaning “Additionally, also”.",
-    "spiritual_significance": "Any spiritual significance attached to Also is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Additionally, also” is the basis of any symbolism attached to Also; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Genesis 15:12",
-      "verse_reference": "And he believed in the LORD; and he counted it to him for righteousness.",
-      "note": "The name 'Also' is not explicitly mentioned in the Bible, but it is derived from the Hebrew word 'ken' which is used in Genesis 15:12 to signify continuation or addition."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Also."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlsoNameMeaning",
-      "#ChristianBabyNames"
-    ],
-    "monetization": {
-      "adsense": true,
-      "affiliate_links": true
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Also Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Also has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Also, Also name meaning, Also meaning, Also origin, Also root, Also pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Also has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Also name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Also Name Meaning & Origin | NameVerse",
+      "meta_description": "Also: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Also",
-        "Also name meaning",
-        "Also meaning",
-        "Also origin",
-        "Also root",
-        "Also pronunciation",
-        "Biblical names"
+        "Also name meaning"
       ],
-      "focus_keyword": "Also name meaning",
-      "secondary_keywords": [
-        "Also meaning",
-        "Also origin",
-        "Also pronunciation",
-        "Also lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Also mean?",
-          "a": "Name-lists record the meaning as “Additionally, also”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Also verified?",
-          "a": "No. The meaning of Also could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Also come from?",
-          "a": "The origin of Also has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Also Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Also has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Also Name Meaning & Origin | NameVerse",
+    "meta_description": "Also: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Also",
-      "Also name meaning",
-      "Also meaning",
-      "Also origin",
-      "Also root",
-      "Also pronunciation",
-      "Biblical names"
+      "Also name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Also has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Also",
-      "description": "Also — Additionally, also",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Also mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Additionally, also”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Also verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Also could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Also come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Also has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:05.000Z",
-    "tier1_verified": {
-      "name": "Also",
-      "slug": "also",
-      "meaning": "Additionally, also",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Also",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Additionally, also",
-      "long_meaning": "The name Also is recorded with the meaning “Additionally, also”. Also is a Biblical name meaning “Additionally, also”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Also",
-          "meaning": "Additionally, also",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/ˈælso/",
-        "ipa": "/ˈæl.so/"
-      },
-      "syllables": 2,
-      "name_length": 4,
-      "faqs": [
-        {
-          "q": "What does the name Also mean?",
-          "a": "Name-lists record the meaning as “Additionally, also”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Also verified?",
-          "a": "No. The meaning of Also could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Also come from?",
-          "a": "The origin of Also has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 2,
-        "life_path_number": 2,
-        "ruling_planet": "Moon",
-        "lucky_day": "Monday",
-        "lucky_stone": "Pearl",
-        "lucky_colors": [
-          "White",
-          "Silver"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Also total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:08:22.000Z",
+    "updated_at": "2026-10-03T03:08:22.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -316,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:05.000Z"
+      "processed_at": "2026-10-03T03:08:22.000Z"
     }
   }
 }

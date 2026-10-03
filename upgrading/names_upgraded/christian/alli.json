@@ -3,317 +3,161 @@
   "data": {
     "name": "Alli",
     "slug": "alli",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Alli is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alli",
+    "normalized_name": "alli",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "God is mine",
-    "long_meaning": "The meaning of Alli is recorded in name-lists as “God is mine”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alli expresses “God is mine”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-l-i",
-    "syllables": 2,
-    "name_length": 4,
-    "transliteration": [
-      "Alli"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Grey",
-      "Smoke"
-    ],
-    "lucky_stone": "Cat's Eye",
-    "ruling_planet": "Ketu",
-    "life_path_number": 7,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alli total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-    "in_hebrew": {
-      "name": "אלי",
-      "meaning": "אלִי הוא האל שלי",
-      "long_meaning": "אלִי הוא שם פרטי שמקורו בשפה העברית ומשמעותו 'אלוהים שלי' או 'האל שלי'. השם אלִי מורכב משתי מילים: 'אל' שמשמעותו אלוהים ו'י' שמשמעותו שלי או שייך לי. השם אלִי מופיע מספר פעמים בתנ'ך, במיוחד בספר שמואל, שם אלִי הוא שם של כהן גדול וגם שם של נביא."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Άλλι",
-      "meaning": "Όνομα που σημαίνει Θεός μου",
-      "long_meaning": "Το όνομα Άλλι είναι μια ελληνική μορφή του ονόματος Αלי, που σημαίνει 'Θεός μου' ή 'Ο Θεός είναι μαζί μου'. Το όνομα αυτό πιθανότατα προέρχεται από την εβραϊκή λέξη 'אלִי', που σημαίνει 'ο Θεός μου'. Στην Καινή Διαθήκη, παρόμοια ονόματα όπως το Αλεξίου και το Αλιού εμφανίζονται, υποδεικνύοντας τη σχέση με το Θεό."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alli",
-      "meaning": "Name meaning God is my salvation",
-      "long_meaning": "The name Alli is derived from Hebrew origins, signifying 'God is my salvation' or 'God is with me'. This name has been adapted into various forms across different cultures, maintaining its spiritual significance. In early Christian traditions, names with similar meanings were often bestowed upon children to reflect their devotion to God."
-    },
-    "in_english": {
-      "name": "Alli",
-      "meaning": "God is mine",
-      "long_meaning": "God is mine"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AL-ee",
-      "biblical": "Ah-LEE",
-      "ipa": "/ˈæli/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alli"
-    ],
-    "variants": [
-      "Alli"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alli is used in Biblical naming tradition with the meaning “God is mine”.",
-    "spiritual_significance": "Any spiritual significance attached to Alli is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “God is mine” is the basis of any symbolism attached to Alli; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "1 Samuel",
-      "verse_reference": "1 Samuel 1:3",
-      "note": "Eli was a high priest in Israel and a prophet."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alli."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlliMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Alli"
-    ],
-    "monetization": {
-      "google_ads": true,
-      "affiliate_links": [
-        "https://example.com/baby-names/alli",
-        "https://example.com/christian-names/alli"
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alli Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alli has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alli, Alli name meaning, Alli meaning, Alli origin, Alli root, Alli pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alli has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alli name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alli Name Meaning & Origin | NameVerse",
+      "meta_description": "Alli: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alli",
-        "Alli name meaning",
-        "Alli meaning",
-        "Alli origin",
-        "Alli root",
-        "Alli pronunciation",
-        "Biblical names"
+        "Alli name meaning"
       ],
-      "focus_keyword": "Alli name meaning",
-      "secondary_keywords": [
-        "Alli meaning",
-        "Alli origin",
-        "Alli pronunciation",
-        "Alli lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alli mean?",
-          "a": "Name-lists record the meaning as “God is mine”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alli verified?",
-          "a": "No. The meaning of Alli could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alli come from?",
-          "a": "The origin of Alli has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alli Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alli has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alli Name Meaning & Origin | NameVerse",
+    "meta_description": "Alli: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alli",
-      "Alli name meaning",
-      "Alli meaning",
-      "Alli origin",
-      "Alli root",
-      "Alli pronunciation",
-      "Biblical names"
+      "Alli name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alli has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alli",
-      "description": "Alli — God is mine",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alli mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “God is mine”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alli verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alli could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alli come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alli has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:02.000Z",
-    "tier1_verified": {
-      "name": "Alli",
-      "slug": "alli",
-      "meaning": "God is mine",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alli",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "God is mine",
-      "long_meaning": "The name Alli is recorded with the meaning “God is mine”. Alli is a Biblical name meaning “God is mine”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alli",
-          "meaning": "God is mine",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AL-ee",
-        "ipa": "/ˈæli/"
-      },
-      "syllables": 2,
-      "name_length": 4,
-      "faqs": [
-        {
-          "q": "What does the name Alli mean?",
-          "a": "Name-lists record the meaning as “God is mine”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alli verified?",
-          "a": "No. The meaning of Alli could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alli come from?",
-          "a": "The origin of Alli has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 7,
-        "life_path_number": 7,
-        "ruling_planet": "Ketu",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Cat's Eye",
-        "lucky_colors": [
-          "Grey",
-          "Smoke"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alli total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:05:32.000Z",
+    "updated_at": "2026-10-03T03:05:32.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -322,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:02.000Z"
+      "processed_at": "2026-10-03T03:05:32.000Z"
     }
   }
 }

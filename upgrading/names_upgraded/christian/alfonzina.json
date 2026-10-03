@@ -3,329 +3,161 @@
   "data": {
     "name": "Alfonzina",
     "slug": "alfonzina",
-    "language": [
-      "English",
-      "Hebrew",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Alfonzina is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alfonzina",
+    "normalized_name": "alfonzina",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Virtue",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Noble, one who is not afraid",
-    "long_meaning": "The meaning of Alfonzina is recorded in name-lists as “Noble, one who is not afraid”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alfonzina expresses “Noble, one who is not afraid”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-f-o-n-z-i-n-a",
-    "syllables": 4,
-    "name_length": 9,
-    "transliteration": [
-      "Alfonzina"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alfonzina total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_hebrew": {
-      "name": "‎‫אלפונזינה",
-      "meaning": "‎‫מלכה של פיוז",
-      "long_meaning": "‎‫מלכה של פיוז, זהו שם נשי המגיע מלטינית, ומשמעותו היא 'דוכסית', 'מלכה של פיוז' (Latin: filia, 'בת' - filia, 'בת' - filia, 'בת' - filia, 'בת' - filia, 'בת' - filia, 'בת' - filia, 'בת' - filia, 'בת' - filia). במסורת הנוצרית, שם זה נחשב לסמל לגבורה ולמעמד. רבים רואים בשם זה כברכה וכאות של תקומה נפשית ונשמת. במקור, השם 'אלפונזינה' נגזר משם 'אלפונז' (Alphonzo), שנגזר משם 'אלפונס' (Alphonse), שמשמעותו 'חזק, 'חזק, ' 'חזק'. ישנן מספר נשים הנושאות את שם זה והן נחשבות לאסטרואידים בקהילה הנוצרית."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αλφονζίνα",
-      "meaning": "Βασίλισσα της φιλίας",
-      "long_meaning": "Βασίλισσα της φιλίας, ονομάτι είναι γυναικείο που προέρχεται από το Λατινικό και σημαίνει 'Δούκισσα', 'Βασίλισσα της φιλίας' (Latin: filia, 'θυγάτηρ' - filia, 'θυγάτηρ' - filia, 'θυγάτηρ' - filia). Στην εκκλησία της Κρήτης, το όνομα αυτό θεωρείται ως σύμβολο της δύναμης και της τάξης. Ρωμιοί πολλάκις βλέπουν στο όνομα αυτό ευλογία και αύξηση της ψυχικής και πνευματικής ζωής. Η προέλευση του ονόματος 'Αλφονζίνα' προέρχεται από το όνομα 'Αλφόνζο' (Alphonzo), το οποίο προέρχεται από το όνομα 'Αλφόνσο' (Alphonse), με σημασία 'ισχυρός', 'ισχυρός', 'ισχυρός'. Υπάρχουν πολλές γυναίκες που φέρουν αυτό το όνομα και θεωρούνται ως αστέρια στην κοινότητα των Χριστιανών."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alfonzina",
-      "meaning": "Filia, Dux, Regina amicorum",
-      "long_meaning": "Filia, Dux, Regina amicorum, hoc nomen femininum est, quod a Latina origine venit, et significat 'Ducissa', 'Regina amicorum' (Latin: filia, 'filia', filia, 'filia', filia, 'filia', filia, 'filia', filia, 'filia'). In ecclesia catholica, hoc nomen est consideratum ut symbolum potentiae et ordinis. Multi Romani vident in hoc nomine benedictionem et augmentum animae et animae. Origine nominis 'Alfonzina' venit a nomine 'Alphonzo' (Alphonzo), quod venit a nomine 'Alphonse' (Alphonse), cum significatio 'fortis', 'fortis', 'fortis'. Multae mulieres qui nomen hic portant, et sunt consideratae stellae in communitate Christianorum."
-    },
-    "in_english": {
-      "name": "Alfonzina",
-      "meaning": "Noble, one who is not afraid",
-      "long_meaning": "Noble, one who is not afraid"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "al-fon-ZEE-nah",
-      "biblical": "Not applicable",
-      "ipa": "/ælfɒnzɪnə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alfonzina"
-    ],
-    "variants": [
-      "Alfonzina"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alfonzina is used in Biblical naming tradition with the meaning “Noble, one who is not afraid”.",
-    "spiritual_significance": "Any spiritual significance attached to Alfonzina is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Noble, one who is not afraid” is the basis of any symbolism attached to Alfonzina; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alfonzina."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlfonzinaMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames"
-    ],
-    "monetization": {
-      "ad_units": [
-        {
-          "type": "display",
-          "size": "300x250"
-        },
-        {
-          "type": "text_links",
-          "text": "Related Names"
-        }
-      ],
-      "affiliate_links": [
-        {
-          "text": "Shop Baby Clothes with the Name Alfonzina",
-          "url": "https://example.com/alfonzina-baby-clothes"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alfonzina Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alfonzina has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alfonzina, Alfonzina name meaning, Alfonzina meaning, Alfonzina origin, Alfonzina root, Alfonzina pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alfonzina has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alfonzina name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alfonzina Name Meaning & Origin | NameVerse",
+      "meta_description": "Alfonzina: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alfonzina",
-        "Alfonzina name meaning",
-        "Alfonzina meaning",
-        "Alfonzina origin",
-        "Alfonzina root",
-        "Alfonzina pronunciation",
-        "Biblical names"
+        "Alfonzina name meaning"
       ],
-      "focus_keyword": "Alfonzina name meaning",
-      "secondary_keywords": [
-        "Alfonzina meaning",
-        "Alfonzina origin",
-        "Alfonzina pronunciation",
-        "Alfonzina lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alfonzina mean?",
-          "a": "Name-lists record the meaning as “Noble, one who is not afraid”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alfonzina verified?",
-          "a": "No. The meaning of Alfonzina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alfonzina come from?",
-          "a": "The origin of Alfonzina has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alfonzina Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alfonzina has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alfonzina Name Meaning & Origin | NameVerse",
+    "meta_description": "Alfonzina: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alfonzina",
-      "Alfonzina name meaning",
-      "Alfonzina meaning",
-      "Alfonzina origin",
-      "Alfonzina root",
-      "Alfonzina pronunciation",
-      "Biblical names"
+      "Alfonzina name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alfonzina has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alfonzina",
-      "description": "Alfonzina — Noble, one who is not afraid",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alfonzina mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Noble, one who is not afraid”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alfonzina verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alfonzina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alfonzina come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alfonzina has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 60,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:59.000Z",
-    "tier1_verified": {
-      "name": "Alfonzina",
-      "slug": "alfonzina",
-      "meaning": "Noble, one who is not afraid",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alfonzina",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Noble, one who is not afraid",
-      "long_meaning": "The name Alfonzina is recorded with the meaning “Noble, one who is not afraid”. Alfonzina is a Biblical name meaning “Noble, one who is not afraid”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alfonzina",
-          "meaning": "Noble, one who is not afraid",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "al-fon-ZEE-nah",
-        "ipa": "/ælfɒnzɪnə/"
-      },
-      "syllables": 4,
-      "name_length": 9,
-      "faqs": [
-        {
-          "q": "What does the name Alfonzina mean?",
-          "a": "Name-lists record the meaning as “Noble, one who is not afraid”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alfonzina verified?",
-          "a": "No. The meaning of Alfonzina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alfonzina come from?",
-          "a": "The origin of Alfonzina has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alfonzina total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:05:06.000Z",
+    "updated_at": "2026-10-03T03:05:06.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -334,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:59.000Z"
+      "processed_at": "2026-10-03T03:05:06.000Z"
     }
   }
 }

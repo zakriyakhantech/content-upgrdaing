@@ -3,333 +3,161 @@
   "data": {
     "name": "Alex",
     "slug": "alex",
-    "language": [
-      "English",
-      "Hebrew",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Male",
-    "gender_notes": "Alex is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Alex",
+    "normalized_name": "alex",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Saint",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Defender of people",
-    "long_meaning": "The meaning of Alex is recorded in name-lists as “Defender of people”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Alex expresses “Defender of people”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-l-e-x",
-    "syllables": 2,
-    "name_length": 4,
-    "transliteration": [
-      "Alex"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "White",
-      "Pink"
-    ],
-    "lucky_stone": "Diamond",
-    "ruling_planet": "Venus",
-    "life_path_number": 6,
-    "numerology_meaning": "In Pythagorean numerology the letters of Alex total 15, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-    "in_hebrew": {
-      "name": "אלכס",
-      "meaning": "אלכס משמעותו מגן האנושי או מגן האל",
-      "long_meaning": "אלכס הוא שם שמקורו ביוונית ומשמעותו 'מגן האנושי' או 'מגן האל'. השם אלכסנדרוס (Αλέξανδρος) מורכב מ'אלקס' (אלכס) שמשמעותו 'מגן' ומ'אנדרוס' שמשמעותו 'אנושי' או 'אל'. השם אלכס הוא קיצור של אלכסנדרוס ומשמש כשם עצמאי."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αλέξ",
-      "meaning": "Αλέξ σημαίνει υπερασπιστής ή αμυνόμενος",
-      "long_meaning": "Το όνομα Αλέξ είναι σύντομη μορφή του Αλέξανδρος (Aléxandros), που σημαίνει 'υπερασπιστής' ή 'αμυνόμενος'. Στην αρχαία Ελλάδα, το όνομα Αλέξανδρος ήταν πολύ δημοφιλές και συνδέθηκε με τον μεγάλο βασιλιά Αλέξανδρο τον Μέγα. Το όνομα Αλέξ διατηρεί την ίδια πνευματική σημασία, συμβολίζοντας προστασία και δύναμη."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Alex",
-      "meaning": "Alex means defender or protector",
-      "long_meaning": "The name Alex is derived from the Greek name Aléxandros (Αλέξανδρος), meaning 'defender' or 'protector'. This name was popularized by Alexander the Great, a king of ancient Greece. In Christian tradition, the name Alex symbolizes strength and protection, reflecting its etymological roots."
-    },
-    "in_english": {
-      "name": "Alex",
-      "meaning": "Defender of people",
-      "long_meaning": "Defender of people"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AL-eks",
-      "ipa": "/ˈælɛks/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Alex"
-    ],
-    "variants": [
-      "Alex"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Alex is used in Biblical naming tradition with the meaning “Defender of people”.",
-    "spiritual_significance": "Any spiritual significance attached to Alex is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Defender of people” is the basis of any symbolism attached to Alex; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Alex."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AlexMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Alex"
-    ],
-    "monetization": {
-      "ad_places": [
-        {
-          "location": "top",
-          "type": "image"
-        },
-        {
-          "location": "bottom",
-          "type": "text"
-        }
-      ],
-      "affiliate_links": [
-        {
-          "product": "Baby Clothes",
-          "url": "https://www.amazon.com/s?k=baby+clothes+alex"
-        },
-        {
-          "product": "Baby Toys",
-          "url": "https://www.target.com/s?searchType=simpleSearch&query=baby+toys+alex"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Alex Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Alex has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Alex, Alex name meaning, Alex meaning, Alex origin, Alex root, Alex pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Alex has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Alex name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Alex Name Meaning & Origin | NameVerse",
+      "meta_description": "Alex: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Alex",
-        "Alex name meaning",
-        "Alex meaning",
-        "Alex origin",
-        "Alex root",
-        "Alex pronunciation",
-        "Biblical names"
+        "Alex name meaning"
       ],
-      "focus_keyword": "Alex name meaning",
-      "secondary_keywords": [
-        "Alex meaning",
-        "Alex origin",
-        "Alex pronunciation",
-        "Alex lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Alex mean?",
-          "a": "Name-lists record the meaning as “Defender of people”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alex verified?",
-          "a": "No. The meaning of Alex could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alex come from?",
-          "a": "The origin of Alex has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Alex Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Alex has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Alex Name Meaning & Origin | NameVerse",
+    "meta_description": "Alex: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Alex",
-      "Alex name meaning",
-      "Alex meaning",
-      "Alex origin",
-      "Alex root",
-      "Alex pronunciation",
-      "Biblical names"
+      "Alex name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Alex has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Alex",
-      "description": "Alex — Defender of people",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Alex mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Defender of people”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Alex verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Alex could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Alex come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Alex has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:58.000Z",
-    "tier1_verified": {
-      "name": "Alex",
-      "slug": "alex",
-      "meaning": "Defender of people",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Alex",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Defender of people",
-      "long_meaning": "The name Alex is recorded with the meaning “Defender of people”. Alex is a Biblical name meaning “Defender of people”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Alex",
-          "meaning": "Defender of people",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AL-eks",
-        "ipa": "/ˈælɛks/"
-      },
-      "syllables": 2,
-      "name_length": 4,
-      "faqs": [
-        {
-          "q": "What does the name Alex mean?",
-          "a": "Name-lists record the meaning as “Defender of people”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Alex verified?",
-          "a": "No. The meaning of Alex could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Alex come from?",
-          "a": "The origin of Alex has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 6,
-        "life_path_number": 6,
-        "ruling_planet": "Venus",
-        "lucky_day": "Friday",
-        "lucky_stone": "Diamond",
-        "lucky_colors": [
-          "White",
-          "Pink"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Alex total 15, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:04:55.000Z",
+    "updated_at": "2026-10-03T03:04:55.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -338,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:58.000Z"
+      "processed_at": "2026-10-03T03:04:55.000Z"
     }
   }
 }

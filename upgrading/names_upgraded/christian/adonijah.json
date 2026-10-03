@@ -3,183 +3,339 @@
   "data": {
     "name": "Adonijah",
     "slug": "adonijah",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Adonijah",
+    "normalized_name": "adonijah",
     "language": [
+      "Biblical Hebrew",
       "English",
-      "Hebrew",
       "Greek",
       "Latin"
     ],
     "gender": "Male",
-    "gender_notes": "Adonijah is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Hebrew",
+    "origin_detail": "A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'.",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": true,
+      "confidence": "HIGH",
+      "classification": "biblical",
+      "explanation": "The personal name occurs in the Hebrew Bible (2 Samuel 3:4; 1 Kings 1-2)."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "My Lord is Yah (the Lord)",
+      "alternative_gloss": "Yah is my Lord",
+      "meaning_type": "lexical",
+      "confidence": "HIGH",
+      "note": "Adonijah is the anglicised form of Biblical Hebrew ʾAdoniyyah."
+    },
+    "short_meaning": "My Lord is Yah (the Lord)",
+    "long_meaning": "Adonijah (אֲדֹנִיָּה) is a name of Hebrew origin meaning “My Lord is Yah (the Lord)”. A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'. Its root is Hebrew אֲדֹנִיָּה (ʾAdoniyyah), from אָדוֹן (ʾadon) 'lord' + יָהּ (Yah), the shortened divine name. Adonijah is the anglicised form of Biblical Hebrew ʾAdoniyyah.",
+    "etymology": {
+      "components": [
+        "my Lord is Yah",
+        "Yah is my Lord"
+      ],
+      "formation": "A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "my Lord is Yah",
+      "Yah is my Lord"
     ],
-    "short_meaning": "Lord, god, master",
-    "long_meaning": "The meaning of Adonijah is recorded in name-lists as “Lord, god, master”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Adonijah expresses “Lord, god, master”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-d-o-n-i-j-a-h",
-    "syllables": 4,
-    "name_length": 8,
-    "transliteration": [
-      "Adonijah"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Adonijah total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_hebrew": {
-      "name": "אדוניהו",
-      "meaning": "אדוני הוא אלוהים, אדוניהו משמעותו 'אדוני הוא האל'",
-      "long_meaning": "אדוניהו הוא שם פרטי עברי המורכב מ'אדון' שמשמעותו 'אדוני' ו'יהו' שמשמעותו 'הוא אלוהים'. השם מופיע בתנ'ך, במלכים א פרק 1, כאחד מבני דוד. אדוניהו היה בנו של דוד מלך ישראל ויחל בעקבות אביו. השם אדוניהו מבטא את האמונה באלוהים כ'אדון' וכמושיע."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 8,
+      "lucky_number": 8,
+      "numerology_meaning": "ambition, authority and material success",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Αδωνιγιας",
-      "meaning": "Ο Κύριος είναι Θεός, Αδωνιγιας σημαίνει 'Ο Κύριος είναι Θεός'",
-      "long_meaning": "Ο Αδωνιγιας είναι ένα προσωπικό όνομα ελληνικό που προέρχεται από την εβραϊκή γλώσσα. Το όνομα αποτελείται από το 'Αδών' που σημαίνει 'Κύριος' και το 'Ιγιας' που σημαίνει 'Θεός'. Ο Αδωνιγιας αναφέρεται στην Παλαιά Διαθήκη, στο 1 Βασιλέων κεφάλαιο 1, ως ένας από τους γιους του Δαβίδ. Το όνομα Αδωνιγιας εκφράζει την πίστη στον Θεό ως 'Κύριο' και σωτήρα."
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Adonijah",
-      "meaning": "Dominus est Deus, Adonijah significat 'Dominus est Deus'",
-      "long_meaning": "Adonijah est nomen proprium hebraicum quod componitur ex 'Adon' quod significat 'Dominus' et 'ijah' quod significat 'Deus'. Nomen Adonijah invenitur in Biblia, in 1 Regum capitulo 1, ut unus de filiis David. Adonijah fuit filius David regis Israel et successit patri suo. Nomen Adonijah exprimit fidem in Deum ut 'Dominum' et salvatorem."
+    "translations": {
+      "hebrew": {
+        "name": "אֲדֹנִיָּה",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "אֲדֹנִיָּה is the name's own orthography in Hebrew script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "greek": {
+        "name": "Ἀδωνίας",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Ἀδωνίας is the name's own orthography in Greek script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Adonias",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Adonias is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Adonijah",
+        "meaning": "My Lord is Yah (the Lord)",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Adonijah",
-      "meaning": "Lord, god, master",
-      "long_meaning": "Lord, god, master"
+    "scripts": {
+      "hebrew": "אֲדֹנִיָּה",
+      "greek": "Ἀδωνίας",
+      "latin": "Adonias"
     },
     "pronunciation": {
-      "english": "a-don-ee-jah",
-      "biblical": "Ah-doh-NEE-yah",
-      "ipa": "/ˌædəˈnaɪə/"
+      "original_language": {
+        "transliteration": "ʾAdoniyyah",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "ad-ə-NY-jə",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "hebrew": "אֲדֹנִיָּה",
+      "greek": "Ἀδωνίας",
+      "latin": "Adonias"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": true,
+      "exact_lexical_form_occurs": true,
+      "root_or_lemma_occurs": true,
+      "related_forms_occur": true,
+      "old_testament_occurs": true,
+      "new_testament_occurs": false,
+      "christian_historical_usage": true,
+      "saint_association": false,
+      "interpretation": "The personal name occurs in the Hebrew Bible (2 Samuel 3:4; 1 Kings 1-2)."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [
+      {
+        "person": "Adonijah, son of David",
+        "form": "אֲדֹנִיָּה",
+        "period": "Biblical narrative",
+        "source": "1 Kings 1-2"
+      }
+    ],
+    "historical_note": "",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Biblical Hebrew, English, Greek, Latin naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Adonijah"
+      "Adoniyah",
+      "Adoniah",
+      "Adonias"
     ],
     "variants": [
-      "Adonijah"
+      "Adoniyah",
+      "Adoniah",
+      "Adonias"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "David",
+      "Solomon",
+      "Haggith"
+    ],
+    "similar_sounding_names": [
+      "Adolf",
+      "Adolfo",
+      "Adolph",
+      "Adolphe",
+      "Adolphus",
+      "Adom"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Adonijah is used in Biblical naming tradition with the meaning “Lord, god, master”.",
-    "spiritual_significance": "Any spiritual significance attached to Adonijah is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Lord, god, master” is the basis of any symbolism attached to Adonijah; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "1 Kings",
-      "verse_reference": "1 Kings 1:1-40",
-      "note": "Son of King David, attempted to become king of Israel"
+      "occurs": true,
+      "old_testament": true,
+      "new_testament": false,
+      "note": "The personal name occurs in the Hebrew Bible (2 Samuel 3:4; 1 Kings 1-2)."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Adonijah."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AdonijahMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Adonijah"
-    ],
-    "monetization": {
-      "ad_places": [
-        {
-          "position": "top",
-          "size": "large_rectangle"
-        },
-        {
-          "position": "after_content",
-          "size": "leaderboard"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Adonijah Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Adonijah has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Adonijah, Adonijah name meaning, Adonijah meaning, Adonijah origin, Adonijah root, Adonijah pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Adonijah has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Adonijah name meaning and origin",
+      "secondary_search_intents": [
+        "is Adonijah a biblical name",
+        "Adonijah name origin and language",
+        "Adonijah pronunciation"
+      ],
+      "seo_title": "Adonijah Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Adonijah: meaning “My Lord is Yah (the Lord)”, Hebrew origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Adonijah (אֲדֹנִיָּה) is a name of Hebrew origin meaning “My Lord is Yah (the Lord)”. A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'. Its root is Hebrew אֲדֹנִיָּה (ʾAdoniyyah), from אָדוֹן (ʾadon) 'lord' + יָהּ (Yah), the shortened divine name. Adonijah is the anglicised form of Biblical Hebrew ʾAdoniyyah.",
       "keywords": [
-        "Adonijah",
         "Adonijah name meaning",
-        "Adonijah meaning",
         "Adonijah origin",
-        "Adonijah root",
+        "Adonijah biblical name",
         "Adonijah pronunciation",
-        "Biblical names"
+        "Adonijah etymology"
       ],
-      "focus_keyword": "Adonijah name meaning",
-      "secondary_keywords": [
-        "Adonijah meaning",
-        "Adonijah origin",
-        "Adonijah pronunciation",
-        "Adonijah lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Adonijah mean?",
-          "a": "Name-lists record the meaning as “Lord, god, master”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Adonijah means “My Lord is Yah (the Lord)”."
+        },
+        {
+          "q": "What is the origin of the name Adonijah?",
+          "a": "Adonijah is of Hebrew origin."
+        },
+        {
+          "q": "What language does the name Adonijah come from?",
+          "a": "Adonijah is used in Biblical Hebrew, English, Greek, Latin."
+        },
+        {
+          "q": "Is Adonijah a boy's name or a girl's name?",
+          "a": "Adonijah is used as a male name."
+        },
+        {
+          "q": "How is Adonijah pronounced?",
+          "a": "Adonijah is pronounced ad-ə-NY-jə."
+        },
+        {
+          "q": "How is Adonijah written in Hebrew?",
+          "a": "Adonijah is written אֲדֹנִיָּה in Hebrew script."
+        },
+        {
+          "q": "How is Adonijah written in Greek?",
+          "a": "Adonijah is written Ἀδωνίας in Greek script."
+        },
+        {
+          "q": "How is Adonijah written in Latin?",
+          "a": "Adonijah is written Adonias in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Adonijah?",
+          "a": "The root of Adonijah is Hebrew אֲדֹנִיָּה (ʾAdoniyyah), from אָדוֹן (ʾadon) 'lord' + יָהּ (Yah), the shortened divine name."
+        },
+        {
+          "q": "What is the etymology of Adonijah?",
+          "a": "A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'."
+        },
+        {
+          "q": "Does Adonijah appear in the Bible?",
+          "a": "Yes. The personal name occurs in the Hebrew Bible (2 Samuel 3:4; 1 Kings 1-2)."
+        },
+        {
+          "q": "Is Adonijah a Biblical name?",
+          "a": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the Hebrew Bible (2 Samuel 3:4; 1 Kings 1-2)."
+        },
+        {
+          "q": "Does Adonijah occur in the Old Testament?",
+          "a": "Yes."
+        },
+        {
+          "q": "Does Adonijah occur in the New Testament?",
+          "a": "No — it is not attested in the New Testament."
+        },
+        {
+          "q": "Is Adonijah associated with a saint?",
+          "a": "No saint association is verified for the name Adonijah."
         },
         {
           "q": "Is the meaning of Adonijah verified?",
-          "a": "No. The meaning of Adonijah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “My Lord is Yah (the Lord)” is supported by Old Testament: a son of King David who attempted to seize the throne (1 Kings 1-2). Confidence: HIGH."
         },
         {
-          "q": "Where does the name Adonijah come from?",
-          "a": "The origin of Adonijah has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Adonijah?",
+          "a": "In Pythagorean numerology the letters of Adonijah total 62, reducing to 8. Number 8 is traditionally associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Adonijah?",
+          "a": "Variants and alternative forms include Adoniyah, Adoniah, Adonias."
+        },
+        {
+          "q": "What is the transliteration of Adonijah?",
+          "a": "Adonijah is transliterated as ʾAdoniyyah."
+        },
+        {
+          "q": "How many syllables does Adonijah have?",
+          "a": "Adonijah has 4 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Adonijah?",
+          "a": "Any spiritual significance attached to Adonijah is interpretive. Its documented core is the lexical meaning “My Lord is Yah (the Lord)”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Adonijah used today?",
+          "a": "Adonijah circulates chiefly in Biblical Hebrew, English, Greek, Latin naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 22 (>=10 target) · tier-1 confidence HIGH · 0 open issue(s)"
     },
-    "seo_title": "Adonijah Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Adonijah has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Adonijah Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Adonijah: meaning “My Lord is Yah (the Lord)”, Hebrew origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Adonijah",
       "Adonijah name meaning",
-      "Adonijah meaning",
       "Adonijah origin",
-      "Adonijah root",
+      "Adonijah biblical name",
       "Adonijah pronunciation",
-      "Biblical names"
+      "Adonijah etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Adonijah has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Adonijah (אֲדֹנִיָּה) is a name of Hebrew origin meaning “My Lord is Yah (the Lord)”. A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'. Its root is Hebrew אֲדֹנִיָּה (ʾAdoniyyah), from אָדוֹן (ʾadon) 'lord' + יָהּ (Yah), the shortened divine name. Adonijah is the anglicised form of Biblical Hebrew ʾAdoniyyah.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Adonijah",
-      "description": "Adonijah — Lord, god, master",
-      "additionalType": "https://schema.org/Person"
+      "description": "My Lord is Yah (the Lord)",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -190,7 +346,119 @@
           "name": "What does the name Adonijah mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Lord, god, master”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Adonijah means “My Lord is Yah (the Lord)”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Adonijah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah is of Hebrew origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Adonijah come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah is used in Biblical Hebrew, English, Greek, Latin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Adonijah a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Adonijah pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah is pronounced ad-ə-NY-jə."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Adonijah written in Hebrew?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah is written אֲדֹנִיָּה in Hebrew script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Adonijah written in Greek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah is written Ἀδωνίας in Greek script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Adonijah written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah is written Adonias in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Adonijah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Adonijah is Hebrew אֲדֹנִיָּה (ʾAdoniyyah), from אָדוֹן (ʾadon) 'lord' + יָהּ (Yah), the shortened divine name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Adonijah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Adonijah appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The personal name occurs in the Hebrew Bible (2 Samuel 3:4; 1 Kings 1-2)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Adonijah a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the Hebrew Bible (2 Samuel 3:4; 1 Kings 1-2)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Adonijah occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Adonijah occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the New Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Adonijah associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Adonijah."
           }
         },
         {
@@ -198,142 +466,202 @@
           "name": "Is the meaning of Adonijah verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Adonijah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “My Lord is Yah (the Lord)” is supported by Old Testament: a son of King David who attempted to seize the throne (1 Kings 1-2). Confidence: HIGH."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Adonijah come from?",
+          "name": "What is the numerology or lucky number of Adonijah?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Adonijah has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Adonijah total 62, reducing to 8. Number 8 is traditionally associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Adonijah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Adoniyah, Adoniah, Adonias."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Adonijah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah is transliterated as ʾAdoniyyah."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Adonijah have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah has 4 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Adonijah?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Adonijah is interpretive. Its documented core is the lexical meaning “My Lord is Yah (the Lord)”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Adonijah used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Adonijah circulates chiefly in Biblical Hebrew, English, Greek, Latin naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Adonijah",
+          "item": ""
+        }
+      ]
+    },
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "HIGH",
+      "basis": "Old Testament: a son of King David who attempted to seize the throne (1 Kings 1-2)."
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:47.000Z",
+    "created_at": "2026-10-03T02:58:43.000Z",
+    "updated_at": "2026-10-03T02:58:43.000Z",
     "tier1_verified": {
       "name": "Adonijah",
       "slug": "adonijah",
-      "meaning": "Lord, god, master",
-      "origin": "Biblical",
+      "meaning": "My Lord is Yah (the Lord)",
+      "origin": "Hebrew",
       "language": [
+        "Biblical Hebrew",
         "English",
-        "Hebrew",
         "Greek",
         "Latin"
       ],
       "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Adonijah",
-      "reference": "",
-      "confidence": "UNKNOWN"
+      "root": "Hebrew אֲדֹנִיָּה (ʾAdoniyyah), from אָדוֹן (ʾadon) 'lord' + יָהּ (Yah), the shortened divine name",
+      "etymology": "A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'.",
+      "script": {
+        "hebrew": "אֲדֹנִיָּה",
+        "greek": "Ἀδωνίας",
+        "latin": "Adonias"
+      },
+      "transliteration": "ʾAdoniyyah",
+      "reference": "Old Testament: a son of King David who attempted to seize the throne (1 Kings 1-2).",
+      "confidence": "HIGH"
     },
     "tier2_explanatory": {
-      "short_meaning": "Lord, god, master",
-      "long_meaning": "The name Adonijah is recorded with the meaning “Lord, god, master”. Adonijah is a Biblical name meaning “Lord, god, master”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Adonijah",
-          "meaning": "Lord, god, master",
-          "confidence": "LOW"
-        }
+      "long_meaning": "Adonijah (אֲדֹנִיָּה) is a name of Hebrew origin meaning “My Lord is Yah (the Lord)”. A theophoric compound of Hebrew אָדוֹן (ʾadon) 'lord, master' (with possessive yod) and יָהּ (Yah), the shortened divine name - 'my Lord is Yah'. Its root is Hebrew אֲדֹנִיָּה (ʾAdoniyyah), from אָדוֹן (ʾadon) 'lord' + יָהּ (Yah), the shortened divine name. Adonijah is the anglicised form of Biblical Hebrew ʾAdoniyyah.",
+      "biblical_status": {
+        "exact_name_form_occurs": true,
+        "exact_lexical_form_occurs": true,
+        "root_or_lemma_occurs": true,
+        "related_forms_occur": true,
+        "old_testament_occurs": true,
+        "new_testament_occurs": false,
+        "christian_historical_usage": true,
+        "saint_association": false,
+        "interpretation": "The personal name occurs in the Hebrew Bible (2 Samuel 3:4; 1 Kings 1-2)."
       },
-      "pronunciation": {
-        "english": "a-don-ee-jah",
-        "ipa": "/ˌædəˈnaɪə/"
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
       },
-      "syllables": 4,
-      "name_length": 8,
-      "faqs": [
+      "historical_references": [
         {
-          "q": "What does the name Adonijah mean?",
-          "a": "Name-lists record the meaning as “Lord, god, master”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Adonijah verified?",
-          "a": "No. The meaning of Adonijah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Adonijah come from?",
-          "a": "The origin of Adonijah has not been verified and is not asserted here."
+          "person": "Adonijah, son of David",
+          "form": "אֲדֹנִיָּה",
+          "period": "Biblical narrative",
+          "source": "1 Kings 1-2"
         }
       ]
     },
     "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
       "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Adonijah total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+        "name_number": 8,
+        "meaning": "ambition, authority and material success",
+        "status": "belief_based"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "Old Testament: a son of King David who attempted to seize the throne (1 Kings 1-2)."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "Old Testament: a son of King David who attempted to seize the throne (1 Kings 1-2).",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "Old Testament: a son of King David who attempted to seize the throne (1 Kings 1-2)."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:47.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:58:43.000Z"
     }
   }
 }

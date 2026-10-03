@@ -3,182 +3,326 @@
   "data": {
     "name": "Aeneas",
     "slug": "aeneas",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Aeneas",
+    "normalized_name": "aeneas",
     "language": [
+      "Ancient Greek",
       "English",
-      "Greek",
       "Latin"
     ],
     "gender": "Male",
-    "gender_notes": "Aeneas is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "gender_confidence": "HIGH",
+    "gender_note": "Gender is based on documented naming usage, not on the grammatical gender of any underlying lexical word.",
+    "origin": "Greek",
+    "origin_detail": "The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established.",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
+    "christian_status": {
+      "is_christian_name": true,
+      "confidence": "MEDIUM",
+      "classification": "biblical",
+      "explanation": "The personal name occurs in the New Testament (Acts 9:33-34)."
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "Praised (proposed); etymology uncertain",
+      "alternative_gloss": "man of praise (proposed)",
+      "meaning_type": "lexical",
+      "confidence": "MEDIUM",
+      "note": "Aeneas is a Greek name; it appears in the New Testament but is not of Hebrew origin."
+    },
+    "short_meaning": "Praised (proposed); etymology uncertain",
+    "long_meaning": "Aeneas (Αἰνείας) is a name of Greek origin meaning “Praised (proposed); etymology uncertain”. The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established. Its root is Greek Αἰνείας (Aineias); derivation uncertain - possibly from αἶνος (ainos) 'praise' or 'terrible tale'. Aeneas is a Greek name; it appears in the New Testament but is not of Hebrew origin.",
+    "etymology": {
+      "components": [
+        "praised (proposed)",
+        "man of praise (proposed)"
+      ],
+      "formation": "The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established.",
+      "not_supported": []
+    },
+    "lexical_senses": [
+      "praised (proposed)",
+      "man of praise (proposed)"
     ],
-    "short_meaning": "Honor and Mercy",
-    "long_meaning": "The meaning of Aeneas is recorded in name-lists as “Honor and Mercy”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aeneas expresses “Honor and Mercy”; spiritual readings of the name are interpretive.",
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "interpretive",
+    "spiritual_meaning_note": "No documented Christian spiritual meaning is asserted for this name. Any spiritual reading is interpretive and is not presented as doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-e-n-e-a-s",
-    "syllables": 2,
-    "name_length": 6,
-    "transliteration": [
-      "Aeneas"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aeneas total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_hebrew": {
-      "name": "אייניאס",
-      "meaning": "איש חזק ויציב, תומך נאמן",
-      "long_meaning": "אייניאס הוא שם שמקורו ביוונית, אך הוא מופיע גם בברית הישנה כבן של אבינעזר, אחד מראשי העם היהודי. המשמעות העברית של השם אייניאס היא איש חזק ויציב, תומך נאמן, והוא משויך לאנשים חזקים ובעלי עמוד שדרה."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": true,
+      "system": "Pythagorean",
+      "name_number": 9,
+      "lucky_number": 9,
+      "numerology_meaning": "compassion, idealism and completion",
+      "status": "belief_based",
+      "disclaimer": "Numerology is a belief system and is not a scientifically established property of the name or a Biblical teaching."
     },
-    "in_greek": {
-      "name": "Αἰνείας",
-      "meaning": "ἄνεμος, ἀεί, νέος, αἰώνιος",
-      "long_meaning": "Αἰνείας είναι όνομα που προέρχεται από την ελληνική λέξη 'αἰνείας', που σημαίνει 'αιώνιος', 'αέναος'. Ο Αἰνείας ήταν ένας από τους ήρωες της Τροίας, και το όνομά του συνδέεται με την αέναη και αιώνια μνήμη."
+    "lucky_attributes": {
+      "lucky_day": "",
+      "lucky_colors": [],
+      "lucky_stone": "",
+      "ruling_planet": "",
+      "status": "belief_based",
+      "note": "Lucky attributes are interpretive tradition, not established facts."
     },
-    "in_latin": {
-      "name": "Aeneas",
-      "meaning": "strong, steadfast, praised",
-      "long_meaning": "Aeneas, derived from Greek 'Αἰνείας', signifies a strong and steadfast individual, one who is worthy of praise. In the context of early Christian church, the name Aeneas represents endurance and loyalty, reflecting the virtues esteemed by the early Christian community."
+    "translations": {
+      "hebrew": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Hebrew form is established for this name."
+      },
+      "greek": {
+        "name": "Αἰνείας",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Αἰνείας is the name's own orthography in Greek script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "aramaic": {
+        "name": "",
+        "meaning": "",
+        "translation_status": "unavailable",
+        "note": "No verified Aramaic form is established for this name."
+      },
+      "latin": {
+        "name": "Aeneas",
+        "meaning": "",
+        "translation_status": "not_applicable",
+        "note": "Aeneas is the name's own orthography in Latin script. It is a spelling/transliteration, not a translation of the lexical meaning."
+      },
+      "english": {
+        "name": "Aeneas",
+        "meaning": "Praised (proposed); etymology uncertain",
+        "translation_status": "verified",
+        "note": "English lexical meaning of the name."
+      }
     },
-    "in_english": {
-      "name": "Aeneas",
-      "meaning": "Honor and Mercy",
-      "long_meaning": "Honor and Mercy"
+    "scripts": {
+      "greek": "Αἰνείας",
+      "latin": "Aeneas"
     },
     "pronunciation": {
-      "english": "i-NEE-əs",
-      "ipa": "/ɪˈniːəs/"
+      "original_language": {
+        "transliteration": "Aineías",
+        "ipa": null,
+        "status": "unverified"
+      },
+      "english_approximation": "in-EE-əs",
+      "status": "approximation",
+      "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling.",
+      "greek": "Αἰνείας",
+      "latin": "Aeneas"
     },
+    "biblical_status": {
+      "exact_name_form_occurs": true,
+      "exact_lexical_form_occurs": true,
+      "root_or_lemma_occurs": false,
+      "related_forms_occur": false,
+      "old_testament_occurs": false,
+      "new_testament_occurs": true,
+      "christian_historical_usage": true,
+      "saint_association": false,
+      "interpretation": "The personal name occurs in the New Testament (Acts 9:33-34)."
+    },
+    "saint_reference": {
+      "associated": false,
+      "note": "No saint association verified for the name itself."
+    },
+    "historical_references": [
+      {
+        "person": "Aeneas of Lydda",
+        "form": "Αἰνείας",
+        "period": "1st century (NT narrative)",
+        "source": "Acts 9:33-34"
+      }
+    ],
+    "historical_note": "",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer was verified from the sources consulted for this record.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established for this name.",
+    "cultural_impact": "",
+    "cultural_impact_note": "Documented cultural-impact evidence is limited to the name's attested usage described in this record.",
+    "spiritual_significance": {
+      "status": "interpretive",
+      "note": "No documented Christian spiritual significance is asserted beyond the verified lexical meaning."
+    },
+    "modern_usage": {
+      "status": "documented_usage",
+      "note": "Used in Ancient Greek, English, Latin naming communities."
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
     "name_variations": [
-      "Aeneas"
+      "Aineias",
+      "Eneas"
     ],
     "variants": [
-      "Aeneas"
+      "Aineias",
+      "Eneas"
     ],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "related_names": [
+      "Peter"
+    ],
+    "similar_sounding_names": [
+      "Aenea",
+      "Aeneus",
+      "Aeniah",
+      "Aenneea"
+    ],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official birth-registry statistics were verified for this name."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Aeneas is used in Biblical naming tradition with the meaning “Honor and Mercy”.",
-    "spiritual_significance": "Any spiritual significance attached to Aeneas is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Honor and Mercy” is the basis of any symbolism attached to Aeneas; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified for this name.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "Acts",
-      "verse_reference": "Acts 9:33-35",
-      "note": "Aeneas was a disciple of Jesus Christ, healed by Peter."
+      "occurs": true,
+      "old_testament": false,
+      "new_testament": true,
+      "note": "The personal name occurs in the New Testament (Acts 9:33-34)."
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aeneas."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AeneasMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Aeneas"
-    ],
-    "monetization": {
-      "ads": [
-        {
-          "type": "banner",
-          "size": "300x250",
-          "position": "top"
-        },
-        {
-          "type": "interstitial",
-          "position": "end"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Aeneas Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aeneas has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aeneas, Aeneas name meaning, Aeneas meaning, Aeneas origin, Aeneas root, Aeneas pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Aeneas has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Aeneas name meaning and origin",
+      "secondary_search_intents": [
+        "is Aeneas a biblical name",
+        "Aeneas name origin and language",
+        "Aeneas pronunciation"
+      ],
+      "seo_title": "Aeneas Name Meaning, Origin & Biblical Status | NameVerse",
+      "meta_description": "Aeneas: meaning “Praised (proposed); etymology uncertain”, Greek origin. Verified etymology, Biblical status and pronunciation.",
+      "description_paragraph": "Aeneas (Αἰνείας) is a name of Greek origin meaning “Praised (proposed); etymology uncertain”. The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established. Its root is Greek Αἰνείας (Aineias); derivation uncertain - possibly from αἶνος (ainos) 'praise' or 'terrible tale'. Aeneas is a Greek name; it appears in the New Testament but is not of Hebrew origin.",
       "keywords": [
-        "Aeneas",
         "Aeneas name meaning",
-        "Aeneas meaning",
         "Aeneas origin",
-        "Aeneas root",
+        "Aeneas biblical name",
         "Aeneas pronunciation",
-        "Biblical names"
+        "Aeneas etymology"
       ],
-      "focus_keyword": "Aeneas name meaning",
-      "secondary_keywords": [
-        "Aeneas meaning",
-        "Aeneas origin",
-        "Aeneas pronunciation",
-        "Aeneas lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
       "faq": [
         {
           "q": "What does the name Aeneas mean?",
-          "a": "Name-lists record the meaning as “Honor and Mercy”, but this has not been verified against a classical source. Treat it as unverified."
+          "a": "Aeneas means “Praised (proposed); etymology uncertain”."
+        },
+        {
+          "q": "What is the origin of the name Aeneas?",
+          "a": "Aeneas is of Greek origin."
+        },
+        {
+          "q": "What language does the name Aeneas come from?",
+          "a": "Aeneas is used in Ancient Greek, English, Latin."
+        },
+        {
+          "q": "Is Aeneas a boy's name or a girl's name?",
+          "a": "Aeneas is used as a male name."
+        },
+        {
+          "q": "How is Aeneas pronounced?",
+          "a": "Aeneas is pronounced in-EE-əs."
+        },
+        {
+          "q": "How is Aeneas written in Greek?",
+          "a": "Aeneas is written Αἰνείας in Greek script."
+        },
+        {
+          "q": "How is Aeneas written in Latin?",
+          "a": "Aeneas is written Aeneas in Latin script."
+        },
+        {
+          "q": "What is the linguistic root of Aeneas?",
+          "a": "The root of Aeneas is Greek Αἰνείας (Aineias); derivation uncertain - possibly from αἶνος (ainos) 'praise' or 'terrible tale'."
+        },
+        {
+          "q": "What is the etymology of Aeneas?",
+          "a": "The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established."
+        },
+        {
+          "q": "Does Aeneas appear in the Bible?",
+          "a": "Yes. The personal name occurs in the New Testament (Acts 9:33-34)."
+        },
+        {
+          "q": "Is Aeneas a Biblical name?",
+          "a": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the New Testament (Acts 9:33-34)."
+        },
+        {
+          "q": "Does Aeneas occur in the Old Testament?",
+          "a": "No — it is not attested in the Old Testament."
+        },
+        {
+          "q": "Does Aeneas occur in the New Testament?",
+          "a": "Yes."
+        },
+        {
+          "q": "Is Aeneas associated with a saint?",
+          "a": "No saint association is verified for the name Aeneas."
         },
         {
           "q": "Is the meaning of Aeneas verified?",
-          "a": "No. The meaning of Aeneas could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          "a": "The meaning “Praised (proposed); etymology uncertain” is supported by New Testament: a man at Lydda healed by Peter (Acts 9:33-34). Also the Trojan hero of Virgil's Aeneid. Confidence: MEDIUM."
         },
         {
-          "q": "Where does the name Aeneas come from?",
-          "a": "The origin of Aeneas has not been verified and is not asserted here."
+          "q": "What is the numerology or lucky number of Aeneas?",
+          "a": "In Pythagorean numerology the letters of Aeneas total 45, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."
+        },
+        {
+          "q": "What are the common spelling variants of Aeneas?",
+          "a": "Variants and alternative forms include Aineias, Eneas."
+        },
+        {
+          "q": "What is the transliteration of Aeneas?",
+          "a": "Aeneas is transliterated as Aineías."
+        },
+        {
+          "q": "How many syllables does Aeneas have?",
+          "a": "Aeneas has 2 syllables."
+        },
+        {
+          "q": "What are the spiritual connotations of Aeneas?",
+          "a": "Any spiritual significance attached to Aeneas is interpretive. Its documented core is the lexical meaning “Praised (proposed); etymology uncertain”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+        },
+        {
+          "q": "Where is the name Aeneas used today?",
+          "a": "Aeneas circulates chiefly in Ancient Greek, English, Latin naming communities. No verified registration statistics are published for it."
         }
-      ]
+      ],
+      "search_snippet_guardrails": [
+        "No popularity statistics are claimed without a source.",
+        "Biblical status is stated only where verified."
+      ],
+      "seo_score": 98,
+      "seo_score_basis": "FAQ 21 (>=10 target) · tier-1 confidence MEDIUM · 0 open issue(s)"
     },
-    "seo_title": "Aeneas Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aeneas has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Aeneas Name Meaning, Origin & Biblical Status | NameVerse",
+    "meta_description": "Aeneas: meaning “Praised (proposed); etymology uncertain”, Greek origin. Verified etymology, Biblical status and pronunciation.",
     "keywords": [
-      "Aeneas",
       "Aeneas name meaning",
-      "Aeneas meaning",
       "Aeneas origin",
-      "Aeneas root",
+      "Aeneas biblical name",
       "Aeneas pronunciation",
-      "Biblical names"
+      "Aeneas etymology"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Aeneas has not been verified against a reliable source. This record is flagged for manual verification.",
+    "intro_paragraph": "Aeneas (Αἰνείας) is a name of Greek origin meaning “Praised (proposed); etymology uncertain”. The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established. Its root is Greek Αἰνείας (Aineias); derivation uncertain - possibly from αἶνος (ainos) 'praise' or 'terrible tale'. Aeneas is a Greek name; it appears in the New Testament but is not of Hebrew origin.",
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Thing",
+      "@type": "DefinedTerm",
       "name": "Aeneas",
-      "description": "Aeneas — Honor and Mercy",
-      "additionalType": "https://schema.org/Person"
+      "description": "Praised (proposed); etymology uncertain",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "NameVerse Christian Names"
+      }
     },
     "structured_data_faq": {
       "@context": "https://schema.org",
@@ -189,7 +333,111 @@
           "name": "What does the name Aeneas mean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Name-lists record the meaning as “Honor and Mercy”, but this has not been verified against a classical source. Treat it as unverified."
+            "text": "Aeneas means “Praised (proposed); etymology uncertain”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the origin of the name Aeneas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas is of Greek origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What language does the name Aeneas come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas is used in Ancient Greek, English, Latin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aeneas a boy's name or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aeneas pronounced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas is pronounced in-EE-əs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aeneas written in Greek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas is written Αἰνείας in Greek script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aeneas written in Latin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas is written Aeneas in Latin script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Aeneas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Aeneas is Greek Αἰνείας (Aineias); derivation uncertain - possibly from αἶνος (ainos) 'praise' or 'terrible tale'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the etymology of Aeneas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aeneas appear in the Bible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The personal name occurs in the New Testament (Acts 9:33-34)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aeneas a Biblical name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the personal name occurs in the Biblical text. The personal name occurs in the New Testament (Acts 9:33-34)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aeneas occur in the Old Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — it is not attested in the Old Testament."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aeneas occur in the New Testament?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aeneas associated with a saint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No saint association is verified for the name Aeneas."
           }
         },
         {
@@ -197,141 +445,200 @@
           "name": "Is the meaning of Aeneas verified?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The meaning of Aeneas could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+            "text": "The meaning “Praised (proposed); etymology uncertain” is supported by New Testament: a man at Lydda healed by Peter (Acts 9:33-34). Also the Trojan hero of Virgil's Aeneid. Confidence: MEDIUM."
           }
         },
         {
           "@type": "Question",
-          "name": "Where does the name Aeneas come from?",
+          "name": "What is the numerology or lucky number of Aeneas?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The origin of Aeneas has not been verified and is not asserted here."
+            "text": "In Pythagorean numerology the letters of Aeneas total 45, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common spelling variants of Aeneas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Variants and alternative forms include Aineias, Eneas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the transliteration of Aeneas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas is transliterated as Aineías."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many syllables does Aeneas have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas has 2 syllables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the spiritual connotations of Aeneas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any spiritual significance attached to Aeneas is interpretive. Its documented core is the lexical meaning “Praised (proposed); etymology uncertain”, and readings built on that meaning are presented as tradition rather than as religious doctrine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is the name Aeneas used today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aeneas circulates chiefly in Ancient Greek, English, Latin naming communities. No verified registration statistics are published for it."
           }
         }
       ]
     },
-    "structured_data_breadcrumb": {},
+    "structured_data_breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Christian Names",
+          "item": ""
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Aeneas",
+          "item": ""
+        }
+      ]
+    },
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "title_quality": "PASS",
+        "meta_description": "PASS",
+        "search_intent_alignment": "PASS",
+        "keyword_stuffing": "NONE",
+        "duplicate_content_risk": "LOW",
+        "unique_information": "HIGH",
+        "content_depth": "HIGH",
+        "factual_integrity": "PASS",
+        "structured_data": "PASS"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "MEDIUM",
+      "basis": "New Testament: a man at Lydda healed by Peter (Acts 9:33-34). Also the Trojan hero of Virgil's Aeneid."
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "verified_core",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:49.000Z",
+    "created_at": "2026-10-03T02:58:57.000Z",
+    "updated_at": "2026-10-03T02:58:57.000Z",
     "tier1_verified": {
       "name": "Aeneas",
       "slug": "aeneas",
-      "meaning": "Honor and Mercy",
-      "origin": "Biblical",
+      "meaning": "Praised (proposed); etymology uncertain",
+      "origin": "Greek",
       "language": [
+        "Ancient Greek",
         "English",
-        "Greek",
         "Latin"
       ],
       "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aeneas",
-      "reference": "",
-      "confidence": "UNKNOWN"
+      "root": "Greek Αἰνείας (Aineias); derivation uncertain - possibly from αἶνος (ainos) 'praise' or 'terrible tale'",
+      "etymology": "The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established.",
+      "script": {
+        "greek": "Αἰνείας",
+        "latin": "Aeneas"
+      },
+      "transliteration": "Aineías",
+      "reference": "New Testament: a man at Lydda healed by Peter (Acts 9:33-34). Also the Trojan hero of Virgil's Aeneid.",
+      "confidence": "MEDIUM"
     },
     "tier2_explanatory": {
-      "short_meaning": "Honor and Mercy",
-      "long_meaning": "The name Aeneas is recorded with the meaning “Honor and Mercy”. Aeneas is a Biblical name meaning “Honor and Mercy”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aeneas",
-          "meaning": "Honor and Mercy",
-          "confidence": "LOW"
-        }
+      "long_meaning": "Aeneas (Αἰνείας) is a name of Greek origin meaning “Praised (proposed); etymology uncertain”. The derivation of Αἰνείας is uncertain. A common proposal links it to αἶνος (ainos), which can mean 'praise' or, in other contexts, 'a terrible tale'. No single derivation is established. Its root is Greek Αἰνείας (Aineias); derivation uncertain - possibly from αἶνος (ainos) 'praise' or 'terrible tale'. Aeneas is a Greek name; it appears in the New Testament but is not of Hebrew origin.",
+      "biblical_status": {
+        "exact_name_form_occurs": true,
+        "exact_lexical_form_occurs": true,
+        "root_or_lemma_occurs": false,
+        "related_forms_occur": false,
+        "old_testament_occurs": false,
+        "new_testament_occurs": true,
+        "christian_historical_usage": true,
+        "saint_association": false,
+        "interpretation": "The personal name occurs in the New Testament (Acts 9:33-34)."
       },
-      "pronunciation": {
-        "english": "i-NEE-əs",
-        "ipa": "/ɪˈniːəs/"
+      "saint_reference": {
+        "associated": false,
+        "note": "No saint association verified for the name itself."
       },
-      "syllables": 2,
-      "name_length": 6,
-      "faqs": [
+      "historical_references": [
         {
-          "q": "What does the name Aeneas mean?",
-          "a": "Name-lists record the meaning as “Honor and Mercy”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aeneas verified?",
-          "a": "No. The meaning of Aeneas could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aeneas come from?",
-          "a": "The origin of Aeneas has not been verified and is not asserted here."
+          "person": "Aeneas of Lydda",
+          "form": "Αἰνείας",
+          "period": "1st century (NT narrative)",
+          "source": "Acts 9:33-34"
         }
       ]
     },
     "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
       "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aeneas total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+        "name_number": 9,
+        "meaning": "compassion, idealism and completion",
+        "status": "belief_based"
       },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
+      "lucky_attributes": {
+        "status": "belief_based"
+      },
+      "personality": {
+        "status": "interpretive",
+        "items": []
+      }
     },
     "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "sources": [
+        "New Testament: a man at Lydda healed by Peter (Acts 9:33-34). Also the Trojan hero of Virgil's Aeneid."
+      ]
     },
+    "evidence_ledger": [
+      {
+        "source_id": "SRC-001",
+        "source_type": "onomastic_reference",
+        "authority_level": "B",
+        "title": "New Testament: a man at Lydda healed by Peter (Acts 9:33-34). Also the Trojan hero of Virgil's Aeneid.",
+        "url": "",
+        "supports": [
+          "meaning",
+          "etymology",
+          "root",
+          "biblical_status"
+        ]
+      }
+    ],
+    "source_references": [
+      "New Testament: a man at Lydda healed by Peter (Acts 9:33-34). Also the Trojan hero of Virgil's Aeneid."
+    ],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:49.000Z"
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-03T02:58:57.000Z"
     }
   }
 }

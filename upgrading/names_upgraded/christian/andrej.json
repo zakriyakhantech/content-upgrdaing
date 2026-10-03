@@ -3,310 +3,161 @@
   "data": {
     "name": "Andrej",
     "slug": "andrej",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Male",
-    "gender_notes": "Andrej is used as a male name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Andrej",
+    "normalized_name": "andrej",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Saint",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Man, warrior",
-    "long_meaning": "The meaning of Andrej is recorded in name-lists as “Man, warrior”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Andrej expresses “Man, warrior”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-n-d-r-e-j",
-    "syllables": 2,
-    "name_length": 6,
-    "transliteration": [
-      "Andrej"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Grey",
-      "Smoke"
-    ],
-    "lucky_stone": "Cat's Eye",
-    "ruling_planet": "Ketu",
-    "life_path_number": 7,
-    "numerology_meaning": "In Pythagorean numerology the letters of Andrej total 25, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-    "in_hebrew": {
-      "name": "Andrey",
-      "meaning": "man",
-      "long_meaning": "man, warrior, masculine"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Andreas",
-      "meaning": "man, warrior, masculine",
-      "long_meaning": "Andreas is derived from the Greek word ἀνδρεᾶς (andreas), which means 'man, warrior, masculine'."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Andreas",
-      "meaning": "man, warrior, masculine",
-      "long_meaning": "Andreas is derived from the Greek name ἀνδρεᾶς (andreas), which was adopted into Latin as Andras or Andreas."
-    },
-    "in_english": {
-      "name": "Andrej",
-      "meaning": "Man, warrior",
-      "long_meaning": "Man, warrior"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AN-drew",
-      "biblical": "AN-dre-as",
-      "ipa": "[əˈn.drə.w]"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Andrej"
-    ],
-    "variants": [
-      "Andrej"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Andrej is used in Biblical naming tradition with the meaning “Man, warrior”.",
-    "spiritual_significance": "Any spiritual significance attached to Andrej is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Man, warrior” is the basis of any symbolism attached to Andrej; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": true,
-      "origin_scripture": "New Testament",
-      "verse_reference": "Acts 1:13, John 1:41-42",
-      "note": "Andrew is mentioned in the New Testament as a disciple of Jesus."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Andrej."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AndrejMeaning",
-      "#ChristianBabyNames"
-    ],
-    "monetization": {
-      "google_ad_sense": "ca-pub-1234567890123456"
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Andrej Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Andrej has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Andrej, Andrej name meaning, Andrej meaning, Andrej origin, Andrej root, Andrej pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Andrej has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Andrej name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Andrej Name Meaning & Origin | NameVerse",
+      "meta_description": "Andrej: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Andrej",
-        "Andrej name meaning",
-        "Andrej meaning",
-        "Andrej origin",
-        "Andrej root",
-        "Andrej pronunciation",
-        "Biblical names"
+        "Andrej name meaning"
       ],
-      "focus_keyword": "Andrej name meaning",
-      "secondary_keywords": [
-        "Andrej meaning",
-        "Andrej origin",
-        "Andrej pronunciation",
-        "Andrej lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Andrej mean?",
-          "a": "Name-lists record the meaning as “Man, warrior”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Andrej verified?",
-          "a": "No. The meaning of Andrej could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Andrej come from?",
-          "a": "The origin of Andrej has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Andrej Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Andrej has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Andrej Name Meaning & Origin | NameVerse",
+    "meta_description": "Andrej: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Andrej",
-      "Andrej name meaning",
-      "Andrej meaning",
-      "Andrej origin",
-      "Andrej root",
-      "Andrej pronunciation",
-      "Biblical names"
+      "Andrej name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Andrej has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Andrej",
-      "description": "Andrej — Man, warrior",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Andrej mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Man, warrior”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Andrej verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Andrej could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Andrej come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Andrej has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:16.000Z",
-    "tier1_verified": {
-      "name": "Andrej",
-      "slug": "andrej",
-      "meaning": "Man, warrior",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Andrej",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Man, warrior",
-      "long_meaning": "The name Andrej is recorded with the meaning “Man, warrior”. Andrej is a Biblical name meaning “Man, warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Andrej",
-          "meaning": "Man, warrior",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AN-drew",
-        "ipa": "[əˈn.drə.w]"
-      },
-      "syllables": 2,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "What does the name Andrej mean?",
-          "a": "Name-lists record the meaning as “Man, warrior”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Andrej verified?",
-          "a": "No. The meaning of Andrej could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Andrej come from?",
-          "a": "The origin of Andrej has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 7,
-        "life_path_number": 7,
-        "ruling_planet": "Ketu",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Cat's Eye",
-        "lucky_colors": [
-          "Grey",
-          "Smoke"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Andrej total 25, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:14:14.000Z",
+    "updated_at": "2026-10-03T03:14:14.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -315,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:16.000Z"
+      "processed_at": "2026-10-03T03:14:14.000Z"
     }
   }
 }

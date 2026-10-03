@@ -3,332 +3,161 @@
   "data": {
     "name": "Aindrea",
     "slug": "aindrea",
-    "language": [
-      "English",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Aindrea is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Aindrea",
+    "normalized_name": "aindrea",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Answerer of prayers",
-    "long_meaning": "The meaning of Aindrea is recorded in name-lists as “Answerer of prayers”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aindrea expresses “Answerer of prayers”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-i-n-d-r-e-a",
-    "syllables": 2,
-    "name_length": 7,
-    "transliteration": [
-      "Aindrea"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Grey",
-      "Smoke"
-    ],
-    "lucky_stone": "Cat's Eye",
-    "ruling_planet": "Ketu",
-    "life_path_number": 7,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aindrea total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-    "in_hebrew": {
-      "name": "אינדריאה",
-      "meaning": "ענדריאה הוי אשה חזקה ויפה",
-      "long_meaning": "השם אינדריאה הוא נגזר מהשם היווני אנδρέας, שפירושו גברי או חזק. באותיות עבריות, השם מתורגם לאינדריאה, ומשמעותו היא אשה חזקה ויפה, המושכת אליה גברים ואנשים ברוחניות."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Αϊνδρέα",
-      "meaning": "Αϊνδρέα σημαίνει δυνατή και ωραία γυναίκα",
-      "long_meaning": "Το όνομα Αϊνδρέα είναι μια παραλλαγή του ελληνικού ονόματος Ανδρέας, που σημαίνει ανδρικός ή ισχυρός. Στην ελληνική παράδοση, το όνομα Ανδρέας συνδέεται με τον Απόστολο Ανδρέα, έναν από τους δώδεκα αποστόλους του Ιησού Χριστού."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Aindrea",
-      "meaning": "Aindrea means strong and beautiful woman",
-      "long_meaning": "The name Aindrea is derived from the Greek name Andreas, meaning manly or strong. In Latin tradition, the name Andrea is associated with strength and beauty, reflecting the virtues of the apostle Andrew, one of Jesus' twelve apostles."
-    },
-    "in_english": {
-      "name": "Aindrea",
-      "meaning": "Answerer of prayers",
-      "long_meaning": "Answerer of prayers"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AYN-dree-uh",
-      "biblical": "Ανδρέας (An-dre-as)",
-      "ipa": "/ˈeɪndriːə/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Aindrea"
-    ],
-    "variants": [
-      "Aindrea"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Aindrea is used in Biblical naming tradition with the meaning “Answerer of prayers”.",
-    "spiritual_significance": "Any spiritual significance attached to Aindrea is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Answerer of prayers” is the basis of any symbolism attached to Aindrea; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "",
-      "verse_reference": "",
-      "note": ""
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aindrea."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AindreaMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Aindrea"
-    ],
-    "monetization": {
-      "ad_places": [
-        {
-          "type": "banner",
-          "position": "top"
-        },
-        {
-          "type": "native",
-          "position": "bottom"
-        }
-      ],
-      "affiliate_links": [
-        {
-          "text": "Shop for Baby Clothes & Accessories with the Name Aindrea",
-          "url": "https://babynames.com/shop?name=aindrea"
-        },
-        {
-          "text": "Explore more Greek & Christian Names for Baby Girls",
-          "url": "https://babynames.com/names?category=greek&religion=christian&gender=female"
-        }
-      ]
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Aindrea Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aindrea has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aindrea, Aindrea name meaning, Aindrea meaning, Aindrea origin, Aindrea root, Aindrea pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Aindrea has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Aindrea name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Aindrea Name Meaning & Origin | NameVerse",
+      "meta_description": "Aindrea: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Aindrea",
-        "Aindrea name meaning",
-        "Aindrea meaning",
-        "Aindrea origin",
-        "Aindrea root",
-        "Aindrea pronunciation",
-        "Biblical names"
+        "Aindrea name meaning"
       ],
-      "focus_keyword": "Aindrea name meaning",
-      "secondary_keywords": [
-        "Aindrea meaning",
-        "Aindrea origin",
-        "Aindrea pronunciation",
-        "Aindrea lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aindrea mean?",
-          "a": "Name-lists record the meaning as “Answerer of prayers”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aindrea verified?",
-          "a": "No. The meaning of Aindrea could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aindrea come from?",
-          "a": "The origin of Aindrea has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Aindrea Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aindrea has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Aindrea Name Meaning & Origin | NameVerse",
+    "meta_description": "Aindrea: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Aindrea",
-      "Aindrea name meaning",
-      "Aindrea meaning",
-      "Aindrea origin",
-      "Aindrea root",
-      "Aindrea pronunciation",
-      "Biblical names"
+      "Aindrea name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Aindrea has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aindrea",
-      "description": "Aindrea — Answerer of prayers",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aindrea mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Answerer of prayers”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aindrea verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aindrea could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aindrea come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aindrea has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:04:52.000Z",
-    "tier1_verified": {
-      "name": "Aindrea",
-      "slug": "aindrea",
-      "meaning": "Answerer of prayers",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aindrea",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Answerer of prayers",
-      "long_meaning": "The name Aindrea is recorded with the meaning “Answerer of prayers”. Aindrea is a Biblical name meaning “Answerer of prayers”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aindrea",
-          "meaning": "Answerer of prayers",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AYN-dree-uh",
-        "ipa": "/ˈeɪndriːə/"
-      },
-      "syllables": 2,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Aindrea mean?",
-          "a": "Name-lists record the meaning as “Answerer of prayers”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aindrea verified?",
-          "a": "No. The meaning of Aindrea could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aindrea come from?",
-          "a": "The origin of Aindrea has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 7,
-        "life_path_number": 7,
-        "ruling_planet": "Ketu",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Cat's Eye",
-        "lucky_colors": [
-          "Grey",
-          "Smoke"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aindrea total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:01:00.000Z",
+    "updated_at": "2026-10-03T03:01:00.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -337,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:52.000Z"
+      "processed_at": "2026-10-03T03:01:00.000Z"
     }
   }
 }

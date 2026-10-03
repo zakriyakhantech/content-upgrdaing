@@ -3,315 +3,161 @@
   "data": {
     "name": "Araceli",
     "slug": "araceli",
-    "language": [
-      "English",
-      "Hebrew",
-      "Greek",
-      "Latin"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Araceli is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "Araceli",
+    "normalized_name": "araceli",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Saint",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Celestial Ascension",
-    "long_meaning": "The meaning of Araceli is recorded in name-lists as “Celestial Ascension”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Araceli expresses “Celestial Ascension”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-r-a-c-e-l-i",
-    "syllables": 4,
-    "name_length": 7,
-    "transliteration": [
-      "Araceli"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Grey",
-      "Blue"
-    ],
-    "lucky_stone": "Hessonite",
-    "ruling_planet": "Rahu",
-    "life_path_number": 4,
-    "numerology_meaning": "In Pythagorean numerology the letters of Araceli total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-    "in_hebrew": {
-      "name": "ערצלי",
-      "meaning": "נשמת האל, עליית הכוכבים, חסד, רחמים",
-      "long_meaning": "ערצלי היא שם יהודי-נוצרי המקורב לעברית, שמשמעותו 'נשמת האל' או 'עליית הכוכבים'. השם נזכר בספר 'האלף בית' של סופר הספרות העברית, אברהם בן שמוע, במאה ה-12. במסורת היהודית, נשמה נחשבת לאבן הצור והרכיבה הנפשית. במסורת הנוצרית, נשמה נחשבת לאבן האמונה והכלים הדרושים לקבלת האל. השם ערצלי, עשוי לבוא מהמילה 'רצל' בעברית, שמשמעותה 'חסד' ו'רחמים'."
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "ΑΡΑΚΗΛΗ",
-      "meaning": "απάντηση Θεού, αύξηση των άστρων, χάρις, οίκτος",
-      "long_meaning": "ΑΡΑΚΗΛΗ είναι χριστιανικό όνομα με εβραϊκή προέλευση, που σημαίνει 'απάντηση Θεού' ή 'αύξηση των άστρων'. Το όνομα παραχαράκτηκε από τον σλαβικό πολιτισμό και χρησιμοποιήθηκε για πρώτη φορά στη Βυζαντινή Αυτοκρατορία. Η ελληνιστική εποχή έφερε στο προσκήνιο την ονομασία της Αράχηλο, η οποία ήταν ο τίτλος της θεάς του ουρανού. Το όνομα της Αράχηλο εμφανίζεται στον Κώδικα του Αμβροσίου. Η προέλευση του ονόματος είναι δύσκολη να εντοπιστεί, αλλά σίγουρα σχετίζεται με την εβραϊκή ρίζα 'רצל' που σημαίνει 'χάρις' και 'οίκτος'."
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Araceli",
-      "meaning": "responsum Dei, auge stellae, gratia, misericordia",
-      "long_meaning": "Araceli est nomen Christianum, quod originem habet ex lingua Hebraica. Significat 'responsum Dei' aut 'auge stellae'. Nomen hoc primo in Imperio Byzantino utendum fuit. Aetas Graeca in lucem projecit nomen Arahelo, titulum Deae Caeli. Arahelo in Codice Aemiliani apparuit. Originem nominis difficile est determinare, sed certe ad radicem Hebraicam 'Ratsel' pertinet, quae significat 'gratia' et 'misericordia'."
-    },
-    "in_english": {
-      "name": "Araceli",
-      "meaning": "Celestial Ascension",
-      "long_meaning": "Celestial Ascension"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AR-uh-SEH-lee",
-      "biblical": "Arakel (Hebrew)",
-      "ipa": "/ˌɑrəˈsɛli/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "Araceli"
-    ],
-    "variants": [
-      "Araceli"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Araceli is used in Biblical naming tradition with the meaning “Celestial Ascension”.",
-    "spiritual_significance": "Any spiritual significance attached to Araceli is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Celestial Ascension” is the basis of any symbolism attached to Araceli; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "note": "The name Araceli has Hebrew root, but there is no direct biblical reference to the name."
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Araceli."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AraceliMeaning",
-      "#ChristianBabyNames",
-      "#BibleNames",
-      "#ChristianNames",
-      "#Araceli"
-    ],
-    "monetization": {
-      "google_adsense": {
-        "pub_id": "ca-pub-1234567890123456"
-      }
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "Araceli Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Araceli has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Araceli, Araceli name meaning, Araceli meaning, Araceli origin, Araceli root, Araceli pronunciation, Biblical names",
-      "description_paragraph": "The meaning of Araceli has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "Araceli name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "Araceli Name Meaning & Origin | NameVerse",
+      "meta_description": "Araceli: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "Araceli",
-        "Araceli name meaning",
-        "Araceli meaning",
-        "Araceli origin",
-        "Araceli root",
-        "Araceli pronunciation",
-        "Biblical names"
+        "Araceli name meaning"
       ],
-      "focus_keyword": "Araceli name meaning",
-      "secondary_keywords": [
-        "Araceli meaning",
-        "Araceli origin",
-        "Araceli pronunciation",
-        "Araceli lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Araceli mean?",
-          "a": "Name-lists record the meaning as “Celestial Ascension”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Araceli verified?",
-          "a": "No. The meaning of Araceli could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Araceli come from?",
-          "a": "The origin of Araceli has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "Araceli Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Araceli has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "Araceli Name Meaning & Origin | NameVerse",
+    "meta_description": "Araceli: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "Araceli",
-      "Araceli name meaning",
-      "Araceli meaning",
-      "Araceli origin",
-      "Araceli root",
-      "Araceli pronunciation",
-      "Biblical names"
+      "Araceli name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of Araceli has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Araceli",
-      "description": "Araceli — Celestial Ascension",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Araceli mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Celestial Ascension”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Araceli verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Araceli could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Araceli come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Araceli has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:26.000Z",
-    "tier1_verified": {
-      "name": "Araceli",
-      "slug": "araceli",
-      "meaning": "Celestial Ascension",
-      "origin": "Biblical",
-      "language": [
-        "English",
-        "Hebrew",
-        "Greek",
-        "Latin"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Araceli",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Celestial Ascension",
-      "long_meaning": "The name Araceli is recorded with the meaning “Celestial Ascension”. Araceli is a Biblical name meaning “Celestial Ascension”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Araceli",
-          "meaning": "Celestial Ascension",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AR-uh-SEH-lee",
-        "ipa": "/ˌɑrəˈsɛli/"
-      },
-      "syllables": 4,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Araceli mean?",
-          "a": "Name-lists record the meaning as “Celestial Ascension”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Araceli verified?",
-          "a": "No. The meaning of Araceli could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Araceli come from?",
-          "a": "The origin of Araceli has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 4,
-        "life_path_number": 4,
-        "ruling_planet": "Rahu",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Hessonite",
-        "lucky_colors": [
-          "Grey",
-          "Blue"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Araceli total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:17:53.000Z",
+    "updated_at": "2026-10-03T03:17:53.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -320,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:26.000Z"
+      "processed_at": "2026-10-03T03:17:53.000Z"
     }
   }
 }

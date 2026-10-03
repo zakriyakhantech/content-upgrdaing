@@ -3,310 +3,161 @@
   "data": {
     "name": "April",
     "slug": "april",
-    "language": [
-      "English"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "April is used as a unisex name in christian naming traditions.",
-    "origin": "Biblical",
+    "name_type": "given_name",
+    "entity_type": "name",
+    "display_name": "April",
+    "normalized_name": "april",
+    "language": [],
+    "gender": "",
+    "gender_confidence": "UNKNOWN",
+    "gender_note": "Gender could not be established from a verified source.",
+    "origin": "",
+    "origin_detail": "",
     "religion": "christian",
-    "category": "Biblical",
-    "culture": [
-      "Biblical"
-    ],
-    "short_meaning": "Opening month",
-    "long_meaning": "The meaning of April is recorded in name-lists as “Opening month”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "April expresses “Opening month”; spiritual readings of the name are interpretive.",
+    "christian_status": {
+      "is_christian_name": null,
+      "confidence": "UNKNOWN",
+      "classification": "unverified",
+      "explanation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "category": "christian",
+    "name_meaning": {
+      "primary": "",
+      "alternative_gloss": "",
+      "meaning_type": "unverified",
+      "confidence": "UNKNOWN",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "short_meaning": "",
+    "long_meaning": "",
+    "etymology": {
+      "components": [],
+      "formation": "",
+      "not_supported": []
+    },
+    "lexical_senses": [],
+    "spiritual_meaning": "",
+    "spiritual_meaning_status": "unavailable",
+    "spiritual_meaning_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Biblical",
-    "root_letters": "a-p-r-i-l",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "April"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Silver"
-    ],
-    "lucky_stone": "Pearl",
-    "ruling_planet": "Moon",
-    "life_path_number": 2,
-    "numerology_meaning": "In Pythagorean numerology the letters of April total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-    "in_hebrew": {
-      "name": "אפריל",
-      "meaning": "חודש האביב היפה",
-      "long_meaning": "חודש האביב היפה, ללא משמעות תנכית ישירה, אך מסמל את תחילת האביב והחיים החדשים"
+    "personality_note": "No empirical personality traits can be inferred from the name.",
+    "numerology": {
+      "enabled": false,
+      "status": "not_applicable",
+      "disclaimer": "Not computed - the name identity is unverified."
     },
-    "in_greek": {
-      "name": "Απρίλιος",
-      "meaning": "ο美麗ς μήνας του Άνοιξη",
-      "long_meaning": "ο美麗ς μήνας του Άνοιξη, χωρίς άμεση βιβλική σημασία, αλλά συμβολίζει την έναρξη της Άνοιξης και της νέας ζωής"
+    "lucky_attributes": {
+      "status": "not_applicable"
     },
-    "in_latin": {
-      "name": "Aprilis",
-      "meaning": "mensis veris",
-      "long_meaning": "mensis veris, qui initium veris et vitae novae significat, sine directa biblica significatione, sed symbolizans initiationem veris et vitae novae"
-    },
-    "in_english": {
-      "name": "April",
-      "meaning": "Opening month",
-      "long_meaning": "Opening month"
-    },
+    "translations": {},
+    "scripts": {},
     "pronunciation": {
-      "english": "AP-ril",
-      "biblical": "not applicable",
-      "ipa": "/ˈæprɪl/"
+      "english_approximation": "",
+      "status": "unverified"
     },
-    "name_variations": [
-      "April"
-    ],
-    "variants": [
-      "April"
-    ],
+    "biblical_status": {
+      "exact_name_form_occurs": null,
+      "exact_lexical_form_occurs": null,
+      "root_or_lemma_occurs": null,
+      "related_forms_occur": null,
+      "old_testament_occurs": null,
+      "new_testament_occurs": null,
+      "christian_historical_usage": null,
+      "saint_association": null,
+      "interpretation": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "saint_reference": {
+      "associated": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "historical_references": [],
+    "historical_note": "No specific historical bearer was verified.",
+    "notable_people": [],
+    "notable_people_note": "No exact-name bearer could be verified from the sources consulted.",
+    "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity usage was established.",
+    "cultural_impact": "",
+    "cultural_impact_note": "no verified lexicon entry - meaning not established, flagged for manual verification",
+    "spiritual_significance": {
+      "status": "unavailable",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "modern_usage": {
+      "status": "unverified",
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
+    },
+    "name_in_real_life": null,
+    "spiritual_symbolism": "",
+    "social_tags": [],
+    "name_variations": [],
+    "variants": [],
     "diminutives": [],
     "nicknames": [],
     "related_names": [],
     "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
+    "popularity": {
+      "type": "unavailable",
+      "score": null,
+      "score_status": "unavailable",
+      "by_region": [],
+      "source_note": "No official statistics verified."
+    },
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "April is used in Biblical naming tradition with the meaning “Opening month”.",
-    "spiritual_significance": "Any spiritual significance attached to April is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Opening month” is the basis of any symbolism attached to April; such symbolism is interpretive.",
+    "popularity_note": "No official birth-registry statistics were verified.",
     "biblical_reference": {
-      "is_biblical": false,
-      "origin_scripture": "not applicable",
-      "verse_reference": "not applicable",
-      "note": "not a biblical name, but a month in the Roman calendar"
+      "occurs": null,
+      "old_testament": null,
+      "new_testament": null,
+      "note": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for April."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AprilMeaning",
-      "#ChristianBabyNames",
-      "#SeasonalNames",
-      "#April"
-    ],
-    "monetization": {
-      "display_ads": true,
-      "affiliate_links": true,
-      "sponsored_content": true
-    },
-    "user_engagement": {},
-    "social_optimization": {},
-    "accessibility": {},
     "seo": {
-      "title": "April Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of April has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "April, April name meaning, April meaning, April origin, April root, April pronunciation, Biblical names",
-      "description_paragraph": "The meaning of April has not been verified against a reliable source. This record is flagged for manual verification.",
+      "primary_search_intent": "April name meaning",
+      "secondary_search_intents": [],
+      "seo_title": "April Name Meaning & Origin | NameVerse",
+      "meta_description": "April: meaning and origin not yet verified against a reliable source.",
+      "description_paragraph": "",
       "keywords": [
-        "April",
-        "April name meaning",
-        "April meaning",
-        "April origin",
-        "April root",
-        "April pronunciation",
-        "Biblical names"
+        "April name meaning"
       ],
-      "focus_keyword": "April name meaning",
-      "secondary_keywords": [
-        "April meaning",
-        "April origin",
-        "April pronunciation",
-        "April lucky number"
+      "faq": [],
+      "search_snippet_guardrails": [
+        "No unverified claim is published."
       ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name April mean?",
-          "a": "Name-lists record the meaning as “Opening month”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of April verified?",
-          "a": "No. The meaning of April could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name April come from?",
-          "a": "The origin of April has not been verified and is not asserted here."
-        }
-      ]
+      "seo_score": 0,
+      "seo_score_basis": "Not scored - name identity unverified, no content published."
     },
-    "seo_title": "April Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of April has not been verified against a reliable source. This record is flagged for manual verification.",
+    "seo_title": "April Name Meaning & Origin | NameVerse",
+    "meta_description": "April: meaning and origin not yet verified against a reliable source.",
     "keywords": [
-      "April",
-      "April name meaning",
-      "April meaning",
-      "April origin",
-      "April root",
-      "April pronunciation",
-      "Biblical names"
+      "April name meaning"
     ],
     "canonical_url": "",
-    "intro_paragraph": "The meaning of April has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "April",
-      "description": "April — Opening month",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name April mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Opening month”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of April verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of April could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name April come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of April has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
+    "intro_paragraph": "",
+    "structured_data": {},
+    "structured_data_faq": {},
     "structured_data_breadcrumb": {},
     "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
+      "seo_quality": {
+        "factual_integrity": "PASS",
+        "unique_information": "N/A"
       }
     },
     "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
+      "overall": "UNKNOWN",
+      "basis": "no verified lexicon entry - meaning not established, flagged for manual verification"
     },
     "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 69
+      "authenticity_status": "unverified",
+      "previous_record_issues": [],
+      "current_rule": "Authenticity over completeness; unknown is better than invented."
     },
-    "created_at": null,
-    "updated_at": "2026-10-01T04:05:25.000Z",
-    "tier1_verified": {
-      "name": "April",
-      "slug": "april",
-      "meaning": "Opening month",
-      "origin": "Biblical",
-      "language": [
-        "English"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "April",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Opening month",
-      "long_meaning": "The name April is recorded with the meaning “Opening month”. April is a Biblical name meaning “Opening month”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "April",
-          "meaning": "Opening month",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AP-ril",
-        "ipa": "/ˈæprɪl/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name April mean?",
-          "a": "Name-lists record the meaning as “Opening month”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of April verified?",
-          "a": "No. The meaning of April could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name April come from?",
-          "a": "The origin of April has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 2,
-        "life_path_number": 2,
-        "ruling_planet": "Moon",
-        "lucky_day": "Monday",
-        "lucky_stone": "Pearl",
-        "lucky_colors": [
-          "White",
-          "Silver"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of April total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
+    "created_at": "2026-10-03T03:17:46.000Z",
+    "updated_at": "2026-10-03T03:17:46.000Z",
+    "tier1_verified": {},
+    "tier2_explanatory": {},
+    "tier3_interpretive": {},
     "verification": {
       "needs_manual_verification": true,
       "flags": [
@@ -315,11 +166,14 @@
       "confidence": "UNKNOWN",
       "sources": []
     },
+    "evidence_ledger": [],
+    "source_references": [],
+    "change_log": [],
     "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "pipeline": "NameVerse Christian Production v1",
+      "methodology": "Original to Verified to Expanded to Enriched",
       "tier1_verified": false,
-      "processed_at": "2026-10-01T04:05:25.000Z"
+      "processed_at": "2026-10-03T03:17:46.000Z"
     }
   }
 }
